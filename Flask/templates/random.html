@@ -1,0 +1,21 @@
+{% extends 'layout.html' %}
+
+{% block title %}Gerador de Palpites{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/random.css') }}">
+{% endblock %}
+
+{% block scripts %}
+    <script src="js/random.js"></script>
+{% endblock %}
+
+{% block content %}
+    <h1>Gerador de palpites</h1>
+    <button id="btn-palpite">Gerar Palpite</button>
+    <div id="cartao">
+        {% for dezena in range(1, 61) %}
+            <span class="dezena">{{ dezena }}</span>
+        {% endfor %}
+    </div>
+{% endblock %}

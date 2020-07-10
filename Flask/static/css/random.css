@@ -1,0 +1,32 @@
+#cartao {
+    margin: auto;
+    display: grid;
+    width: 50%;
+    grid-template-rows: repeat(6, 1fr);
+    grid-template-columns: repeat(10, 1fr);
+}
+
+.dezena {
+    border: 1px solid green;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    color: green;
+}
+
+.dezena--marcada {
+    color: white;
+    background-color: green;
+    transition: background-color .5s ease;
+}
+
+.dezena--on {
+    background-color: green;
+    transition: background-color .5s ease;
+}
+
+.dezena--off {
+    background-color: white;
+    transition: background-color 2s ease;
+}

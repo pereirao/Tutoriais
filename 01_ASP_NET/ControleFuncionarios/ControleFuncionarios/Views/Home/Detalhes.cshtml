@@ -1,0 +1,22 @@
+﻿@model DetalheViewModel
+<div class="row justify-content-center m-3">
+    <div class="col-sm-8">
+        <div class="card">
+            <div class="card-header">
+                <h2>@Model.Funcionario.Nome</h2>
+            </div>
+            <div class="card-body text-center">
+                <img class="card-img-top" src="~/images/no_image.jpg" asp-append-version="true" alt="Foto do funcionário" />
+                <h4>ID: @Model.Funcionario.Id</h4>
+                <h4>Nome: @Model.Funcionario.Nome</h4>
+                <h4>Email: @Model.Funcionario.Email</h4>
+                <h4>Depto.: @Model.Funcionario.Departamento.Nome</h4>
+            </div>
+            <div class="card-footer text-center">
+                <a href="#" class="btn btn-primary"><i class="fas fa-backward"></i></a>
+                <a href="#" class="btn btn-primary"><i class="fas fa-edit"></i></a>
+                <a href="#" class="btn btn-danger"><i class="fas fa-trash"></i></a>
+            </div>
+        </div>
+    </div>
+</div>

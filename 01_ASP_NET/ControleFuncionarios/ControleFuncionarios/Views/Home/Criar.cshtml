@@ -1,0 +1,29 @@
+﻿@model Funcionario
+
+<form asp-controller="home" asp-action="criar" method="post" class="mt-3">
+    <div class="form-group row">
+        <label asp-for="Nome" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <input asp-for="Nome" class="form-control" placeholder="Nome" />
+        </div>
+    </div>
+    <div class="form-group row">
+        <label asp-for="Email" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <input asp-for="Email" class="form-control" placeholder="Email" />
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="Departamento.Id" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <select asp-for="Departamento.Id"
+                    asp-items="@(new SelectList(ViewBag.Departamentos, "Id", "Nome"))"
+                    class="custom-select mr-sm-2">
+            </select>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Salvar</button>
+    <a asp-controller="home" asp-action="index" class="btn btn-danger">Cancelar</a>
+
+</form>
