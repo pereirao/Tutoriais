@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TypeScript Tutorial</title>
+</head>
+
+<body>
+    <div class="wrapper">
+        <h1>Controle Financeiro</h1>
+        <ul class="item-list"></ul>
+    </div>
+    <footer>
+        <form class="novo-item-form">
+            <div class="field">
+                <label>Tipo:</label>
+                <select id="tipo">
+                    <option value="fatura">Fatura</option>
+                    <option value="pagamento">Pagamento</option>
+                </select>
+            </div>
+            <div class="field">
+                <label>De / Para:</label>
+                <input type="text" id="dePara" />
+            </div>
+            <div class="field">
+                <label>Detalhes</label>
+                <input type="text" id="detalhes" />
+            </div>
+            <div class="field">
+                <label>Valor (R$):</label>
+                <input type="number" id="valor" />
+            </div>
+            <button>Incluir</button>
+        </form>
+        <a href="https://github.com/pereirao">By Pereirão</a>
+    </footer>
+    <script type="module" src="index.ts"></script>
+</body>
+
+</html>

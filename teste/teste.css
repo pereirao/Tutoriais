@@ -1,0 +1,12 @@
+html, *, body {
+    font-family: sans-serif;
+}
+body {
+    background-color: rgb(255, 120, 120);
+}
+.maiusculo {
+	text-transform: uppercase;
+	color: lightblue;
+	font-weight: bold;
+	text-align: center;
+}

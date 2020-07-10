@@ -1,0 +1,14 @@
+<%- include("../partials/head") %>
+<body>
+    <%- include("../partials/nav") %>
+    <div class="details content">
+        <h2><%= blog.title %></h2>
+        <div class="content">
+            <p class="snippet"><%= blog.body %></p>
+        </div>
+        <a data-doc="<%= blog._id %>" class="delete"><img src="/img/delete-24px.svg" alt="delete"></a>
+    </div>
+    <%- include("../partials/footer") %>
+    <script src="/js/blog.js" defer></script>
+</body>
+</html>

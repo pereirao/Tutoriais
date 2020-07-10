@@ -1,0 +1,191 @@
+entity,code,population
+"Tuvalu,TUV",10838
+"Nauru,NRU",11845
+"Palau,PLW",18766
+"San Marino,SMR",26937
+"Monaco,MCO",31693
+"Liechtenstein,LIE",32204
+"Saint Kitts and Nevis,KNA",38819
+"Marshall Islands,MHL",53064
+"Andorra,AND",66824
+"Dominica,DMA",71000
+"Antigua and Barbuda,ATG",75000
+"Seychelles,SYC",79326
+"Grenada,GRD",89312
+"Kiribati,KIR",91985
+"Tonga,TON",102321
+"Micronesia (country),FSM",107754
+"Saint Vincent and the Grenadines,VCT",108000
+"Saint Lucia,LCA",153000
+"Sao Tome and Principe,STP",159883
+"Vanuatu,VUT",189618
+"Samoa,WSM",197000
+"Belize,BLZ",247887
+"Barbados,BRB",274000
+"Iceland,ISL",281043
+"Bahamas,BHS",290075
+"Maldives,MDV",300000
+"Brunei,BRN",325000
+"Malta,MLT",389947
+"Cape Verde,CPV",402000
+"Djibouti,DJI",430822
+"Suriname,SUR",432000
+"Luxembourg,LUX",438777
+"Solomon Islands,SLB",466194
+"Equatorial Guinea,GNQ",491000
+"Comoros,COM",579000
+"Bhutan,BTN",606000
+"Qatar,QAT",627000
+"Bahrain,BHR",634137
+"Montenegro,MNE",732302
+"Guyana,GUY",755171
+"Cyprus,CYP",758363
+"Fiji,FJI",833000
+"Timor,TLS",846599
+"Swaziland,SWZ",1109750
+"Mauritius,MUS",1186000
+"Gabon,GAB",1236000
+"Trinidad and Tobago,TTO",1252000
+"Guinea-Bissau,GNB",1279000
+"Gambia,GMB",1367884
+"Estonia,EST",1379835
+"Botswana,BWA",1680000
+"Namibia,NAM",1893000
+"Kuwait,KWT",1973572
+"Slovenia,SVN",2010557
+"Macedonia,MKD",2014512
+"Lesotho,LSO",2068000
+"Latvia,LVA",2376178
+"Mauritania,MRT",2501000
+"Oman,OMN",2534000
+"Jamaica,JAM",2615467
+"Mongolia,MNG",2664000
+"Liberia,LBR",2695000
+"Panama,PAN",2900000
+"Armenia,ARM",3042556
+"Congo,COG",3104000
+"United Arab Emirates,ARE",3219000
+"Uruguay,URY",3328000
+"Albania,ALB",3473835
+"Lebanon,LBN",3581000
+"Lithuania,LTU",3654387
+"Costa Rica,CRI",3710558
+"Ireland,IRL",3791690
+"New Zealand,NZL",3802000
+"Central African Republic,CAF",3940000
+"Bosnia and Herzegovina,BIH",4035457
+"Singapore,SGP",4036753
+"Eritrea,ERI",4197000
+"Turkmenistan,TKM",4385000
+"Croatia,HRV",4410830
+"Moldova,MDA",4430654
+"Norway,NOR",4492400
+"Togo,TGO",4711655
+"Georgia,GEO",4777209
+"Sierra Leone,SLE",4816000
+"Kyrgyzstan,KGZ",4851054
+"Papua New Guinea,PNG",4934000
+"Nicaragua,NIC",4935000
+"Jordan,JOR",4998564
+"Libya,LBY",5115450
+"Finland,FIN",5168595
+"Denmark,DNK",5337416
+"Slovakia,SVK",5400320
+"Laos,LAO",5497733
+"Paraguay,PRY",5592000
+"Israel,ISR",6115000
+"El Salvador,SLV",6126000
+"Tajikistan,TJK",6230000
+"Honduras,HND",6347658
+"Benin,BEN",6619000
+"Burundi,BDI",6621126
+"Switzerland,CHE",7266920
+"Somalia,SOM",7386000
+"Haiti,HTI",7639000
+"Azerbaijan,AZE",7809000
+"Bulgaria,BGR",7818495
+"Chad,TCD",7943000
+"Austria,AUT",8113413
+"Bolivia,BOL",8195000
+"Rwanda,RWA",8278000
+"Guinea,GIN",8350000
+"Dominican Republic,DOM",8410000
+"Sweden,SWE",8872000
+"Tunisia,TUN",9568000
+"Mali,MLI",10049000
+"Serbia,SRB",10117908
+"Hungary,HUN",10137449
+"Zambia,ZMB",10205000
+"Belgium,BEL",10263618
+"Czech Republic,CZE",10270128
+"Portugal,PRT",10335597
+"Belarus,BLR",10366719
+"Angola,AGO",10377000
+"Greece,GRC",10559110
+"Senegal,SEN",10678000
+"Niger,NER",10951000
+"Guatemala,GTM",11085000
+"Cuba,CUB",11106000
+"Malawi,MWI",11560000
+"Burkina Faso,BFA",11588000
+"Zimbabwe,ZWE",11820000
+"Cambodia,KHM",12396000
+"Ecuador,ECU",12446000
+"Kazakhstan,KAZ",15032140
+"Chile,CHL",15156000
+"Cameroon,CMR",15343000
+"Madagascar,MDG",15742000
+"Netherlands,NLD",15907853
+"Syria,SYR",16305659
+"Cote d'Ivoire,CIV",16885000
+"Yemen,YEM",17495000
+"Mozambique,MOZ",18125000
+"Australia,AUS",19053000
+"Sri Lanka,LKA",19436000
+"Ghana,GHA",19736000
+"North Korea,PRK",21263000
+"Malaysia,MYS",21804000
+"Romania,ROU",22451921
+"Iraq,IRQ",22675617
+"Saudi Arabia,SAU",23147000
+"Venezuela,VEN",23493000
+"Afghanistan,AFG",23898198
+"Uganda,UGA",23956000
+"Nepal,NPL",24818000
+"Uzbekistan,UZB",25042000
+"Peru,PER",26087000
+"Morocco,MAR",30184000
+"Algeria,DZA",30429000
+"Kenya,KEN",30508000
+"Canada,CAN",31100000
+"Tanzania,TZA",33712000
+"Argentina,ARG",37336000
+"Poland,POL",38654164
+"Colombia,COL",39817000
+"Spain,ESP",40016081
+"Myanmar,MMR",44301000
+"South Africa,ZAF",45064000
+"South Korea,KOR",46839000
+"Ukraine,UKR",49007559
+"Democratic Republic of Congo,COD",51849000
+"Italy,ITA",57719337
+"United Kingdom,GBR",59522468
+"France,FRA",61137000
+"Thailand,THA",61862928
+"Iran,IRN",63273000
+"Ethiopia,ETH",64165000
+"Turkey,TUR",67329000
+"Egypt,EGY",70512000
+"Vietnam,VNM",79060410
+"Philippines,PHL",81222000
+"Germany,DEU",82187909
+"Mexico,MEX",99926620
+"Nigeria,NGA",123179000
+"Japan,JPN",126179000
+"Bangladesh,BGD",136681000
+"Pakistan,PAK",146405000
+"Russia,RUS",146710000
+"Brazil,BRA",176320000
+"United States,USA",282158000
+"India,IND",1004124000
+"China,CHN",1262645000

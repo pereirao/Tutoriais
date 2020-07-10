@@ -1,0 +1,13 @@
+$font-stack: Helvetica, Arial, sans-serif;
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: $font-stack;
+    line-height: 1.6;
+}
+

@@ -1,0 +1,6 @@
+Para resolver o exercício proposto 1. abra o arquivo calcula_valores_acoes e 
+leia os comentários adicionados no topo dele.
+
+Depois implemente corretamente o arquivo de funcoes auxiliares.py, mande executar o arquivo e veja se obtem o mesmo resultado que na foto!
+
+Tente brincar com outras ações para ver se consegue analisar um pouco mais do mercado!
