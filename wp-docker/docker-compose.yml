@@ -5,7 +5,8 @@ services:
         image: wordpress
         restart: always
         volumes:
-            - ./src:/var/www/html/wp-content/plugins/plugin-teste
+            - ./src/plugin-teste:/var/www/html/wp-content/plugins/plugin-teste
+            - ./src/tema-teste:/var/www/html/wp-content/themes/tema-teste
         ports:
             - "8080:80"
         environment:
@@ -22,7 +23,7 @@ services:
             MYSQL_PASSWORD: wppass
             MYSQL_RANDOM_ROOT_PASSWORD: '1'
         volumes:
-            - db:/var/lib/mysql
+            - ./db:/var/lib/mysql
         restart: always
 
     # adminer:
