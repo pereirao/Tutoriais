@@ -19,8 +19,8 @@ get_header(); ?>
 			get_template_part('template-parts/content', get_post_format());
 
 			the_post_navigation(array(
-				'prev_text' => '<button type="button" name="" id="" class="btn btn-outline-primary btn-sm btn-block">%title</button>',
-				'next_text' => '<button type="button" class="btn btn-outline-primary btn-sm btn-block">%title <img src="' . get_theme_file_uri() . '/icons/arrow-right-square.svg" width="16" height="16" class="text-warning"></button>'
+				'prev_text' => '<button type="button" class="btn btn-outline-primary btn-sm btn-block">%title</button>',
+				'next_text' => '<button type="button" class="btn btn-outline-primary btn-sm btn-block">%title</button>'
 			));
 
 		endwhile; // End of the loop.
