@@ -1,0 +1,17 @@
+/*
+Theme Name: Phoenix
+Author: Alexandre Pereira
+Description: Phoenix Landing Page
+Version: 0.0.1
+Tags: phoenix
+*/
+
+.header-section {
+    width: 100%;
+    background: url(assets/img/phoenix-cabecalho.png);
+}
+
+.header-section__image {
+    width: 100%;
+    visibility: hidden;
+}
