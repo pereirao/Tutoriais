@@ -1,0 +1,18 @@
+{
+  "name": "bootstrap-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass src/scss:public",
+    "sass-watch": "sass --watch src/scss:public"
+  },
+  "author": "Alexandre Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "sass": "^1.26.10"
+  }
+}
