@@ -18229,7 +18229,7 @@ video {
   text-transform: uppercase;
   font-weight: 700;
   border-radius: 9999px;
-  padding: 0.5rem;
+  padding: 0.25rem;
   position: absolute;
   top: 0;
   margin-left: 0.5rem;
@@ -18247,6 +18247,32 @@ video {
   font-weight: 700;
   cursor: pointer;
   letter-spacing: 0.05em;
+}
+
+.btn-more {
+  --bg-opacity: 1;
+  background-color: #e2e2d5;
+  background-color: rgba(226, 226, 213, var(--bg-opacity));
+  --text-opacity: 1;
+  color: #888883;
+  color: rgba(136, 136, 131, var(--text-opacity));
+  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
+  transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+  transition-duration: 300ms;
+}
+
+.btn-more:hover {
+  --transform-translate-x: 0;
+  --transform-translate-y: 0;
+  --transform-rotate: 0;
+  --transform-skew-x: 0;
+  --transform-skew-y: 0;
+  --transform-scale-x: 1;
+  --transform-scale-y: 1;
+  transform: translateX(var(--transform-translate-x)) translateY(var(--transform-translate-y)) rotate(var(--transform-rotate)) skewX(var(--transform-skew-x)) skewY(var(--transform-skew-y)) scaleX(var(--transform-scale-x)) scaleY(var(--transform-scale-y));
+  --transform-scale-x: 1.25;
+  --transform-scale-y: 1.25;
+  --bg-opacity: 0.5;
 }
 
 @media (min-width: 640px){
