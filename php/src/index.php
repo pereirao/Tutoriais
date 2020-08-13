@@ -11,25 +11,15 @@
   </head>
   <body>
     <div class="container">
-        <?php
-        class Pessoa {
-            private $_nome;
-            private $_nascimento;
-            private $_genero;
-            
-            public function atribuirPessoa($nome, $nascimento, $genero) {
-                $this->_nome = $nome;
-                $this->_nascimento = $nascimento;
-                $this->_genero = $genero;
-            }
-        }
-        $novaPessoa = new Pessoa();
-        $novaPessoa->atribuirPessoa("Alexandre", new DateTime("1971-03-22"), "M");
-        echo "<pre>";
-        var_dump($novaPessoa);
-        echo "</pre>";
-
-        ?>
+    <form action="post.php?valido=true" method="put">
+      <div class="form-group">
+        <label for="txt-nome">Nome</label>
+        <input type="text"
+          class="form-control" name="txt-nome" id="txt-nome" aria-describedby="Nome" placeholder="nome">
+        <small id="Nome" class="form-text text-muted">Nome</small>
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
     </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
