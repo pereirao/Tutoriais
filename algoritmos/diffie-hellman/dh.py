@@ -1,11 +1,11 @@
 import random
 
-GEN = 17
-BASE = 9725485
+GEN = 19
+BASE = 97254857
 
 class author:
     def __init__(self):
-        self.secret = random.choice(range(100, 301))
+        self.secret = random.choice(range(1000, 3001))
 
     def public_hash(self):
         return (GEN ** self.secret) % BASE
