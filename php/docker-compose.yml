@@ -3,7 +3,6 @@ version: "3.7"
 services:
   nginx-php:
     image: webdevops/php-nginx-dev
-    restart: "no"
     volumes:
       - ./src:/app
     ports:
