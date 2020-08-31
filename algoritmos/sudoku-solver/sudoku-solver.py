@@ -59,4 +59,5 @@ def solve():
 
 print_sudoku()
 
+solve()
 
