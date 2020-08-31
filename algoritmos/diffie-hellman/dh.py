@@ -1,11 +1,12 @@
 import random
+import gmpy2
 
-GEN = 19
-BASE = 97254857
+GEN = 7
+BASE = 975857477387853487
 
 class author:
     def __init__(self):
-        self.secret = random.choice(range(1000, 3001))
+        self.secret = random.randint(1, BASE)
 
     def public_hash(self):
         return (GEN ** self.secret) % BASE
