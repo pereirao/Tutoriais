@@ -235,6 +235,7 @@ Afghanistan,AFG,"Aug 29, 2020",36.015
 Afghanistan,AFG,"Aug 30, 2020",36.015
 Afghanistan,AFG,"Aug 31, 2020",36.015
 Afghanistan,AFG,"Sep 1, 2020",36.118
+Afghanistan,AFG,"Sep 2, 2020",36.118
 Albania,ALB,"Mar 9, 2020",0
 Albania,ALB,"Mar 10, 2020",0
 Albania,ALB,"Mar 11, 2020",0
@@ -412,6 +413,7 @@ Albania,ALB,"Aug 29, 2020",94.169
 Albania,ALB,"Aug 30, 2020",95.559
 Albania,ALB,"Aug 31, 2020",97.297
 Albania,ALB,"Sep 1, 2020",98.686
+Albania,ALB,"Sep 2, 2020",100.771
 Algeria,DZA,"Dec 31, 2019",0
 Algeria,DZA,"Jan 1, 2020",0
 Algeria,DZA,"Jan 2, 2020",0
@@ -653,6 +655,7 @@ Algeria,DZA,"Aug 29, 2020",33.819
 Algeria,DZA,"Aug 30, 2020",34.001
 Algeria,DZA,"Aug 31, 2020",34.23
 Algeria,DZA,"Sep 1, 2020",34.435
+Algeria,DZA,"Sep 2, 2020",34.617
 Andorra,AND,"Mar 3, 2020",0
 Andorra,AND,"Mar 14, 2020",0
 Andorra,AND,"Mar 16, 2020",0
@@ -825,6 +828,7 @@ Andorra,AND,"Aug 29, 2020",685.951
 Andorra,AND,"Aug 30, 2020",685.951
 Andorra,AND,"Aug 31, 2020",685.951
 Andorra,AND,"Sep 1, 2020",685.951
+Andorra,AND,"Sep 2, 2020",685.951
 Angola,AGO,"Mar 22, 2020",0
 Angola,AGO,"Mar 23, 2020",0
 Angola,AGO,"Mar 24, 2020",0
@@ -989,6 +993,7 @@ Angola,AGO,"Aug 29, 2020",3.225
 Angola,AGO,"Aug 30, 2020",3.256
 Angola,AGO,"Aug 31, 2020",3.256
 Angola,AGO,"Sep 1, 2020",3.256
+Angola,AGO,"Sep 2, 2020",3.286
 Anguilla,AIA,"Mar 27, 2020",0
 Anguilla,AIA,"Mar 28, 2020",0
 Anguilla,AIA,"Mar 29, 2020",0
@@ -1148,6 +1153,7 @@ Anguilla,AIA,"Aug 29, 2020",0
 Anguilla,AIA,"Aug 30, 2020",0
 Anguilla,AIA,"Aug 31, 2020",0
 Anguilla,AIA,"Sep 1, 2020",0
+Anguilla,AIA,"Sep 2, 2020",0
 Antigua and Barbuda,ATG,"Mar 15, 2020",0
 Antigua and Barbuda,ATG,"Mar 21, 2020",0
 Antigua and Barbuda,ATG,"Mar 22, 2020",0
@@ -1314,6 +1320,7 @@ Antigua and Barbuda,ATG,"Aug 29, 2020",30.635
 Antigua and Barbuda,ATG,"Aug 30, 2020",30.635
 Antigua and Barbuda,ATG,"Aug 31, 2020",30.635
 Antigua and Barbuda,ATG,"Sep 1, 2020",30.635
+Antigua and Barbuda,ATG,"Sep 2, 2020",30.635
 Argentina,ARG,"Mar 4, 2020",0
 Argentina,ARG,"Mar 6, 2020",0
 Argentina,ARG,"Mar 7, 2020",0
@@ -1493,6 +1500,7 @@ Argentina,ARG,"Aug 29, 2020",179.862
 Argentina,ARG,"Aug 30, 2020",183.756
 Argentina,ARG,"Aug 31, 2020",185.88
 Argentina,ARG,"Sep 1, 2020",188.026
+Argentina,ARG,"Sep 2, 2020",193.16
 Armenia,ARM,"Dec 31, 2019",0
 Armenia,ARM,"Jan 1, 2020",0
 Armenia,ARM,"Jan 2, 2020",0
@@ -1730,6 +1738,7 @@ Armenia,ARM,"Aug 29, 2020",293.261
 Armenia,ARM,"Aug 30, 2020",294.273
 Armenia,ARM,"Aug 31, 2020",295.96
 Armenia,ARM,"Sep 1, 2020",296.635
+Armenia,ARM,"Sep 2, 2020",297.31
 Aruba,ABW,"Mar 13, 2020",0
 Aruba,ABW,"Mar 20, 2020",0
 Aruba,ABW,"Mar 24, 2020",0
@@ -1893,6 +1902,7 @@ Aruba,ABW,"Aug 29, 2020",84.296
 Aruba,ABW,"Aug 30, 2020",93.663
 Aruba,ABW,"Aug 31, 2020",93.663
 Aruba,ABW,"Sep 1, 2020",93.663
+Aruba,ABW,"Sep 2, 2020",93.663
 Australia,AUS,"Dec 31, 2019",0
 Australia,AUS,"Jan 1, 2020",0
 Australia,AUS,"Jan 2, 2020",0
@@ -2139,6 +2149,7 @@ Australia,AUS,"Aug 29, 2020",22.863
 Australia,AUS,"Aug 30, 2020",23.53
 Australia,AUS,"Aug 31, 2020",23.961
 Australia,AUS,"Sep 1, 2020",25.569
+Australia,AUS,"Sep 2, 2020",25.765
 Austria,AUT,"Dec 31, 2019",0
 Austria,AUT,"Jan 1, 2020",0
 Austria,AUT,"Jan 2, 2020",0
@@ -2385,6 +2396,7 @@ Austria,AUT,"Aug 29, 2020",81.387
 Austria,AUT,"Aug 30, 2020",81.387
 Austria,AUT,"Aug 31, 2020",81.387
 Austria,AUT,"Sep 1, 2020",81.387
+Austria,AUT,"Sep 2, 2020",81.498
 Azerbaijan,AZE,"Dec 31, 2019",0
 Azerbaijan,AZE,"Jan 1, 2020",0
 Azerbaijan,AZE,"Jan 2, 2020",0
@@ -2624,6 +2636,7 @@ Azerbaijan,AZE,"Aug 29, 2020",51.977
 Azerbaijan,AZE,"Aug 30, 2020",52.174
 Azerbaijan,AZE,"Aug 31, 2020",52.371
 Azerbaijan,AZE,"Sep 1, 2020",52.667
+Azerbaijan,AZE,"Sep 2, 2020",52.864
 Bahamas,BHS,"Mar 16, 2020",0
 Bahamas,BHS,"Mar 17, 2020",0
 Bahamas,BHS,"Mar 20, 2020",0
@@ -2792,6 +2805,7 @@ Bahamas,BHS,"Aug 29, 2020",101.717
 Bahamas,BHS,"Aug 30, 2020",109.346
 Bahamas,BHS,"Aug 31, 2020",109.346
 Bahamas,BHS,"Sep 1, 2020",111.889
+Bahamas,BHS,"Sep 2, 2020",116.975
 Bahrain,BHR,"Dec 31, 2019",0
 Bahrain,BHR,"Jan 1, 2020",0
 Bahrain,BHR,"Jan 2, 2020",0
@@ -3037,6 +3051,7 @@ Bahrain,BHR,"Aug 29, 2020",111.073
 Bahrain,BHR,"Aug 30, 2020",111.073
 Bahrain,BHR,"Aug 31, 2020",111.073
 Bahrain,BHR,"Sep 1, 2020",111.661
+Bahrain,BHR,"Sep 2, 2020",111.661
 Bangladesh,BGD,"Mar 9, 2020",0
 Bangladesh,BGD,"Mar 15, 2020",0
 Bangladesh,BGD,"Mar 17, 2020",0
@@ -3208,6 +3223,7 @@ Bangladesh,BGD,"Aug 29, 2020",25.345
 Bangladesh,BGD,"Aug 30, 2020",25.539
 Bangladesh,BGD,"Aug 31, 2020",25.794
 Bangladesh,BGD,"Sep 1, 2020",25.994
+Bangladesh,BGD,"Sep 2, 2020",26.207
 Barbados,BRB,"Mar 18, 2020",0
 Barbados,BRB,"Mar 19, 2020",0
 Barbados,BRB,"Mar 20, 2020",0
@@ -3376,6 +3392,7 @@ Barbados,BRB,"Aug 29, 2020",24.359
 Barbados,BRB,"Aug 30, 2020",24.359
 Barbados,BRB,"Aug 31, 2020",24.359
 Barbados,BRB,"Sep 1, 2020",24.359
+Barbados,BRB,"Sep 2, 2020",24.359
 Belarus,BLR,"Dec 31, 2019",0
 Belarus,BLR,"Jan 1, 2020",0
 Belarus,BLR,"Jan 2, 2020",0
@@ -3614,6 +3631,7 @@ Belarus,BLR,"Aug 29, 2020",70.587
 Belarus,BLR,"Aug 30, 2020",71.01
 Belarus,BLR,"Aug 31, 2020",71.54
 Belarus,BLR,"Sep 1, 2020",72.069
+Belarus,BLR,"Sep 2, 2020",72.598
 Belgium,BEL,"Dec 31, 2019",0
 Belgium,BEL,"Jan 1, 2020",0
 Belgium,BEL,"Jan 2, 2020",0
@@ -3695,171 +3713,172 @@ Belgium,BEL,"Mar 17, 2020",2.589
 Belgium,BEL,"Mar 18, 2020",3.451
 Belgium,BEL,"Mar 19, 2020",5.35
 Belgium,BEL,"Mar 20, 2020",8.197
-Belgium,BEL,"Mar 21, 2020",11.303
-Belgium,BEL,"Mar 22, 2020",14.755
-Belgium,BEL,"Mar 23, 2020",18.81
-Belgium,BEL,"Mar 24, 2020",25.54
-Belgium,BEL,"Mar 25, 2020",32.098
-Belgium,BEL,"Mar 26, 2020",41.33
-Belgium,BEL,"Mar 27, 2020",50.131
-Belgium,BEL,"Mar 28, 2020",61.175
-Belgium,BEL,"Mar 29, 2020",73.342
-Belgium,BEL,"Mar 30, 2020",86.198
-Belgium,BEL,"Mar 31, 2020",100.866
-Belgium,BEL,"Apr 1, 2020",118.813
-Belgium,BEL,"Apr 2, 2020",138.831
-Belgium,BEL,"Apr 3, 2020",157.727
-Belgium,BEL,"Apr 4, 2020",178.09
-Belgium,BEL,"Apr 5, 2020",201.387
-Belgium,BEL,"Apr 6, 2020",222.613
-Belgium,BEL,"Apr 7, 2020",244.788
-Belgium,BEL,"Apr 8, 2020",268.689
-Belgium,BEL,"Apr 9, 2020",296.386
-Belgium,BEL,"Apr 10, 2020",319.769
-Belgium,BEL,"Apr 11, 2020",345.827
-Belgium,BEL,"Apr 12, 2020",370.418
-Belgium,BEL,"Apr 13, 2020",393.283
-Belgium,BEL,"Apr 14, 2020",417.184
-Belgium,BEL,"Apr 15, 2020",439.704
-Belgium,BEL,"Apr 16, 2020",463.864
-Belgium,BEL,"Apr 17, 2020",485.089
-Belgium,BEL,"Apr 18, 2020",502.778
-Belgium,BEL,"Apr 19, 2020",520.725
-Belgium,BEL,"Apr 20, 2020",537.119
-Belgium,BEL,"Apr 21, 2020",554.893
-Belgium,BEL,"Apr 22, 2020",572.409
-Belgium,BEL,"Apr 23, 2020",588.026
-Belgium,BEL,"Apr 24, 2020",601.659
-Belgium,BEL,"Apr 25, 2020",615.12
-Belgium,BEL,"Apr 26, 2020",627.458
-Belgium,BEL,"Apr 27, 2020",640.746
-Belgium,BEL,"Apr 28, 2020",652.394
-Belgium,BEL,"Apr 29, 2020",661.886
-Belgium,BEL,"Apr 30, 2020",671.118
-Belgium,BEL,"May 1, 2020",678.625
-Belgium,BEL,"May 2, 2020",686.735
-Belgium,BEL,"May 3, 2020",693.207
-Belgium,BEL,"May 4, 2020",701.317
-Belgium,BEL,"May 5, 2020",709.514
-Belgium,BEL,"May 6, 2020",716.503
-Belgium,BEL,"May 7, 2020",723.061
-Belgium,BEL,"May 8, 2020",729.187
-Belgium,BEL,"May 9, 2020",735.572
-Belgium,BEL,"May 10, 2020",741.698
-Belgium,BEL,"May 11, 2020",747.911
-Belgium,BEL,"May 12, 2020",753.519
-Belgium,BEL,"May 13, 2020",757.402
-Belgium,BEL,"May 14, 2020",762.234
-Belgium,BEL,"May 15, 2020",765.944
-Belgium,BEL,"May 16, 2020",769.827
-Belgium,BEL,"May 17, 2020",772.416
-Belgium,BEL,"May 18, 2020",775.09
-Belgium,BEL,"May 19, 2020",778.283
-Belgium,BEL,"May 20, 2020",781.13
-Belgium,BEL,"May 21, 2020",783.719
-Belgium,BEL,"May 22, 2020",786.652
-Belgium,BEL,"May 23, 2020",790.19
-Belgium,BEL,"May 24, 2020",792.347
-Belgium,BEL,"May 25, 2020",795.195
-Belgium,BEL,"May 26, 2020",797.438
-Belgium,BEL,"May 27, 2020",799.509
-Belgium,BEL,"May 28, 2020",801.58
-Belgium,BEL,"May 29, 2020",803.823
-Belgium,BEL,"May 30, 2020",805.204
-Belgium,BEL,"May 31, 2020",807.188
-Belgium,BEL,"Jun 1, 2020",809.086
-Belgium,BEL,"Jun 2, 2020",810.898
-Belgium,BEL,"Jun 3, 2020",812.883
-Belgium,BEL,"Jun 4, 2020",814.609
-Belgium,BEL,"Jun 5, 2020",815.817
-Belgium,BEL,"Jun 6, 2020",816.852
-Belgium,BEL,"Jun 7, 2020",817.801
-Belgium,BEL,"Jun 8, 2020",818.836
-Belgium,BEL,"Jun 9, 2020",819.613
-Belgium,BEL,"Jun 10, 2020",820.648
-Belgium,BEL,"Jun 11, 2020",821.684
-Belgium,BEL,"Jun 12, 2020",822.288
-Belgium,BEL,"Jun 13, 2020",823.151
-Belgium,BEL,"Jun 14, 2020",823.582
-Belgium,BEL,"Jun 15, 2020",823.841
-Belgium,BEL,"Jun 16, 2020",824.531
-Belgium,BEL,"Jun 17, 2020",825.135
-Belgium,BEL,"Jun 18, 2020",825.739
-Belgium,BEL,"Jun 19, 2020",826.171
-Belgium,BEL,"Jun 20, 2020",826.516
-Belgium,BEL,"Jun 21, 2020",826.775
-Belgium,BEL,"Jun 22, 2020",827.551
-Belgium,BEL,"Jun 23, 2020",828.587
-Belgium,BEL,"Jun 24, 2020",828.932
-Belgium,BEL,"Jun 25, 2020",829.191
-Belgium,BEL,"Jun 26, 2020",829.622
-Belgium,BEL,"Jun 27, 2020",829.795
-Belgium,BEL,"Jun 28, 2020",830.485
-Belgium,BEL,"Jun 29, 2020",830.916
-Belgium,BEL,"Jun 30, 2020",831.175
-Belgium,BEL,"Jul 1, 2020",831.865
-Belgium,BEL,"Jul 2, 2020",832.038
-Belgium,BEL,"Jul 3, 2020",832.469
-Belgium,BEL,"Jul 4, 2020",832.642
-Belgium,BEL,"Jul 5, 2020",832.901
-Belgium,BEL,"Jul 6, 2020",833.073
-Belgium,BEL,"Jul 7, 2020",833.16
-Belgium,BEL,"Jul 8, 2020",833.418
-Belgium,BEL,"Jul 9, 2020",833.505
-Belgium,BEL,"Jul 10, 2020",833.677
-Belgium,BEL,"Jul 11, 2020",833.677
-Belgium,BEL,"Jul 12, 2020",833.85
-Belgium,BEL,"Jul 13, 2020",834.195
-Belgium,BEL,"Jul 14, 2020",834.195
-Belgium,BEL,"Jul 15, 2020",834.454
-Belgium,BEL,"Jul 16, 2020",834.885
-Belgium,BEL,"Jul 17, 2020",835.317
-Belgium,BEL,"Jul 18, 2020",835.489
-Belgium,BEL,"Jul 19, 2020",835.748
-Belgium,BEL,"Jul 20, 2020",835.834
-Belgium,BEL,"Jul 21, 2020",836.007
-Belgium,BEL,"Jul 22, 2020",836.093
-Belgium,BEL,"Jul 23, 2020",836.266
-Belgium,BEL,"Jul 24, 2020",836.438
-Belgium,BEL,"Jul 25, 2020",836.87
-Belgium,BEL,"Jul 26, 2020",836.956
-Belgium,BEL,"Jul 27, 2020",837.129
-Belgium,BEL,"Jul 28, 2020",837.474
-Belgium,BEL,"Jul 29, 2020",837.56
-Belgium,BEL,"Jul 30, 2020",837.819
-Belgium,BEL,"Jul 31, 2020",837.992
-Belgium,BEL,"Aug 1, 2020",838.25
-Belgium,BEL,"Aug 2, 2020",838.423
-Belgium,BEL,"Aug 3, 2020",838.854
-Belgium,BEL,"Aug 4, 2020",839.113
-Belgium,BEL,"Aug 5, 2020",839.545
-Belgium,BEL,"Aug 6, 2020",839.976
-Belgium,BEL,"Aug 7, 2020",840.321
-Belgium,BEL,"Aug 8, 2020",840.839
-Belgium,BEL,"Aug 9, 2020",841.011
-Belgium,BEL,"Aug 10, 2020",841.443
-Belgium,BEL,"Aug 11, 2020",842.392
-Belgium,BEL,"Aug 12, 2020",843.514
-Belgium,BEL,"Aug 13, 2020",844.463
-Belgium,BEL,"Aug 14, 2020",845.498
-Belgium,BEL,"Aug 15, 2020",846.534
-Belgium,BEL,"Aug 16, 2020",847.31
-Belgium,BEL,"Aug 17, 2020",847.914
-Belgium,BEL,"Aug 18, 2020",848.518
-Belgium,BEL,"Aug 19, 2020",849.467
-Belgium,BEL,"Aug 20, 2020",850.244
-Belgium,BEL,"Aug 21, 2020",850.589
-Belgium,BEL,"Aug 22, 2020",850.848
-Belgium,BEL,"Aug 23, 2020",851.279
-Belgium,BEL,"Aug 24, 2020",851.538
-Belgium,BEL,"Aug 25, 2020",851.97
-Belgium,BEL,"Aug 26, 2020",852.401
-Belgium,BEL,"Aug 27, 2020",852.746
-Belgium,BEL,"Aug 28, 2020",853.005
-Belgium,BEL,"Aug 29, 2020",853.264
-Belgium,BEL,"Aug 30, 2020",853.695
-Belgium,BEL,"Aug 31, 2020",853.782
-Belgium,BEL,"Sep 1, 2020",853.782
+Belgium,BEL,"Mar 21, 2020",11.217
+Belgium,BEL,"Mar 22, 2020",14.668
+Belgium,BEL,"Mar 23, 2020",18.724
+Belgium,BEL,"Mar 24, 2020",25.454
+Belgium,BEL,"Mar 25, 2020",32.011
+Belgium,BEL,"Mar 26, 2020",41.244
+Belgium,BEL,"Mar 27, 2020",50.045
+Belgium,BEL,"Mar 28, 2020",61.089
+Belgium,BEL,"Mar 29, 2020",73.255
+Belgium,BEL,"Mar 30, 2020",86.112
+Belgium,BEL,"Mar 31, 2020",100.78
+Belgium,BEL,"Apr 1, 2020",118.727
+Belgium,BEL,"Apr 2, 2020",138.745
+Belgium,BEL,"Apr 3, 2020",157.641
+Belgium,BEL,"Apr 4, 2020",178.004
+Belgium,BEL,"Apr 5, 2020",201.301
+Belgium,BEL,"Apr 6, 2020",222.527
+Belgium,BEL,"Apr 7, 2020",244.702
+Belgium,BEL,"Apr 8, 2020",268.603
+Belgium,BEL,"Apr 9, 2020",296.3
+Belgium,BEL,"Apr 10, 2020",319.683
+Belgium,BEL,"Apr 11, 2020",345.741
+Belgium,BEL,"Apr 12, 2020",370.332
+Belgium,BEL,"Apr 13, 2020",393.197
+Belgium,BEL,"Apr 14, 2020",417.098
+Belgium,BEL,"Apr 15, 2020",439.618
+Belgium,BEL,"Apr 16, 2020",463.777
+Belgium,BEL,"Apr 17, 2020",485.003
+Belgium,BEL,"Apr 18, 2020",502.691
+Belgium,BEL,"Apr 19, 2020",520.638
+Belgium,BEL,"Apr 20, 2020",537.032
+Belgium,BEL,"Apr 21, 2020",554.807
+Belgium,BEL,"Apr 22, 2020",572.323
+Belgium,BEL,"Apr 23, 2020",587.94
+Belgium,BEL,"Apr 24, 2020",601.573
+Belgium,BEL,"Apr 25, 2020",614.947
+Belgium,BEL,"Apr 26, 2020",627.286
+Belgium,BEL,"Apr 27, 2020",640.573
+Belgium,BEL,"Apr 28, 2020",652.222
+Belgium,BEL,"Apr 29, 2020",661.713
+Belgium,BEL,"Apr 30, 2020",670.945
+Belgium,BEL,"May 1, 2020",678.452
+Belgium,BEL,"May 2, 2020",686.563
+Belgium,BEL,"May 3, 2020",693.034
+Belgium,BEL,"May 4, 2020",701.145
+Belgium,BEL,"May 5, 2020",709.342
+Belgium,BEL,"May 6, 2020",716.331
+Belgium,BEL,"May 7, 2020",722.888
+Belgium,BEL,"May 8, 2020",729.015
+Belgium,BEL,"May 9, 2020",735.4
+Belgium,BEL,"May 10, 2020",741.526
+Belgium,BEL,"May 11, 2020",747.738
+Belgium,BEL,"May 12, 2020",753.347
+Belgium,BEL,"May 13, 2020",757.23
+Belgium,BEL,"May 14, 2020",762.061
+Belgium,BEL,"May 15, 2020",765.772
+Belgium,BEL,"May 16, 2020",769.654
+Belgium,BEL,"May 17, 2020",772.243
+Belgium,BEL,"May 18, 2020",774.918
+Belgium,BEL,"May 19, 2020",778.11
+Belgium,BEL,"May 20, 2020",780.958
+Belgium,BEL,"May 21, 2020",783.546
+Belgium,BEL,"May 22, 2020",786.48
+Belgium,BEL,"May 23, 2020",790.018
+Belgium,BEL,"May 24, 2020",792.175
+Belgium,BEL,"May 25, 2020",795.022
+Belgium,BEL,"May 26, 2020",797.265
+Belgium,BEL,"May 27, 2020",799.336
+Belgium,BEL,"May 28, 2020",801.407
+Belgium,BEL,"May 29, 2020",803.65
+Belgium,BEL,"May 30, 2020",805.031
+Belgium,BEL,"May 31, 2020",807.016
+Belgium,BEL,"Jun 1, 2020",808.914
+Belgium,BEL,"Jun 2, 2020",810.726
+Belgium,BEL,"Jun 3, 2020",812.71
+Belgium,BEL,"Jun 4, 2020",814.436
+Belgium,BEL,"Jun 5, 2020",815.644
+Belgium,BEL,"Jun 6, 2020",816.679
+Belgium,BEL,"Jun 7, 2020",817.628
+Belgium,BEL,"Jun 8, 2020",818.664
+Belgium,BEL,"Jun 9, 2020",819.44
+Belgium,BEL,"Jun 10, 2020",820.476
+Belgium,BEL,"Jun 11, 2020",821.511
+Belgium,BEL,"Jun 12, 2020",822.115
+Belgium,BEL,"Jun 13, 2020",822.978
+Belgium,BEL,"Jun 14, 2020",823.41
+Belgium,BEL,"Jun 15, 2020",823.668
+Belgium,BEL,"Jun 16, 2020",824.359
+Belgium,BEL,"Jun 17, 2020",824.963
+Belgium,BEL,"Jun 18, 2020",825.567
+Belgium,BEL,"Jun 19, 2020",825.998
+Belgium,BEL,"Jun 20, 2020",826.343
+Belgium,BEL,"Jun 21, 2020",826.602
+Belgium,BEL,"Jun 22, 2020",827.379
+Belgium,BEL,"Jun 23, 2020",828.414
+Belgium,BEL,"Jun 24, 2020",828.759
+Belgium,BEL,"Jun 25, 2020",829.018
+Belgium,BEL,"Jun 26, 2020",829.449
+Belgium,BEL,"Jun 27, 2020",829.622
+Belgium,BEL,"Jun 28, 2020",830.312
+Belgium,BEL,"Jun 29, 2020",830.744
+Belgium,BEL,"Jun 30, 2020",831.003
+Belgium,BEL,"Jul 1, 2020",831.693
+Belgium,BEL,"Jul 2, 2020",831.865
+Belgium,BEL,"Jul 3, 2020",832.297
+Belgium,BEL,"Jul 4, 2020",832.469
+Belgium,BEL,"Jul 5, 2020",832.728
+Belgium,BEL,"Jul 6, 2020",832.901
+Belgium,BEL,"Jul 7, 2020",832.987
+Belgium,BEL,"Jul 8, 2020",833.246
+Belgium,BEL,"Jul 9, 2020",833.332
+Belgium,BEL,"Jul 10, 2020",833.505
+Belgium,BEL,"Jul 11, 2020",833.505
+Belgium,BEL,"Jul 12, 2020",833.677
+Belgium,BEL,"Jul 13, 2020",834.022
+Belgium,BEL,"Jul 14, 2020",834.022
+Belgium,BEL,"Jul 15, 2020",834.281
+Belgium,BEL,"Jul 16, 2020",834.713
+Belgium,BEL,"Jul 17, 2020",835.144
+Belgium,BEL,"Jul 18, 2020",835.317
+Belgium,BEL,"Jul 19, 2020",835.576
+Belgium,BEL,"Jul 20, 2020",835.662
+Belgium,BEL,"Jul 21, 2020",835.834
+Belgium,BEL,"Jul 22, 2020",835.921
+Belgium,BEL,"Jul 23, 2020",836.093
+Belgium,BEL,"Jul 24, 2020",836.266
+Belgium,BEL,"Jul 25, 2020",836.697
+Belgium,BEL,"Jul 26, 2020",836.784
+Belgium,BEL,"Jul 27, 2020",836.956
+Belgium,BEL,"Jul 28, 2020",837.301
+Belgium,BEL,"Jul 29, 2020",837.388
+Belgium,BEL,"Jul 30, 2020",837.646
+Belgium,BEL,"Jul 31, 2020",837.819
+Belgium,BEL,"Aug 1, 2020",838.078
+Belgium,BEL,"Aug 2, 2020",838.25
+Belgium,BEL,"Aug 3, 2020",838.682
+Belgium,BEL,"Aug 4, 2020",838.941
+Belgium,BEL,"Aug 5, 2020",839.372
+Belgium,BEL,"Aug 6, 2020",839.803
+Belgium,BEL,"Aug 7, 2020",840.149
+Belgium,BEL,"Aug 8, 2020",840.666
+Belgium,BEL,"Aug 9, 2020",840.839
+Belgium,BEL,"Aug 10, 2020",841.27
+Belgium,BEL,"Aug 11, 2020",842.219
+Belgium,BEL,"Aug 12, 2020",843.341
+Belgium,BEL,"Aug 13, 2020",844.29
+Belgium,BEL,"Aug 14, 2020",845.326
+Belgium,BEL,"Aug 15, 2020",846.361
+Belgium,BEL,"Aug 16, 2020",847.138
+Belgium,BEL,"Aug 17, 2020",847.742
+Belgium,BEL,"Aug 18, 2020",848.346
+Belgium,BEL,"Aug 19, 2020",849.295
+Belgium,BEL,"Aug 20, 2020",850.071
+Belgium,BEL,"Aug 21, 2020",850.416
+Belgium,BEL,"Aug 22, 2020",850.675
+Belgium,BEL,"Aug 23, 2020",851.107
+Belgium,BEL,"Aug 24, 2020",851.366
+Belgium,BEL,"Aug 25, 2020",851.797
+Belgium,BEL,"Aug 26, 2020",852.228
+Belgium,BEL,"Aug 27, 2020",852.574
+Belgium,BEL,"Aug 28, 2020",852.832
+Belgium,BEL,"Aug 29, 2020",853.091
+Belgium,BEL,"Aug 30, 2020",853.609
+Belgium,BEL,"Aug 31, 2020",853.695
+Belgium,BEL,"Sep 1, 2020",853.954
+Belgium,BEL,"Sep 2, 2020",853.954
 Belize,BLZ,"Mar 24, 2020",0
 Belize,BLZ,"Mar 25, 2020",0
 Belize,BLZ,"Mar 26, 2020",0
@@ -4022,6 +4041,7 @@ Belize,BLZ,"Aug 29, 2020",30.179
 Belize,BLZ,"Aug 30, 2020",32.694
 Belize,BLZ,"Aug 31, 2020",32.694
 Belize,BLZ,"Sep 1, 2020",32.694
+Belize,BLZ,"Sep 2, 2020",32.694
 Benin,BEN,"Mar 17, 2020",0
 Benin,BEN,"Mar 18, 2020",0
 Benin,BEN,"Mar 19, 2020",0
@@ -4191,6 +4211,7 @@ Benin,BEN,"Aug 29, 2020",3.299
 Benin,BEN,"Aug 30, 2020",3.299
 Benin,BEN,"Aug 31, 2020",3.299
 Benin,BEN,"Sep 1, 2020",3.299
+Benin,BEN,"Sep 2, 2020",3.299
 Bermuda,BMU,"Mar 20, 2020",0
 Bermuda,BMU,"Mar 21, 2020",0
 Bermuda,BMU,"Mar 22, 2020",0
@@ -4357,6 +4378,7 @@ Bermuda,BMU,"Aug 29, 2020",144.525
 Bermuda,BMU,"Aug 30, 2020",144.525
 Bermuda,BMU,"Aug 31, 2020",144.525
 Bermuda,BMU,"Sep 1, 2020",144.525
+Bermuda,BMU,"Sep 2, 2020",144.525
 Bhutan,BTN,"Mar 6, 2020",0
 Bhutan,BTN,"Mar 13, 2020",0
 Bhutan,BTN,"Mar 15, 2020",0
@@ -4529,6 +4551,7 @@ Bhutan,BTN,"Aug 29, 2020",0
 Bhutan,BTN,"Aug 30, 2020",0
 Bhutan,BTN,"Aug 31, 2020",0
 Bhutan,BTN,"Sep 1, 2020",0
+Bhutan,BTN,"Sep 2, 2020",0
 Bolivia,BOL,"Mar 12, 2020",0
 Bolivia,BOL,"Mar 13, 2020",0
 Bolivia,BOL,"Mar 14, 2020",0
@@ -4702,6 +4725,7 @@ Bolivia,BOL,"Aug 29, 2020",415.145
 Bolivia,BOL,"Aug 30, 2020",423.026
 Bolivia,BOL,"Aug 31, 2020",425.425
 Bolivia,BOL,"Sep 1, 2020",430.651
+Bolivia,BOL,"Sep 2, 2020",436.99
 Bonaire Sint Eustatius and Saba,BES,"Apr 2, 2020",0
 Bonaire Sint Eustatius and Saba,BES,"Apr 3, 2020",0
 Bonaire Sint Eustatius and Saba,BES,"Apr 4, 2020",0
@@ -4855,6 +4879,7 @@ Bonaire Sint Eustatius and Saba,BES,"Aug 29, 2020",0
 Bonaire Sint Eustatius and Saba,BES,"Aug 30, 2020",0
 Bonaire Sint Eustatius and Saba,BES,"Aug 31, 2020",0
 Bonaire Sint Eustatius and Saba,BES,"Sep 1, 2020",0
+Bonaire Sint Eustatius and Saba,BES,"Sep 2, 2020",0
 Bosnia and Herzegovina,BIH,"Mar 6, 2020",0
 Bosnia and Herzegovina,BIH,"Mar 12, 2020",0
 Bosnia and Herzegovina,BIH,"Mar 13, 2020",0
@@ -5028,6 +5053,7 @@ Bosnia and Herzegovina,BIH,"Aug 29, 2020",178.309
 Bosnia and Herzegovina,BIH,"Aug 30, 2020",179.224
 Bosnia and Herzegovina,BIH,"Aug 31, 2020",180.443
 Bosnia and Herzegovina,BIH,"Sep 1, 2020",185.625
+Bosnia and Herzegovina,BIH,"Sep 2, 2020",188.977
 Botswana,BWA,"Apr 1, 2020",0
 Botswana,BWA,"Apr 2, 2020",0.425
 Botswana,BWA,"Apr 3, 2020",0.425
@@ -5182,6 +5208,7 @@ Botswana,BWA,"Aug 29, 2020",2.551
 Botswana,BWA,"Aug 30, 2020",2.551
 Botswana,BWA,"Aug 31, 2020",2.551
 Botswana,BWA,"Sep 1, 2020",2.551
+Botswana,BWA,"Sep 2, 2020",2.551
 Brazil,BRA,"Dec 31, 2019",0
 Brazil,BRA,"Jan 1, 2020",0
 Brazil,BRA,"Jan 2, 2020",0
@@ -5428,6 +5455,7 @@ Brazil,BRA,"Aug 29, 2020",562.215
 Brazil,BRA,"Aug 30, 2020",566.722
 Brazil,BRA,"Aug 31, 2020",568.443
 Brazil,BRA,"Sep 1, 2020",571.045
+Brazil,BRA,"Sep 2, 2020",576.761
 British Virgin Islands,VGB,"Mar 27, 2020",0
 British Virgin Islands,VGB,"Mar 28, 2020",0
 British Virgin Islands,VGB,"Mar 29, 2020",0
@@ -5587,6 +5615,7 @@ British Virgin Islands,VGB,"Aug 29, 2020",33.072
 British Virgin Islands,VGB,"Aug 30, 2020",33.072
 British Virgin Islands,VGB,"Aug 31, 2020",33.072
 British Virgin Islands,VGB,"Sep 1, 2020",33.072
+British Virgin Islands,VGB,"Sep 2, 2020",33.072
 Brunei,BRN,"Mar 10, 2020",0
 Brunei,BRN,"Mar 12, 2020",0
 Brunei,BRN,"Mar 13, 2020",0
@@ -5762,6 +5791,7 @@ Brunei,BRN,"Aug 29, 2020",6.857
 Brunei,BRN,"Aug 30, 2020",6.857
 Brunei,BRN,"Aug 31, 2020",6.857
 Brunei,BRN,"Sep 1, 2020",6.857
+Brunei,BRN,"Sep 2, 2020",6.857
 Bulgaria,BGR,"Mar 8, 2020",0
 Bulgaria,BGR,"Mar 9, 2020",0
 Bulgaria,BGR,"Mar 12, 2020",0.144
@@ -5925,19 +5955,20 @@ Bulgaria,BGR,"Aug 16, 2020",71.239
 Bulgaria,BGR,"Aug 17, 2020",71.671
 Bulgaria,BGR,"Aug 18, 2020",73.686
 Bulgaria,BGR,"Aug 19, 2020",74.693
-Bulgaria,BGR,"Aug 20, 2020",74.693
-Bulgaria,BGR,"Aug 21, 2020",75.844
-Bulgaria,BGR,"Aug 22, 2020",76.564
-Bulgaria,BGR,"Aug 23, 2020",77.571
+Bulgaria,BGR,"Aug 20, 2020",75.844
+Bulgaria,BGR,"Aug 21, 2020",76.564
+Bulgaria,BGR,"Aug 22, 2020",77.571
+Bulgaria,BGR,"Aug 23, 2020",78.435
 Bulgaria,BGR,"Aug 24, 2020",78.435
-Bulgaria,BGR,"Aug 25, 2020",78.435
-Bulgaria,BGR,"Aug 26, 2020",81.025
+Bulgaria,BGR,"Aug 25, 2020",81.025
+Bulgaria,BGR,"Aug 26, 2020",82.321
 Bulgaria,BGR,"Aug 27, 2020",84.335
 Bulgaria,BGR,"Aug 28, 2020",85.487
 Bulgaria,BGR,"Aug 29, 2020",86.782
 Bulgaria,BGR,"Aug 30, 2020",87.07
 Bulgaria,BGR,"Aug 31, 2020",88.221
 Bulgaria,BGR,"Sep 1, 2020",90.524
+Bulgaria,BGR,"Sep 2, 2020",90.524
 Burkina Faso,BFA,"Mar 11, 2020",0
 Burkina Faso,BFA,"Mar 12, 2020",0
 Burkina Faso,BFA,"Mar 15, 2020",0
@@ -6111,6 +6142,7 @@ Burkina Faso,BFA,"Aug 29, 2020",2.631
 Burkina Faso,BFA,"Aug 30, 2020",2.631
 Burkina Faso,BFA,"Aug 31, 2020",2.631
 Burkina Faso,BFA,"Sep 1, 2020",2.631
+Burkina Faso,BFA,"Sep 2, 2020",2.631
 Burundi,BDI,"Apr 1, 2020",0
 Burundi,BDI,"Apr 2, 2020",0
 Burundi,BDI,"Apr 3, 2020",0
@@ -6265,6 +6297,7 @@ Burundi,BDI,"Aug 29, 2020",0.084
 Burundi,BDI,"Aug 30, 2020",0.084
 Burundi,BDI,"Aug 31, 2020",0.084
 Burundi,BDI,"Sep 1, 2020",0.084
+Burundi,BDI,"Sep 2, 2020",0.084
 Cambodia,KHM,"Dec 31, 2019",0
 Cambodia,KHM,"Jan 1, 2020",0
 Cambodia,KHM,"Jan 2, 2020",0
@@ -6502,6 +6535,7 @@ Cambodia,KHM,"Aug 29, 2020",0
 Cambodia,KHM,"Aug 30, 2020",0
 Cambodia,KHM,"Aug 31, 2020",0
 Cambodia,KHM,"Sep 1, 2020",0
+Cambodia,KHM,"Sep 2, 2020",0
 Cameroon,CMR,"Mar 7, 2020",0
 Cameroon,CMR,"Mar 9, 2020",0
 Cameroon,CMR,"Mar 15, 2020",0
@@ -6675,6 +6709,7 @@ Cameroon,CMR,"Aug 29, 2020",15.483
 Cameroon,CMR,"Aug 30, 2020",15.483
 Cameroon,CMR,"Aug 31, 2020",15.483
 Cameroon,CMR,"Sep 1, 2020",15.483
+Cameroon,CMR,"Sep 2, 2020",15.596
 Canada,CAN,"Dec 31, 2019",0
 Canada,CAN,"Jan 1, 2020",0
 Canada,CAN,"Jan 2, 2020",0
@@ -6921,6 +6956,7 @@ Canada,CAN,"Aug 29, 2020",241.322
 Canada,CAN,"Aug 30, 2020",241.454
 Canada,CAN,"Aug 31, 2020",241.56
 Canada,CAN,"Sep 1, 2020",241.799
+Canada,CAN,"Sep 2, 2020",241.958
 Cape Verde,CPV,"Mar 21, 2020",0
 Cape Verde,CPV,"Mar 22, 2020",0
 Cape Verde,CPV,"Mar 23, 2020",0
@@ -7086,6 +7122,7 @@ Cape Verde,CPV,"Aug 29, 2020",68.347
 Cape Verde,CPV,"Aug 30, 2020",70.145
 Cape Verde,CPV,"Aug 31, 2020",71.944
 Cape Verde,CPV,"Sep 1, 2020",71.944
+Cape Verde,CPV,"Sep 2, 2020",71.944
 Cayman Islands,CYM,"Mar 20, 2020",0
 Cayman Islands,CYM,"Mar 21, 2020",15.216
 Cayman Islands,CYM,"Mar 22, 2020",15.216
@@ -7252,6 +7289,7 @@ Cayman Islands,CYM,"Aug 29, 2020",15.216
 Cayman Islands,CYM,"Aug 30, 2020",15.216
 Cayman Islands,CYM,"Aug 31, 2020",15.216
 Cayman Islands,CYM,"Sep 1, 2020",15.216
+Cayman Islands,CYM,"Sep 2, 2020",15.216
 Central African Republic,CAF,"Mar 16, 2020",0
 Central African Republic,CAF,"Mar 17, 2020",0
 Central African Republic,CAF,"Mar 18, 2020",0
@@ -7422,6 +7460,7 @@ Central African Republic,CAF,"Aug 29, 2020",12.63
 Central African Republic,CAF,"Aug 30, 2020",12.63
 Central African Republic,CAF,"Aug 31, 2020",12.63
 Central African Republic,CAF,"Sep 1, 2020",12.837
+Central African Republic,CAF,"Sep 2, 2020",12.837
 Chad,TCD,"Mar 20, 2020",0
 Chad,TCD,"Mar 21, 2020",0
 Chad,TCD,"Mar 22, 2020",0
@@ -7588,6 +7627,7 @@ Chad,TCD,"Aug 29, 2020",4.688
 Chad,TCD,"Aug 30, 2020",4.688
 Chad,TCD,"Aug 31, 2020",4.688
 Chad,TCD,"Sep 1, 2020",4.688
+Chad,TCD,"Sep 2, 2020",4.688
 Chile,CHL,"Mar 4, 2020",0
 Chile,CHL,"Mar 5, 2020",0
 Chile,CHL,"Mar 6, 2020",0
@@ -7769,6 +7809,7 @@ Chile,CHL,"Aug 29, 2020",582.333
 Chile,CHL,"Aug 30, 2020",584.896
 Chile,CHL,"Aug 31, 2020",588.192
 Chile,CHL,"Sep 1, 2020",590.546
+Chile,CHL,"Sep 2, 2020",592.22
 China,CHN,"Dec 31, 2019",0
 China,CHN,"Jan 1, 2020",0
 China,CHN,"Jan 2, 2020",0
@@ -8015,6 +8056,7 @@ China,CHN,"Aug 29, 2020",3.278
 China,CHN,"Aug 30, 2020",3.28
 China,CHN,"Aug 31, 2020",3.281
 China,CHN,"Sep 1, 2020",3.281
+China,CHN,"Sep 2, 2020",3.282
 Colombia,COL,"Mar 7, 2020",0
 Colombia,COL,"Mar 10, 2020",0
 Colombia,COL,"Mar 12, 2020",0
@@ -8190,6 +8232,7 @@ Colombia,COL,"Aug 29, 2020",368.827
 Colombia,COL,"Aug 30, 2020",374.664
 Colombia,COL,"Aug 31, 2020",380.56
 Colombia,COL,"Sep 1, 2020",386.436
+Colombia,COL,"Sep 2, 2020",394.081
 Comoros,COM,"May 2, 2020",0
 Comoros,COM,"May 3, 2020",0
 Comoros,COM,"May 4, 2020",0
@@ -8313,6 +8356,7 @@ Comoros,COM,"Aug 29, 2020",8.05
 Comoros,COM,"Aug 30, 2020",8.05
 Comoros,COM,"Aug 31, 2020",8.05
 Comoros,COM,"Sep 1, 2020",8.05
+Comoros,COM,"Sep 2, 2020",8.05
 Congo,COG,"Mar 16, 2020",0
 Congo,COG,"Mar 17, 2020",0
 Congo,COG,"Mar 18, 2020",0
@@ -8483,6 +8527,7 @@ Congo,COG,"Aug 29, 2020",14.135
 Congo,COG,"Aug 30, 2020",14.135
 Congo,COG,"Aug 31, 2020",14.135
 Congo,COG,"Sep 1, 2020",14.135
+Congo,COG,"Sep 2, 2020",18.485
 Costa Rica,CRI,"Mar 7, 2020",0
 Costa Rica,CRI,"Mar 9, 2020",0
 Costa Rica,CRI,"Mar 10, 2020",0
@@ -8661,6 +8706,7 @@ Costa Rica,CRI,"Aug 29, 2020",79.896
 Costa Rica,CRI,"Aug 30, 2020",82.055
 Costa Rica,CRI,"Aug 31, 2020",82.055
 Costa Rica,CRI,"Sep 1, 2020",85.589
+Costa Rica,CRI,"Sep 2, 2020",86.963
 Cote d'Ivoire,CIV,"Mar 12, 2020",0
 Cote d'Ivoire,CIV,"Mar 15, 2020",0
 Cote d'Ivoire,CIV,"Mar 16, 2020",0
@@ -8833,6 +8879,7 @@ Cote d'Ivoire,CIV,"Aug 29, 2020",4.36
 Cote d'Ivoire,CIV,"Aug 30, 2020",4.36
 Cote d'Ivoire,CIV,"Aug 31, 2020",4.36
 Cote d'Ivoire,CIV,"Sep 1, 2020",4.435
+Cote d'Ivoire,CIV,"Sep 2, 2020",4.435
 Croatia,HRV,"Dec 31, 2019",0
 Croatia,HRV,"Jan 1, 2020",0
 Croatia,HRV,"Jan 2, 2020",0
@@ -9076,6 +9123,7 @@ Croatia,HRV,"Aug 29, 2020",43.846
 Croatia,HRV,"Aug 30, 2020",44.577
 Croatia,HRV,"Aug 31, 2020",44.82
 Croatia,HRV,"Sep 1, 2020",45.308
+Croatia,HRV,"Sep 2, 2020",45.551
 Cuba,CUB,"Mar 12, 2020",0
 Cuba,CUB,"Mar 14, 2020",0
 Cuba,CUB,"Mar 15, 2020",0
@@ -9247,6 +9295,7 @@ Cuba,CUB,"Aug 29, 2020",8.122
 Cuba,CUB,"Aug 30, 2020",8.299
 Cuba,CUB,"Aug 31, 2020",8.299
 Cuba,CUB,"Sep 1, 2020",8.299
+Cuba,CUB,"Sep 2, 2020",8.387
 Curacao,CUW,"Mar 13, 2020",0
 Curacao,CUW,"Mar 20, 2020",0
 Curacao,CUW,"Mar 24, 2020",0
@@ -9409,6 +9458,7 @@ Curacao,CUW,"Aug 29, 2020",6.094
 Curacao,CUW,"Aug 30, 2020",6.094
 Curacao,CUW,"Aug 31, 2020",6.094
 Curacao,CUW,"Sep 1, 2020",6.094
+Curacao,CUW,"Sep 2, 2020",6.094
 Cyprus,CYP,"Mar 10, 2020",0
 Cyprus,CYP,"Mar 12, 2020",0
 Cyprus,CYP,"Mar 14, 2020",0
@@ -9583,6 +9633,7 @@ Cyprus,CYP,"Aug 29, 2020",23.975
 Cyprus,CYP,"Aug 30, 2020",23.975
 Cyprus,CYP,"Aug 31, 2020",23.975
 Cyprus,CYP,"Sep 1, 2020",23.975
+Cyprus,CYP,"Sep 2, 2020",23.975
 Czech Republic,CZE,"Dec 31, 2019",0
 Czech Republic,CZE,"Jan 1, 2020",0
 Czech Republic,CZE,"Jan 2, 2020",0
@@ -9829,6 +9880,7 @@ Czech Republic,CZE,"Aug 29, 2020",39.126
 Czech Republic,CZE,"Aug 30, 2020",39.313
 Czech Republic,CZE,"Aug 31, 2020",39.5
 Czech Republic,CZE,"Sep 1, 2020",39.593
+Czech Republic,CZE,"Sep 2, 2020",39.686
 Democratic Republic of Congo,COD,"Mar 11, 2020",0
 Democratic Republic of Congo,COD,"Mar 14, 2020",0
 Democratic Republic of Congo,COD,"Mar 15, 2020",0
@@ -10002,6 +10054,7 @@ Democratic Republic of Congo,COD,"Aug 29, 2020",2.836
 Democratic Republic of Congo,COD,"Aug 30, 2020",2.87
 Democratic Republic of Congo,COD,"Aug 31, 2020",2.87
 Democratic Republic of Congo,COD,"Sep 1, 2020",2.87
+Democratic Republic of Congo,COD,"Sep 2, 2020",2.881
 Denmark,DNK,"Dec 31, 2019",0
 Denmark,DNK,"Jan 1, 2020",0
 Denmark,DNK,"Jan 2, 2020",0
@@ -10248,6 +10301,7 @@ Denmark,DNK,"Aug 29, 2020",107.731
 Denmark,DNK,"Aug 30, 2020",107.731
 Denmark,DNK,"Aug 31, 2020",107.731
 Denmark,DNK,"Sep 1, 2020",107.731
+Denmark,DNK,"Sep 2, 2020",107.904
 Djibouti,DJI,"Mar 19, 2020",0
 Djibouti,DJI,"Mar 20, 2020",0
 Djibouti,DJI,"Mar 21, 2020",0
@@ -10415,6 +10469,7 @@ Djibouti,DJI,"Aug 29, 2020",60.729
 Djibouti,DJI,"Aug 30, 2020",60.729
 Djibouti,DJI,"Aug 31, 2020",60.729
 Djibouti,DJI,"Sep 1, 2020",60.729
+Djibouti,DJI,"Sep 2, 2020",60.729
 Dominica,DMA,"Mar 23, 2020",0
 Dominica,DMA,"Mar 24, 2020",0
 Dominica,DMA,"Mar 25, 2020",0
@@ -10578,6 +10633,7 @@ Dominica,DMA,"Aug 29, 2020",0
 Dominica,DMA,"Aug 30, 2020",0
 Dominica,DMA,"Aug 31, 2020",0
 Dominica,DMA,"Sep 1, 2020",0
+Dominica,DMA,"Sep 2, 2020",0
 Dominican Republic,DOM,"Dec 31, 2019",0
 Dominican Republic,DOM,"Jan 1, 2020",0
 Dominican Republic,DOM,"Jan 2, 2020",0
@@ -10815,6 +10871,7 @@ Dominican Republic,DOM,"Aug 29, 2020",151.919
 Dominican Republic,DOM,"Aug 30, 2020",154.223
 Dominican Republic,DOM,"Aug 31, 2020",154.961
 Dominican Republic,DOM,"Sep 1, 2020",157.634
+Dominican Republic,DOM,"Sep 2, 2020",160.215
 Ecuador,ECU,"Dec 31, 2019",0
 Ecuador,ECU,"Jan 1, 2020",0
 Ecuador,ECU,"Jan 2, 2020",0
@@ -11056,6 +11113,7 @@ Ecuador,ECU,"Aug 29, 2020",368.644
 Ecuador,ECU,"Aug 30, 2020",370.514
 Ecuador,ECU,"Aug 31, 2020",371.534
 Ecuador,ECU,"Sep 1, 2020",371.591
+Ecuador,ECU,"Sep 2, 2020",372.441
 Egypt,EGY,"Dec 31, 2019",0
 Egypt,EGY,"Jan 1, 2020",0
 Egypt,EGY,"Jan 2, 2020",0
@@ -11298,6 +11356,7 @@ Egypt,EGY,"Aug 29, 2020",52.397
 Egypt,EGY,"Aug 30, 2020",52.534
 Egypt,EGY,"Aug 31, 2020",52.758
 Egypt,EGY,"Sep 1, 2020",52.973
+Egypt,EGY,"Sep 2, 2020",53.159
 El Salvador,SLV,"Mar 19, 2020",0
 El Salvador,SLV,"Mar 20, 2020",0
 El Salvador,SLV,"Mar 21, 2020",0
@@ -11465,6 +11524,7 @@ El Salvador,SLV,"Aug 29, 2020",108.23
 El Salvador,SLV,"Aug 30, 2020",109.926
 El Salvador,SLV,"Aug 31, 2020",110.542
 El Salvador,SLV,"Sep 1, 2020",111.622
+El Salvador,SLV,"Sep 2, 2020",112.701
 Equatorial Guinea,GNQ,"Mar 15, 2020",0
 Equatorial Guinea,GNQ,"Mar 16, 2020",0
 Equatorial Guinea,GNQ,"Mar 17, 2020",0
@@ -11636,6 +11696,7 @@ Equatorial Guinea,GNQ,"Aug 29, 2020",59.16
 Equatorial Guinea,GNQ,"Aug 30, 2020",59.16
 Equatorial Guinea,GNQ,"Aug 31, 2020",59.16
 Equatorial Guinea,GNQ,"Sep 1, 2020",59.16
+Equatorial Guinea,GNQ,"Sep 2, 2020",59.16
 Eritrea,ERI,"Mar 22, 2020",0
 Eritrea,ERI,"Mar 23, 2020",0
 Eritrea,ERI,"Mar 24, 2020",0
@@ -11800,6 +11861,7 @@ Eritrea,ERI,"Aug 29, 2020",0
 Eritrea,ERI,"Aug 30, 2020",0
 Eritrea,ERI,"Aug 31, 2020",0
 Eritrea,ERI,"Sep 1, 2020",0
+Eritrea,ERI,"Sep 2, 2020",0
 Estonia,EST,"Dec 31, 2019",0
 Estonia,EST,"Jan 1, 2020",0
 Estonia,EST,"Jan 2, 2020",0
@@ -12041,6 +12103,7 @@ Estonia,EST,"Aug 29, 2020",48.246
 Estonia,EST,"Aug 30, 2020",48.246
 Estonia,EST,"Aug 31, 2020",48.246
 Estonia,EST,"Sep 1, 2020",48.246
+Estonia,EST,"Sep 2, 2020",48.246
 Ethiopia,ETH,"Mar 14, 2020",0
 Ethiopia,ETH,"Mar 15, 2020",0
 Ethiopia,ETH,"Mar 16, 2020",0
@@ -12213,6 +12276,7 @@ Ethiopia,ETH,"Aug 29, 2020",6.593
 Ethiopia,ETH,"Aug 30, 2020",6.698
 Ethiopia,ETH,"Aug 31, 2020",6.898
 Ethiopia,ETH,"Sep 1, 2020",7.037
+Ethiopia,ETH,"Sep 2, 2020",7.202
 Faeroe Islands,FRO,"Mar 6, 2020",0
 Faeroe Islands,FRO,"Mar 7, 2020",0
 Faeroe Islands,FRO,"Mar 8, 2020",0
@@ -12393,6 +12457,7 @@ Faeroe Islands,FRO,"Aug 29, 2020",0
 Faeroe Islands,FRO,"Aug 30, 2020",0
 Faeroe Islands,FRO,"Aug 31, 2020",0
 Faeroe Islands,FRO,"Sep 1, 2020",0
+Faeroe Islands,FRO,"Sep 2, 2020",0
 Falkland Islands,FLK,"Apr 4, 2020",0
 Falkland Islands,FLK,"Apr 5, 2020",0
 Falkland Islands,FLK,"Apr 6, 2020",0
@@ -12544,6 +12609,7 @@ Falkland Islands,FLK,"Aug 29, 2020",0
 Falkland Islands,FLK,"Aug 30, 2020",0
 Falkland Islands,FLK,"Aug 31, 2020",0
 Falkland Islands,FLK,"Sep 1, 2020",0
+Falkland Islands,FLK,"Sep 2, 2020",0
 Fiji,FJI,"Mar 20, 2020",0
 Fiji,FJI,"Mar 21, 2020",0
 Fiji,FJI,"Mar 22, 2020",0
@@ -12710,6 +12776,7 @@ Fiji,FJI,"Aug 29, 2020",2.231
 Fiji,FJI,"Aug 30, 2020",2.231
 Fiji,FJI,"Aug 31, 2020",2.231
 Fiji,FJI,"Sep 1, 2020",2.231
+Fiji,FJI,"Sep 2, 2020",2.231
 Finland,FIN,"Dec 31, 2019",0
 Finland,FIN,"Jan 1, 2020",0
 Finland,FIN,"Jan 2, 2020",0
@@ -12952,6 +13019,7 @@ Finland,FIN,"Aug 29, 2020",60.461
 Finland,FIN,"Aug 30, 2020",60.461
 Finland,FIN,"Aug 31, 2020",60.461
 Finland,FIN,"Sep 1, 2020",60.642
+Finland,FIN,"Sep 2, 2020",60.642
 France,FRA,"Dec 31, 2019",0
 France,FRA,"Jan 1, 2020",0
 France,FRA,"Jan 2, 2020",0
@@ -13198,6 +13266,7 @@ France,FRA,"Aug 29, 2020",468.735
 France,FRA,"Aug 30, 2020",468.827
 France,FRA,"Aug 31, 2020",468.889
 France,FRA,"Sep 1, 2020",469.333
+France,FRA,"Sep 2, 2020",469.731
 French Polynesia,PYF,"Mar 19, 2020",0
 French Polynesia,PYF,"Mar 20, 2020",0
 French Polynesia,PYF,"Mar 21, 2020",0
@@ -13365,6 +13434,7 @@ French Polynesia,PYF,"Aug 29, 2020",0
 French Polynesia,PYF,"Aug 30, 2020",0
 French Polynesia,PYF,"Aug 31, 2020",0
 French Polynesia,PYF,"Sep 1, 2020",0
+French Polynesia,PYF,"Sep 2, 2020",0
 Gabon,GAB,"Mar 13, 2020",0
 Gabon,GAB,"Mar 15, 2020",0
 Gabon,GAB,"Mar 16, 2020",0
@@ -13537,6 +13607,7 @@ Gabon,GAB,"Aug 29, 2020",23.812
 Gabon,GAB,"Aug 30, 2020",23.812
 Gabon,GAB,"Aug 31, 2020",23.812
 Gabon,GAB,"Sep 1, 2020",23.812
+Gabon,GAB,"Sep 2, 2020",23.812
 Gambia,GMB,"Mar 18, 2020",0
 Gambia,GMB,"Mar 19, 2020",0
 Gambia,GMB,"Mar 20, 2020",0
@@ -13705,6 +13776,7 @@ Gambia,GMB,"Aug 29, 2020",39.724
 Gambia,GMB,"Aug 30, 2020",39.724
 Gambia,GMB,"Aug 31, 2020",39.724
 Gambia,GMB,"Sep 1, 2020",39.724
+Gambia,GMB,"Sep 2, 2020",39.724
 Georgia,GEO,"Dec 31, 2019",0
 Georgia,GEO,"Jan 1, 2020",0
 Georgia,GEO,"Jan 2, 2020",0
@@ -13948,6 +14020,7 @@ Georgia,GEO,"Aug 29, 2020",4.763
 Georgia,GEO,"Aug 30, 2020",4.763
 Georgia,GEO,"Aug 31, 2020",4.763
 Georgia,GEO,"Sep 1, 2020",4.763
+Georgia,GEO,"Sep 2, 2020",4.763
 Germany,DEU,"Dec 31, 2019",0
 Germany,DEU,"Jan 1, 2020",0
 Germany,DEU,"Jan 2, 2020",0
@@ -14194,6 +14267,7 @@ Germany,DEU,"Aug 29, 2020",110.868
 Germany,DEU,"Aug 30, 2020",110.94
 Germany,DEU,"Aug 31, 2020",110.976
 Germany,DEU,"Sep 1, 2020",111.024
+Germany,DEU,"Sep 2, 2020",111.155
 Ghana,GHA,"Mar 13, 2020",0
 Ghana,GHA,"Mar 15, 2020",0
 Ghana,GHA,"Mar 16, 2020",0
@@ -14366,6 +14440,7 @@ Ghana,GHA,"Aug 29, 2020",8.689
 Ghana,GHA,"Aug 30, 2020",8.689
 Ghana,GHA,"Aug 31, 2020",8.882
 Ghana,GHA,"Sep 1, 2020",8.882
+Ghana,GHA,"Sep 2, 2020",8.882
 Gibraltar,GIB,"Mar 20, 2020",0
 Gibraltar,GIB,"Mar 21, 2020",0
 Gibraltar,GIB,"Mar 22, 2020",0
@@ -14532,6 +14607,7 @@ Gibraltar,GIB,"Aug 29, 2020",0
 Gibraltar,GIB,"Aug 30, 2020",0
 Gibraltar,GIB,"Aug 31, 2020",0
 Gibraltar,GIB,"Sep 1, 2020",0
+Gibraltar,GIB,"Sep 2, 2020",0
 Greece,GRC,"Dec 31, 2019",0
 Greece,GRC,"Jan 1, 2020",0
 Greece,GRC,"Jan 2, 2020",0
@@ -14776,6 +14852,7 @@ Greece,GRC,"Aug 29, 2020",24.849
 Greece,GRC,"Aug 30, 2020",24.945
 Greece,GRC,"Aug 31, 2020",25.137
 Greece,GRC,"Sep 1, 2020",25.52
+Greece,GRC,"Sep 2, 2020",26
 Greenland,GRL,"Mar 20, 2020",0
 Greenland,GRL,"Mar 21, 2020",0
 Greenland,GRL,"Mar 22, 2020",0
@@ -14942,6 +15019,7 @@ Greenland,GRL,"Aug 29, 2020",0
 Greenland,GRL,"Aug 30, 2020",0
 Greenland,GRL,"Aug 31, 2020",0
 Greenland,GRL,"Sep 1, 2020",0
+Greenland,GRL,"Sep 2, 2020",0
 Grenada,GRD,"Mar 23, 2020",0
 Grenada,GRD,"Mar 24, 2020",0
 Grenada,GRD,"Mar 25, 2020",0
@@ -15105,6 +15183,7 @@ Grenada,GRD,"Aug 29, 2020",0
 Grenada,GRD,"Aug 30, 2020",0
 Grenada,GRD,"Aug 31, 2020",0
 Grenada,GRD,"Sep 1, 2020",0
+Grenada,GRD,"Sep 2, 2020",0
 Guam,GUM,"Mar 19, 2020",0
 Guam,GUM,"Mar 20, 2020",0
 Guam,GUM,"Mar 21, 2020",0
@@ -15272,6 +15351,7 @@ Guam,GUM,"Aug 29, 2020",59.248
 Guam,GUM,"Aug 30, 2020",59.248
 Guam,GUM,"Aug 31, 2020",59.248
 Guam,GUM,"Sep 1, 2020",59.248
+Guam,GUM,"Sep 2, 2020",77.022
 Guatemala,GTM,"Mar 15, 2020",0
 Guatemala,GTM,"Mar 16, 2020",0.056
 Guatemala,GTM,"Mar 17, 2020",0.056
@@ -15443,6 +15523,7 @@ Guatemala,GTM,"Aug 29, 2020",151.209
 Guatemala,GTM,"Aug 30, 2020",152.27
 Guatemala,GTM,"Aug 31, 2020",152.94
 Guatemala,GTM,"Sep 1, 2020",154.056
+Guatemala,GTM,"Sep 2, 2020",155.061
 Guernsey,GGY,"Mar 20, 2020",0
 Guernsey,GGY,"Mar 21, 2020",0
 Guernsey,GGY,"Mar 22, 2020",0
@@ -15609,6 +15690,7 @@ Guernsey,GGY,"Aug 29, 2020",193.879
 Guernsey,GGY,"Aug 30, 2020",193.879
 Guernsey,GGY,"Aug 31, 2020",193.879
 Guernsey,GGY,"Sep 1, 2020",193.879
+Guernsey,GGY,"Sep 2, 2020",193.879
 Guinea,GIN,"Mar 14, 2020",0
 Guinea,GIN,"Mar 15, 2020",0
 Guinea,GIN,"Mar 17, 2020",0
@@ -15780,6 +15862,7 @@ Guinea,GIN,"Aug 29, 2020",4.493
 Guinea,GIN,"Aug 30, 2020",4.493
 Guinea,GIN,"Aug 31, 2020",4.493
 Guinea,GIN,"Sep 1, 2020",4.493
+Guinea,GIN,"Sep 2, 2020",4.493
 Guinea-Bissau,GNB,"Mar 27, 2020",0
 Guinea-Bissau,GNB,"Mar 28, 2020",0
 Guinea-Bissau,GNB,"Mar 29, 2020",0
@@ -15939,6 +16022,7 @@ Guinea-Bissau,GNB,"Aug 29, 2020",16.768
 Guinea-Bissau,GNB,"Aug 30, 2020",16.768
 Guinea-Bissau,GNB,"Aug 31, 2020",17.276
 Guinea-Bissau,GNB,"Sep 1, 2020",17.276
+Guinea-Bissau,GNB,"Sep 2, 2020",17.276
 Guyana,GUY,"Mar 13, 2020",1.271
 Guyana,GUY,"Mar 16, 2020",1.271
 Guyana,GUY,"Mar 17, 2020",1.271
@@ -16110,6 +16194,7 @@ Guyana,GUY,"Aug 29, 2020",44.498
 Guyana,GUY,"Aug 30, 2020",44.498
 Guyana,GUY,"Aug 31, 2020",47.04
 Guyana,GUY,"Sep 1, 2020",49.583
+Guyana,GUY,"Sep 2, 2020",52.126
 Haiti,HTI,"Mar 20, 2020",0
 Haiti,HTI,"Mar 21, 2020",0
 Haiti,HTI,"Mar 22, 2020",0
@@ -16276,6 +16361,7 @@ Haiti,HTI,"Aug 29, 2020",17.628
 Haiti,HTI,"Aug 30, 2020",17.628
 Haiti,HTI,"Aug 31, 2020",17.628
 Haiti,HTI,"Sep 1, 2020",17.628
+Haiti,HTI,"Sep 2, 2020",18.066
 Honduras,HND,"Mar 12, 2020",0
 Honduras,HND,"Mar 14, 2020",0
 Honduras,HND,"Mar 16, 2020",0
@@ -16448,6 +16534,7 @@ Honduras,HND,"Aug 29, 2020",184.46
 Honduras,HND,"Aug 30, 2020",185.974
 Honduras,HND,"Aug 31, 2020",187.589
 Honduras,HND,"Sep 1, 2020",189.104
+Honduras,HND,"Sep 2, 2020",190.618
 Hungary,HUN,"Mar 5, 2020",0
 Hungary,HUN,"Mar 7, 2020",0
 Hungary,HUN,"Mar 8, 2020",0
@@ -16628,6 +16715,7 @@ Hungary,HUN,"Aug 29, 2020",63.559
 Hungary,HUN,"Aug 30, 2020",63.559
 Hungary,HUN,"Aug 31, 2020",63.559
 Hungary,HUN,"Sep 1, 2020",63.662
+Hungary,HUN,"Sep 2, 2020",63.766
 Iceland,ISL,"Dec 31, 2019",0
 Iceland,ISL,"Jan 1, 2020",0
 Iceland,ISL,"Jan 2, 2020",0
@@ -16874,6 +16962,7 @@ Iceland,ISL,"Aug 29, 2020",29.304
 Iceland,ISL,"Aug 30, 2020",29.304
 Iceland,ISL,"Aug 31, 2020",29.304
 Iceland,ISL,"Sep 1, 2020",29.304
+Iceland,ISL,"Sep 2, 2020",29.304
 India,IND,"Dec 31, 2019",0
 India,IND,"Jan 1, 2020",0
 India,IND,"Jan 2, 2020",0
@@ -17119,6 +17208,7 @@ India,IND,"Aug 29, 2020",45.326
 India,IND,"Aug 30, 2020",46.013
 India,IND,"Aug 31, 2020",46.717
 India,IND,"Sep 1, 2020",47.267
+India,IND,"Sep 2, 2020",48.067
 Indonesia,IDN,"Dec 31, 2019",0
 Indonesia,IDN,"Jan 1, 2020",0
 Indonesia,IDN,"Jan 2, 2020",0
@@ -17358,6 +17448,7 @@ Indonesia,IDN,"Aug 29, 2020",26.21
 Indonesia,IDN,"Aug 30, 2020",26.546
 Indonesia,IDN,"Aug 31, 2020",26.846
 Indonesia,IDN,"Sep 1, 2020",27.116
+Indonesia,IDN,"Sep 2, 2020",27.438
 Iran,IRN,"Dec 31, 2019",0
 Iran,IRN,"Jan 1, 2020",0
 Iran,IRN,"Jan 2, 2020",0
@@ -17604,6 +17695,7 @@ Iran,IRN,"Aug 29, 2020",252.986
 Iran,IRN,"Aug 30, 2020",254.295
 Iran,IRN,"Aug 31, 2020",255.521
 Iran,IRN,"Sep 1, 2020",256.819
+Iran,IRN,"Sep 2, 2020",258.022
 Iraq,IRQ,"Dec 31, 2019",0
 Iraq,IRQ,"Jan 1, 2020",0
 Iraq,IRQ,"Jan 2, 2020",0
@@ -17848,6 +17940,7 @@ Iraq,IRQ,"Aug 29, 2020",169.408
 Iraq,IRQ,"Aug 30, 2020",171.322
 Iraq,IRQ,"Aug 31, 2020",173.013
 Iraq,IRQ,"Sep 1, 2020",175.076
+Iraq,IRQ,"Sep 2, 2020",177.09
 Ireland,IRL,"Dec 31, 2019",0
 Ireland,IRL,"Jan 1, 2020",0
 Ireland,IRL,"Jan 2, 2020",0
@@ -18092,6 +18185,7 @@ Ireland,IRL,"Aug 29, 2020",359.877
 Ireland,IRL,"Aug 30, 2020",359.877
 Ireland,IRL,"Aug 31, 2020",359.877
 Ireland,IRL,"Sep 1, 2020",359.877
+Ireland,IRL,"Sep 2, 2020",359.877
 Isle of Man,IMN,"Mar 21, 2020",0
 Isle of Man,IMN,"Mar 22, 2020",0
 Isle of Man,IMN,"Mar 23, 2020",0
@@ -18257,6 +18351,7 @@ Isle of Man,IMN,"Aug 29, 2020",282.247
 Isle of Man,IMN,"Aug 30, 2020",282.247
 Isle of Man,IMN,"Aug 31, 2020",282.247
 Isle of Man,IMN,"Sep 1, 2020",282.247
+Isle of Man,IMN,"Sep 2, 2020",282.247
 Israel,ISR,"Dec 31, 2019",0
 Israel,ISR,"Jan 1, 2020",0
 Israel,ISR,"Jan 2, 2020",0
@@ -18500,6 +18595,7 @@ Israel,ISR,"Aug 29, 2020",103.286
 Israel,ISR,"Aug 30, 2020",104.673
 Israel,ISR,"Aug 31, 2020",106.175
 Israel,ISR,"Sep 1, 2020",108.485
+Israel,ISR,"Sep 2, 2020",110.565
 Italy,ITA,"Dec 31, 2019",0
 Italy,ITA,"Jan 1, 2020",0
 Italy,ITA,"Jan 2, 2020",0
@@ -18746,6 +18842,7 @@ Italy,ITA,"Aug 29, 2020",586.684
 Italy,ITA,"Aug 30, 2020",586.701
 Italy,ITA,"Aug 31, 2020",586.767
 Italy,ITA,"Sep 1, 2020",586.866
+Italy,ITA,"Sep 2, 2020",586.998
 Jamaica,JAM,"Mar 12, 2020",0
 Jamaica,JAM,"Mar 13, 2020",0
 Jamaica,JAM,"Mar 14, 2020",0
@@ -18919,6 +19016,7 @@ Jamaica,JAM,"Aug 29, 2020",6.416
 Jamaica,JAM,"Aug 30, 2020",6.754
 Jamaica,JAM,"Aug 31, 2020",7.092
 Jamaica,JAM,"Sep 1, 2020",7.092
+Jamaica,JAM,"Sep 2, 2020",8.105
 Japan,JPN,"Dec 31, 2019",0
 Japan,JPN,"Jan 1, 2020",0
 Japan,JPN,"Jan 2, 2020",0
@@ -19165,6 +19263,7 @@ Japan,JPN,"Aug 29, 2020",9.923
 Japan,JPN,"Aug 30, 2020",9.994
 Japan,JPN,"Aug 31, 2020",10.113
 Japan,JPN,"Sep 1, 2020",10.247
+Japan,JPN,"Sep 2, 2020",10.334
 Jersey,JEY,"Mar 20, 2020",0
 Jersey,JEY,"Mar 21, 2020",0
 Jersey,JEY,"Mar 22, 2020",0
@@ -19331,6 +19430,7 @@ Jersey,JEY,"Aug 29, 2020",316.603
 Jersey,JEY,"Aug 30, 2020",316.603
 Jersey,JEY,"Aug 31, 2020",316.603
 Jersey,JEY,"Sep 1, 2020",316.603
+Jersey,JEY,"Sep 2, 2020",316.603
 Jordan,JOR,"Mar 3, 2020",0
 Jordan,JOR,"Mar 8, 2020",0
 Jordan,JOR,"Mar 15, 2020",0
@@ -19504,6 +19604,7 @@ Jordan,JOR,"Aug 29, 2020",1.47
 Jordan,JOR,"Aug 30, 2020",1.47
 Jordan,JOR,"Aug 31, 2020",1.47
 Jordan,JOR,"Sep 1, 2020",1.47
+Jordan,JOR,"Sep 2, 2020",1.47
 Kazakhstan,KAZ,"Mar 15, 2020",0
 Kazakhstan,KAZ,"Mar 16, 2020",0
 Kazakhstan,KAZ,"Mar 17, 2020",0
@@ -19675,6 +19776,7 @@ Kazakhstan,KAZ,"Aug 29, 2020",94.852
 Kazakhstan,KAZ,"Aug 30, 2020",94.852
 Kazakhstan,KAZ,"Aug 31, 2020",94.852
 Kazakhstan,KAZ,"Sep 1, 2020",96.662
+Kazakhstan,KAZ,"Sep 2, 2020",100.284
 Kenya,KEN,"Mar 14, 2020",0
 Kenya,KEN,"Mar 15, 2020",0
 Kenya,KEN,"Mar 16, 2020",0
@@ -19847,6 +19949,7 @@ Kenya,KEN,"Aug 29, 2020",10.545
 Kenya,KEN,"Aug 30, 2020",10.638
 Kenya,KEN,"Aug 31, 2020",10.675
 Kenya,KEN,"Sep 1, 2020",10.731
+Kenya,KEN,"Sep 2, 2020",10.731
 Kosovo,OWID_KOS,"Mar 14, 2020",0
 Kosovo,OWID_KOS,"Mar 15, 2020",0
 Kosovo,OWID_KOS,"Mar 16, 2020",0
@@ -20019,6 +20122,7 @@ Kosovo,OWID_KOS,"Aug 29, 2020",252.487
 Kosovo,OWID_KOS,"Aug 30, 2020",253.004
 Kosovo,OWID_KOS,"Aug 31, 2020",257.661
 Kosovo,OWID_KOS,"Sep 1, 2020",261.8
+Kosovo,OWID_KOS,"Sep 2, 2020",266.456
 Kuwait,KWT,"Dec 31, 2019",0
 Kuwait,KWT,"Jan 1, 2020",0
 Kuwait,KWT,"Jan 2, 2020",0
@@ -20262,6 +20366,7 @@ Kuwait,KWT,"Aug 29, 2020",122.935
 Kuwait,KWT,"Aug 30, 2020",123.637
 Kuwait,KWT,"Aug 31, 2020",124.105
 Kuwait,KWT,"Sep 1, 2020",124.34
+Kuwait,KWT,"Sep 2, 2020",125.042
 Kyrgyzstan,KGZ,"Mar 19, 2020",0
 Kyrgyzstan,KGZ,"Mar 20, 2020",0
 Kyrgyzstan,KGZ,"Mar 21, 2020",0
@@ -20429,6 +20534,7 @@ Kyrgyzstan,KGZ,"Aug 29, 2020",162.012
 Kyrgyzstan,KGZ,"Aug 30, 2020",162.166
 Kyrgyzstan,KGZ,"Aug 31, 2020",162.166
 Kyrgyzstan,KGZ,"Sep 1, 2020",162.319
+Kyrgyzstan,KGZ,"Sep 2, 2020",162.319
 Laos,LAO,"Mar 25, 2020",0
 Laos,LAO,"Mar 26, 2020",0
 Laos,LAO,"Mar 27, 2020",0
@@ -20590,6 +20696,7 @@ Laos,LAO,"Aug 29, 2020",0
 Laos,LAO,"Aug 30, 2020",0
 Laos,LAO,"Aug 31, 2020",0
 Laos,LAO,"Sep 1, 2020",0
+Laos,LAO,"Sep 2, 2020",0
 Latvia,LVA,"Mar 3, 2020",0
 Latvia,LVA,"Mar 8, 2020",0
 Latvia,LVA,"Mar 9, 2020",0
@@ -20769,6 +20876,7 @@ Latvia,LVA,"Aug 29, 2020",18.026
 Latvia,LVA,"Aug 30, 2020",18.026
 Latvia,LVA,"Aug 31, 2020",18.026
 Latvia,LVA,"Sep 1, 2020",18.026
+Latvia,LVA,"Sep 2, 2020",18.026
 Lebanon,LBN,"Dec 31, 2019",0
 Lebanon,LBN,"Jan 1, 2020",0
 Lebanon,LBN,"Jan 2, 2020",0
@@ -21011,6 +21119,7 @@ Lebanon,LBN,"Aug 29, 2020",21.684
 Lebanon,LBN,"Aug 30, 2020",22.709
 Lebanon,LBN,"Aug 31, 2020",23.442
 Lebanon,LBN,"Sep 1, 2020",24.467
+Lebanon,LBN,"Sep 2, 2020",25.053
 Lesotho,LSO,"May 15, 2020",0
 Lesotho,LSO,"May 16, 2020",0
 Lesotho,LSO,"May 17, 2020",0
@@ -21121,6 +21230,7 @@ Lesotho,LSO,"Aug 29, 2020",14.471
 Lesotho,LSO,"Aug 30, 2020",14.471
 Lesotho,LSO,"Aug 31, 2020",14.471
 Lesotho,LSO,"Sep 1, 2020",14.471
+Lesotho,LSO,"Sep 2, 2020",14.471
 Liberia,LBR,"Mar 17, 2020",0
 Liberia,LBR,"Mar 18, 2020",0
 Liberia,LBR,"Mar 19, 2020",0
@@ -21290,6 +21400,7 @@ Liberia,LBR,"Aug 29, 2020",16.213
 Liberia,LBR,"Aug 30, 2020",16.213
 Liberia,LBR,"Aug 31, 2020",16.213
 Liberia,LBR,"Sep 1, 2020",16.213
+Liberia,LBR,"Sep 2, 2020",16.213
 Libya,LBY,"Mar 25, 2020",0
 Libya,LBY,"Mar 26, 2020",0
 Libya,LBY,"Mar 27, 2020",0
@@ -21451,6 +21562,7 @@ Libya,LBY,"Aug 29, 2020",32.89
 Libya,LBY,"Aug 30, 2020",33.618
 Libya,LBY,"Aug 31, 2020",33.764
 Libya,LBY,"Sep 1, 2020",34.491
+Libya,LBY,"Sep 2, 2020",35.219
 Liechtenstein,LIE,"Mar 5, 2020",0
 Liechtenstein,LIE,"Mar 12, 2020",0
 Liechtenstein,LIE,"Mar 13, 2020",0
@@ -21626,6 +21738,7 @@ Liechtenstein,LIE,"Aug 29, 2020",26.221
 Liechtenstein,LIE,"Aug 30, 2020",26.221
 Liechtenstein,LIE,"Aug 31, 2020",26.221
 Liechtenstein,LIE,"Sep 1, 2020",26.221
+Liechtenstein,LIE,"Sep 2, 2020",26.221
 Lithuania,LTU,"Dec 31, 2019",0
 Lithuania,LTU,"Jan 1, 2020",0
 Lithuania,LTU,"Jan 2, 2020",0
@@ -21863,6 +21976,7 @@ Lithuania,LTU,"Aug 29, 2020",31.591
 Lithuania,LTU,"Aug 30, 2020",31.591
 Lithuania,LTU,"Aug 31, 2020",31.591
 Lithuania,LTU,"Sep 1, 2020",31.591
+Lithuania,LTU,"Sep 2, 2020",31.591
 Luxembourg,LUX,"Dec 31, 2019",0
 Luxembourg,LUX,"Jan 1, 2020",0
 Luxembourg,LUX,"Jan 2, 2020",0
@@ -22102,6 +22216,7 @@ Luxembourg,LUX,"Aug 29, 2020",198.091
 Luxembourg,LUX,"Aug 30, 2020",198.091
 Luxembourg,LUX,"Aug 31, 2020",198.091
 Luxembourg,LUX,"Sep 1, 2020",198.091
+Luxembourg,LUX,"Sep 2, 2020",198.091
 Macedonia,MKD,"Dec 31, 2019",0
 Macedonia,MKD,"Jan 1, 2020",0
 Macedonia,MKD,"Jan 2, 2020",0
@@ -22339,6 +22454,7 @@ Macedonia,MKD,"Aug 29, 2020",280.314
 Macedonia,MKD,"Aug 30, 2020",280.314
 Macedonia,MKD,"Aug 31, 2020",280.314
 Macedonia,MKD,"Sep 1, 2020",287.994
+Macedonia,MKD,"Sep 2, 2020",289.434
 Madagascar,MDG,"Mar 21, 2020",0
 Madagascar,MDG,"Mar 22, 2020",0
 Madagascar,MDG,"Mar 23, 2020",0
@@ -22504,6 +22620,7 @@ Madagascar,MDG,"Aug 29, 2020",6.753
 Madagascar,MDG,"Aug 30, 2020",6.861
 Madagascar,MDG,"Aug 31, 2020",6.898
 Madagascar,MDG,"Sep 1, 2020",6.934
+Madagascar,MDG,"Sep 2, 2020",7.042
 Malawi,MWI,"Apr 3, 2020",0
 Malawi,MWI,"Apr 4, 2020",0
 Malawi,MWI,"Apr 5, 2020",0
@@ -22656,6 +22773,7 @@ Malawi,MWI,"Aug 29, 2020",9.096
 Malawi,MWI,"Aug 30, 2020",9.096
 Malawi,MWI,"Aug 31, 2020",9.096
 Malawi,MWI,"Sep 1, 2020",9.148
+Malawi,MWI,"Sep 2, 2020",9.148
 Malaysia,MYS,"Dec 31, 2019",0
 Malaysia,MYS,"Jan 1, 2020",0
 Malaysia,MYS,"Jan 2, 2020",0
@@ -22901,6 +23019,7 @@ Malaysia,MYS,"Aug 29, 2020",3.862
 Malaysia,MYS,"Aug 30, 2020",3.862
 Malaysia,MYS,"Aug 31, 2020",3.893
 Malaysia,MYS,"Sep 1, 2020",3.924
+Malaysia,MYS,"Sep 2, 2020",3.955
 Maldives,MDV,"Mar 8, 2020",0
 Maldives,MDV,"Mar 9, 2020",0
 Maldives,MDV,"Mar 11, 2020",0
@@ -23077,6 +23196,7 @@ Maldives,MDV,"Aug 29, 2020",51.8
 Maldives,MDV,"Aug 30, 2020",51.8
 Maldives,MDV,"Aug 31, 2020",51.8
 Maldives,MDV,"Sep 1, 2020",51.8
+Maldives,MDV,"Sep 2, 2020",53.65
 Mali,MLI,"Mar 26, 2020",0
 Mali,MLI,"Mar 27, 2020",0
 Mali,MLI,"Mar 28, 2020",0
@@ -23237,6 +23357,7 @@ Mali,MLI,"Aug 29, 2020",6.222
 Mali,MLI,"Aug 30, 2020",6.222
 Mali,MLI,"Aug 31, 2020",6.222
 Mali,MLI,"Sep 1, 2020",6.222
+Mali,MLI,"Sep 2, 2020",6.222
 Malta,MLT,"Mar 7, 2020",0
 Malta,MLT,"Mar 8, 2020",0
 Malta,MLT,"Mar 9, 2020",0
@@ -23416,6 +23537,7 @@ Malta,MLT,"Aug 29, 2020",22.648
 Malta,MLT,"Aug 30, 2020",22.648
 Malta,MLT,"Aug 31, 2020",24.913
 Malta,MLT,"Sep 1, 2020",27.178
+Malta,MLT,"Sep 2, 2020",27.178
 Mauritania,MRT,"Mar 15, 2020",0
 Mauritania,MRT,"Mar 16, 2020",0
 Mauritania,MRT,"Mar 17, 2020",0
@@ -23587,6 +23709,7 @@ Mauritania,MRT,"Aug 29, 2020",33.981
 Mauritania,MRT,"Aug 30, 2020",33.981
 Mauritania,MRT,"Aug 31, 2020",34.196
 Mauritania,MRT,"Sep 1, 2020",34.196
+Mauritania,MRT,"Sep 2, 2020",34.196
 Mauritius,MUS,"Mar 20, 2020",0
 Mauritius,MUS,"Mar 21, 2020",0
 Mauritius,MUS,"Mar 22, 2020",0.786
@@ -23753,6 +23876,7 @@ Mauritius,MUS,"Aug 29, 2020",7.863
 Mauritius,MUS,"Aug 30, 2020",7.863
 Mauritius,MUS,"Aug 31, 2020",7.863
 Mauritius,MUS,"Sep 1, 2020",7.863
+Mauritius,MUS,"Sep 2, 2020",7.863
 Mexico,MEX,"Dec 31, 2019",0
 Mexico,MEX,"Jan 1, 2020",0
 Mexico,MEX,"Jan 2, 2020",0
@@ -23991,6 +24115,7 @@ Mexico,MEX,"Aug 29, 2020",489.759
 Mexico,MEX,"Aug 30, 2020",494.979
 Mexico,MEX,"Aug 31, 2020",497.608
 Mexico,MEX,"Sep 1, 2020",499.594
+Mexico,MEX,"Sep 2, 2020",506.008
 Moldova,MDA,"Mar 8, 2020",0
 Moldova,MDA,"Mar 11, 2020",0
 Moldova,MDA,"Mar 12, 2020",0
@@ -24167,6 +24292,7 @@ Moldova,MDA,"Aug 29, 2020",243.185
 Moldova,MDA,"Aug 30, 2020",245.416
 Moldova,MDA,"Aug 31, 2020",245.912
 Moldova,MDA,"Sep 1, 2020",246.656
+Moldova,MDA,"Sep 2, 2020",249.878
 Monaco,MCO,"Dec 31, 2019",0
 Monaco,MCO,"Jan 1, 2020",0
 Monaco,MCO,"Jan 2, 2020",0
@@ -24401,6 +24527,7 @@ Monaco,MCO,"Aug 29, 2020",25.482
 Monaco,MCO,"Aug 30, 2020",25.482
 Monaco,MCO,"Aug 31, 2020",25.482
 Monaco,MCO,"Sep 1, 2020",25.482
+Monaco,MCO,"Sep 2, 2020",25.482
 Mongolia,MNG,"Mar 10, 2020",0
 Mongolia,MNG,"Mar 15, 2020",0
 Mongolia,MNG,"Mar 18, 2020",0
@@ -24571,6 +24698,7 @@ Mongolia,MNG,"Aug 29, 2020",0
 Mongolia,MNG,"Aug 30, 2020",0
 Mongolia,MNG,"Aug 31, 2020",0
 Mongolia,MNG,"Sep 1, 2020",0
+Mongolia,MNG,"Sep 2, 2020",0
 Montenegro,MNE,"Mar 18, 2020",0
 Montenegro,MNE,"Mar 19, 2020",0
 Montenegro,MNE,"Mar 20, 2020",0
@@ -24739,6 +24867,7 @@ Montenegro,MNE,"Aug 29, 2020",146.482
 Montenegro,MNE,"Aug 30, 2020",148.075
 Montenegro,MNE,"Aug 31, 2020",156.036
 Montenegro,MNE,"Sep 1, 2020",159.22
+Montenegro,MNE,"Sep 2, 2020",162.404
 Montserrat,MSR,"Mar 21, 2020",0
 Montserrat,MSR,"Mar 22, 2020",0
 Montserrat,MSR,"Mar 23, 2020",0
@@ -24903,6 +25032,7 @@ Montserrat,MSR,"Aug 29, 2020",200.04
 Montserrat,MSR,"Aug 30, 2020",200.04
 Montserrat,MSR,"Aug 31, 2020",200.04
 Montserrat,MSR,"Sep 1, 2020",200.04
+Montserrat,MSR,"Sep 2, 2020",200.04
 Morocco,MAR,"Mar 3, 2020",0
 Morocco,MAR,"Mar 6, 2020",0
 Morocco,MAR,"Mar 12, 2020",0.027
@@ -25079,6 +25209,7 @@ Morocco,MAR,"Aug 29, 2020",28.501
 Morocco,MAR,"Aug 30, 2020",29.206
 Morocco,MAR,"Aug 31, 2020",30.1
 Morocco,MAR,"Sep 1, 2020",30.913
+Morocco,MAR,"Sep 2, 2020",32.078
 Mozambique,MOZ,"Mar 23, 2020",0
 Mozambique,MOZ,"Mar 24, 2020",0
 Mozambique,MOZ,"Mar 25, 2020",0
@@ -25242,6 +25373,7 @@ Mozambique,MOZ,"Aug 29, 2020",0.672
 Mozambique,MOZ,"Aug 30, 2020",0.704
 Mozambique,MOZ,"Aug 31, 2020",0.736
 Mozambique,MOZ,"Sep 1, 2020",0.736
+Mozambique,MOZ,"Sep 2, 2020",0.736
 Myanmar,MMR,"Mar 17, 2020",0
 Myanmar,MMR,"Mar 24, 2020",0
 Myanmar,MMR,"Mar 25, 2020",0
@@ -25405,6 +25537,7 @@ Myanmar,MMR,"Aug 29, 2020",0.11
 Myanmar,MMR,"Aug 30, 2020",0.11
 Myanmar,MMR,"Aug 31, 2020",0.11
 Myanmar,MMR,"Sep 1, 2020",0.11
+Myanmar,MMR,"Sep 2, 2020",0.11
 Namibia,NAM,"Mar 15, 2020",0
 Namibia,NAM,"Mar 16, 2020",0
 Namibia,NAM,"Mar 17, 2020",0
@@ -25576,6 +25709,7 @@ Namibia,NAM,"Aug 29, 2020",25.581
 Namibia,NAM,"Aug 30, 2020",27.156
 Namibia,NAM,"Aug 31, 2020",28.336
 Namibia,NAM,"Sep 1, 2020",29.517
+Namibia,NAM,"Sep 2, 2020",31.878
 Nepal,NPL,"Dec 31, 2019",0
 Nepal,NPL,"Jan 1, 2020",0
 Nepal,NPL,"Jan 2, 2020",0
@@ -25809,6 +25943,7 @@ Nepal,NPL,"Aug 29, 2020",6.693
 Nepal,NPL,"Aug 30, 2020",7.104
 Nepal,NPL,"Aug 31, 2020",7.585
 Nepal,NPL,"Sep 1, 2020",7.825
+Nepal,NPL,"Sep 2, 2020",8.203
 Netherlands,NLD,"Dec 31, 2019",0
 Netherlands,NLD,"Jan 1, 2020",0
 Netherlands,NLD,"Jan 2, 2020",0
@@ -26055,6 +26190,7 @@ Netherlands,NLD,"Aug 29, 2020",362.477
 Netherlands,NLD,"Aug 30, 2020",362.711
 Netherlands,NLD,"Aug 31, 2020",362.711
 Netherlands,NLD,"Sep 1, 2020",362.711
+Netherlands,NLD,"Sep 2, 2020",363.061
 New Caledonia,NCL,"Mar 21, 2020",0
 New Caledonia,NCL,"Mar 22, 2020",0
 New Caledonia,NCL,"Mar 23, 2020",0
@@ -26220,6 +26356,7 @@ New Caledonia,NCL,"Aug 29, 2020",0
 New Caledonia,NCL,"Aug 30, 2020",0
 New Caledonia,NCL,"Aug 31, 2020",0
 New Caledonia,NCL,"Sep 1, 2020",0
+New Caledonia,NCL,"Sep 2, 2020",0
 New Zealand,NZL,"Dec 31, 2019",0
 New Zealand,NZL,"Jan 1, 2020",0
 New Zealand,NZL,"Jan 2, 2020",0
@@ -26457,6 +26594,7 @@ New Zealand,NZL,"Aug 29, 2020",4.562
 New Zealand,NZL,"Aug 30, 2020",4.562
 New Zealand,NZL,"Aug 31, 2020",4.562
 New Zealand,NZL,"Sep 1, 2020",4.562
+New Zealand,NZL,"Sep 2, 2020",4.562
 Nicaragua,NIC,"Mar 19, 2020",0
 Nicaragua,NIC,"Mar 20, 2020",0
 Nicaragua,NIC,"Mar 21, 2020",0
@@ -26624,6 +26762,7 @@ Nicaragua,NIC,"Aug 29, 2020",20.681
 Nicaragua,NIC,"Aug 30, 2020",20.681
 Nicaragua,NIC,"Aug 31, 2020",20.681
 Nicaragua,NIC,"Sep 1, 2020",20.681
+Nicaragua,NIC,"Sep 2, 2020",20.681
 Niger,NER,"Mar 21, 2020",0
 Niger,NER,"Mar 22, 2020",0
 Niger,NER,"Mar 23, 2020",0
@@ -26789,6 +26928,7 @@ Niger,NER,"Aug 29, 2020",2.85
 Niger,NER,"Aug 30, 2020",2.85
 Niger,NER,"Aug 31, 2020",2.85
 Niger,NER,"Sep 1, 2020",2.85
+Niger,NER,"Sep 2, 2020",2.85
 Nigeria,NGA,"Dec 31, 2019",0
 Nigeria,NGA,"Jan 1, 2020",0
 Nigeria,NGA,"Jan 2, 2020",0
@@ -27024,6 +27164,7 @@ Nigeria,NGA,"Aug 29, 2020",4.904
 Nigeria,NGA,"Aug 30, 2020",4.904
 Nigeria,NGA,"Aug 31, 2020",4.914
 Nigeria,NGA,"Sep 1, 2020",4.914
+Nigeria,NGA,"Sep 2, 2020",4.963
 Northern Mariana Islands,MNP,"Mar 31, 2020",0
 Northern Mariana Islands,MNP,"Apr 1, 2020",0
 Northern Mariana Islands,MNP,"Apr 2, 2020",17.374
@@ -27179,6 +27320,7 @@ Northern Mariana Islands,MNP,"Aug 29, 2020",34.748
 Northern Mariana Islands,MNP,"Aug 30, 2020",34.748
 Northern Mariana Islands,MNP,"Aug 31, 2020",34.748
 Northern Mariana Islands,MNP,"Sep 1, 2020",34.748
+Northern Mariana Islands,MNP,"Sep 2, 2020",34.748
 Norway,NOR,"Dec 31, 2019",0
 Norway,NOR,"Jan 1, 2020",0
 Norway,NOR,"Jan 2, 2020",0
@@ -27425,6 +27567,7 @@ Norway,NOR,"Aug 29, 2020",48.697
 Norway,NOR,"Aug 30, 2020",48.697
 Norway,NOR,"Aug 31, 2020",48.697
 Norway,NOR,"Sep 1, 2020",48.697
+Norway,NOR,"Sep 2, 2020",48.697
 Oman,OMN,"Dec 31, 2019",0
 Oman,OMN,"Jan 1, 2020",0
 Oman,OMN,"Jan 2, 2020",0
@@ -27665,6 +27808,7 @@ Oman,OMN,"Aug 29, 2020",127.286
 Oman,OMN,"Aug 30, 2020",127.286
 Oman,OMN,"Aug 31, 2020",132.573
 Oman,OMN,"Sep 1, 2020",134.14
+Oman,OMN,"Sep 2, 2020",134.923
 Pakistan,PAK,"Dec 31, 2019",0
 Pakistan,PAK,"Jan 1, 2020",0
 Pakistan,PAK,"Jan 2, 2020",0
@@ -27906,6 +28050,7 @@ Pakistan,PAK,"Aug 29, 2020",28.448
 Pakistan,PAK,"Aug 30, 2020",28.466
 Pakistan,PAK,"Aug 31, 2020",28.494
 Pakistan,PAK,"Sep 1, 2020",28.512
+Pakistan,PAK,"Sep 2, 2020",28.602
 Palestine,PSE,"Mar 6, 2020",0
 Palestine,PSE,"Mar 7, 2020",0
 Palestine,PSE,"Mar 8, 2020",0
@@ -28083,6 +28228,7 @@ Palestine,PSE,"Aug 29, 2020",31.364
 Palestine,PSE,"Aug 30, 2020",32.148
 Palestine,PSE,"Aug 31, 2020",32.54
 Palestine,PSE,"Sep 1, 2020",33.912
+Palestine,PSE,"Sep 2, 2020",35.284
 Panama,PAN,"Mar 10, 2020",0
 Panama,PAN,"Mar 11, 2020",0.232
 Panama,PAN,"Mar 12, 2020",0.232
@@ -28259,6 +28405,7 @@ Panama,PAN,"Aug 29, 2020",455.644
 Panama,PAN,"Aug 30, 2020",459.584
 Panama,PAN,"Aug 31, 2020",462.366
 Panama,PAN,"Sep 1, 2020",463.988
+Panama,PAN,"Sep 2, 2020",467.696
 Papua New Guinea,PNG,"Mar 21, 2020",0
 Papua New Guinea,PNG,"Mar 22, 2020",0
 Papua New Guinea,PNG,"Mar 23, 2020",0
@@ -28424,6 +28571,7 @@ Papua New Guinea,PNG,"Aug 29, 2020",0.559
 Papua New Guinea,PNG,"Aug 30, 2020",0.559
 Papua New Guinea,PNG,"Aug 31, 2020",0.559
 Papua New Guinea,PNG,"Sep 1, 2020",0.559
+Papua New Guinea,PNG,"Sep 2, 2020",0.559
 Paraguay,PRY,"Mar 8, 2020",0
 Paraguay,PRY,"Mar 11, 2020",0
 Paraguay,PRY,"Mar 13, 2020",0
@@ -28598,6 +28746,7 @@ Paraguay,PRY,"Aug 29, 2020",39.257
 Paraguay,PRY,"Aug 30, 2020",41.22
 Paraguay,PRY,"Aug 31, 2020",43.182
 Paraguay,PRY,"Sep 1, 2020",45.706
+Paraguay,PRY,"Sep 2, 2020",48.791
 Peru,PER,"Mar 7, 2020",0
 Peru,PER,"Mar 9, 2020",0
 Peru,PER,"Mar 10, 2020",0
@@ -28776,6 +28925,7 @@ Peru,PER,"Aug 29, 2020",863.494
 Peru,PER,"Aug 30, 2020",867.619
 Peru,PER,"Aug 31, 2020",873.109
 Peru,PER,"Sep 1, 2020",877.84
+Peru,PER,"Sep 2, 2020",881.601
 Philippines,PHL,"Dec 31, 2019",0
 Philippines,PHL,"Jan 1, 2020",0
 Philippines,PHL,"Jan 2, 2020",0
@@ -29018,6 +29168,7 @@ Philippines,PHL,"Aug 29, 2020",30.343
 Philippines,PHL,"Aug 30, 2020",31.201
 Philippines,PHL,"Aug 31, 2020",32.122
 Philippines,PHL,"Sep 1, 2020",32.515
+Philippines,PHL,"Sep 2, 2020",32.825
 Poland,POL,"Mar 4, 2020",0
 Poland,POL,"Mar 7, 2020",0
 Poland,POL,"Mar 8, 2020",0
@@ -29198,6 +29349,7 @@ Poland,POL,"Aug 29, 2020",53.321
 Poland,POL,"Aug 30, 2020",53.69
 Poland,POL,"Aug 31, 2020",53.717
 Poland,POL,"Sep 1, 2020",53.875
+Poland,POL,"Sep 2, 2020",54.377
 Portugal,PRT,"Mar 3, 2020",0
 Portugal,PRT,"Mar 4, 2020",0
 Portugal,PRT,"Mar 5, 2020",0
@@ -29381,6 +29533,7 @@ Portugal,PRT,"Aug 29, 2020",177.999
 Portugal,PRT,"Aug 30, 2020",178.293
 Portugal,PRT,"Aug 31, 2020",178.391
 Portugal,PRT,"Sep 1, 2020",178.685
+Portugal,PRT,"Sep 2, 2020",178.881
 Puerto Rico,PRI,"Mar 28, 2020",0.699
 Puerto Rico,PRI,"Mar 29, 2020",1.049
 Puerto Rico,PRI,"Mar 30, 2020",1.748
@@ -29539,6 +29692,7 @@ Puerto Rico,PRI,"Aug 29, 2020",148.208
 Puerto Rico,PRI,"Aug 30, 2020",149.606
 Puerto Rico,PRI,"Aug 31, 2020",151.704
 Puerto Rico,PRI,"Sep 1, 2020",151.704
+Puerto Rico,PRI,"Sep 2, 2020",152.053
 Qatar,QAT,"Dec 31, 2019",0
 Qatar,QAT,"Jan 1, 2020",0
 Qatar,QAT,"Jan 2, 2020",0
@@ -29781,6 +29935,7 @@ Qatar,QAT,"Aug 29, 2020",68.031
 Qatar,QAT,"Aug 30, 2020",68.031
 Qatar,QAT,"Aug 31, 2020",68.378
 Qatar,QAT,"Sep 1, 2020",68.378
+Qatar,QAT,"Sep 2, 2020",68.725
 Romania,ROU,"Dec 31, 2019",0
 Romania,ROU,"Jan 1, 2020",0
 Romania,ROU,"Jan 2, 2020",0
@@ -30025,6 +30180,7 @@ Romania,ROU,"Aug 29, 2020",182.298
 Romania,ROU,"Aug 30, 2020",183.962
 Romania,ROU,"Aug 31, 2020",185.989
 Romania,ROU,"Sep 1, 2020",188.224
+Romania,ROU,"Sep 2, 2020",191.343
 Russia,RUS,"Dec 31, 2019",0
 Russia,RUS,"Jan 1, 2020",0
 Russia,RUS,"Jan 2, 2020",0
@@ -30271,6 +30427,7 @@ Russia,RUS,"Aug 29, 2020",115.901
 Russia,RUS,"Aug 30, 2020",116.662
 Russia,RUS,"Aug 31, 2020",117.128
 Russia,RUS,"Sep 1, 2020",117.697
+Russia,RUS,"Sep 2, 2020",118.54
 Rwanda,RWA,"Mar 15, 2020",0
 Rwanda,RWA,"Mar 16, 2020",0
 Rwanda,RWA,"Mar 17, 2020",0
@@ -30442,6 +30599,7 @@ Rwanda,RWA,"Aug 29, 2020",1.235
 Rwanda,RWA,"Aug 30, 2020",1.235
 Rwanda,RWA,"Aug 31, 2020",1.235
 Rwanda,RWA,"Sep 1, 2020",1.235
+Rwanda,RWA,"Sep 2, 2020",1.235
 Saint Kitts and Nevis,KNA,"Mar 26, 2020",0
 Saint Kitts and Nevis,KNA,"Mar 27, 2020",0
 Saint Kitts and Nevis,KNA,"Mar 28, 2020",0
@@ -30602,6 +30760,7 @@ Saint Kitts and Nevis,KNA,"Aug 29, 2020",0
 Saint Kitts and Nevis,KNA,"Aug 30, 2020",0
 Saint Kitts and Nevis,KNA,"Aug 31, 2020",0
 Saint Kitts and Nevis,KNA,"Sep 1, 2020",0
+Saint Kitts and Nevis,KNA,"Sep 2, 2020",0
 Saint Lucia,LCA,"Mar 15, 2020",0
 Saint Lucia,LCA,"Mar 16, 2020",0
 Saint Lucia,LCA,"Mar 17, 2020",0
@@ -30773,6 +30932,7 @@ Saint Lucia,LCA,"Aug 29, 2020",0
 Saint Lucia,LCA,"Aug 30, 2020",0
 Saint Lucia,LCA,"Aug 31, 2020",0
 Saint Lucia,LCA,"Sep 1, 2020",0
+Saint Lucia,LCA,"Sep 2, 2020",0
 Saint Vincent and the Grenadines,VCT,"Mar 13, 2020",0
 Saint Vincent and the Grenadines,VCT,"Mar 25, 2020",0
 Saint Vincent and the Grenadines,VCT,"Mar 26, 2020",0
@@ -30935,6 +31095,7 @@ Saint Vincent and the Grenadines,VCT,"Aug 29, 2020",0
 Saint Vincent and the Grenadines,VCT,"Aug 30, 2020",0
 Saint Vincent and the Grenadines,VCT,"Aug 31, 2020",0
 Saint Vincent and the Grenadines,VCT,"Sep 1, 2020",0
+Saint Vincent and the Grenadines,VCT,"Sep 2, 2020",0
 San Marino,SMR,"Dec 31, 2019",0
 San Marino,SMR,"Jan 1, 2020",0
 San Marino,SMR,"Jan 2, 2020",0
@@ -31180,6 +31341,7 @@ San Marino,SMR,"Aug 29, 2020",1237.551
 San Marino,SMR,"Aug 30, 2020",1237.551
 San Marino,SMR,"Aug 31, 2020",1237.551
 San Marino,SMR,"Sep 1, 2020",1237.551
+San Marino,SMR,"Sep 2, 2020",1237.551
 Sao Tome and Principe,STP,"Apr 9, 2020",0
 Sao Tome and Principe,STP,"Apr 10, 2020",0
 Sao Tome and Principe,STP,"Apr 11, 2020",0
@@ -31326,6 +31488,7 @@ Sao Tome and Principe,STP,"Aug 29, 2020",68.443
 Sao Tome and Principe,STP,"Aug 30, 2020",68.443
 Sao Tome and Principe,STP,"Aug 31, 2020",68.443
 Sao Tome and Principe,STP,"Sep 1, 2020",68.443
+Sao Tome and Principe,STP,"Sep 2, 2020",68.443
 Saudi Arabia,SAU,"Mar 3, 2020",0
 Saudi Arabia,SAU,"Mar 6, 2020",0
 Saudi Arabia,SAU,"Mar 8, 2020",0
@@ -31506,6 +31669,7 @@ Saudi Arabia,SAU,"Aug 29, 2020",109.525
 Saudi Arabia,SAU,"Aug 30, 2020",110.301
 Saudi Arabia,SAU,"Aug 31, 2020",111.163
 Saudi Arabia,SAU,"Sep 1, 2020",111.938
+Saudi Arabia,SAU,"Sep 2, 2020",112.857
 Senegal,SEN,"Mar 3, 2020",0
 Senegal,SEN,"Mar 5, 2020",0
 Senegal,SEN,"Mar 6, 2020",0
@@ -31682,6 +31846,7 @@ Senegal,SEN,"Aug 29, 2020",16.663
 Senegal,SEN,"Aug 30, 2020",16.842
 Senegal,SEN,"Aug 31, 2020",16.961
 Senegal,SEN,"Sep 1, 2020",16.961
+Senegal,SEN,"Sep 2, 2020",16.961
 Serbia,SRB,"Mar 7, 2020",0
 Serbia,SRB,"Mar 11, 2020",0
 Serbia,SRB,"Mar 12, 2020",0
@@ -31858,6 +32023,7 @@ Serbia,SRB,"Aug 29, 2020",104.194
 Serbia,SRB,"Aug 30, 2020",104.341
 Serbia,SRB,"Aug 31, 2020",104.488
 Serbia,SRB,"Sep 1, 2020",104.782
+Serbia,SRB,"Sep 2, 2020",105.076
 Seychelles,SYC,"Mar 15, 2020",0
 Seychelles,SYC,"Mar 16, 2020",0
 Seychelles,SYC,"Mar 17, 2020",0
@@ -32029,6 +32195,7 @@ Seychelles,SYC,"Aug 29, 2020",0
 Seychelles,SYC,"Aug 30, 2020",0
 Seychelles,SYC,"Aug 31, 2020",0
 Seychelles,SYC,"Sep 1, 2020",0
+Seychelles,SYC,"Sep 2, 2020",0
 Sierra Leone,SLE,"Apr 1, 2020",0
 Sierra Leone,SLE,"Apr 2, 2020",0
 Sierra Leone,SLE,"Apr 3, 2020",0
@@ -32183,6 +32350,7 @@ Sierra Leone,SLE,"Aug 29, 2020",8.775
 Sierra Leone,SLE,"Aug 30, 2020",8.775
 Sierra Leone,SLE,"Aug 31, 2020",8.775
 Sierra Leone,SLE,"Sep 1, 2020",8.775
+Sierra Leone,SLE,"Sep 2, 2020",8.901
 Singapore,SGP,"Dec 31, 2019",0
 Singapore,SGP,"Jan 1, 2020",0
 Singapore,SGP,"Jan 2, 2020",0
@@ -32429,6 +32597,7 @@ Singapore,SGP,"Aug 29, 2020",4.615
 Singapore,SGP,"Aug 30, 2020",4.615
 Singapore,SGP,"Aug 31, 2020",4.615
 Singapore,SGP,"Sep 1, 2020",4.615
+Singapore,SGP,"Sep 2, 2020",4.615
 Sint Maarten (Dutch part),SXM,"Mar 3, 2020",0
 Sint Maarten (Dutch part),SXM,"Mar 26, 2020",0
 Sint Maarten (Dutch part),SXM,"Mar 27, 2020",0
@@ -32589,6 +32758,7 @@ Sint Maarten (Dutch part),SXM,"Aug 29, 2020",396.437
 Sint Maarten (Dutch part),SXM,"Aug 30, 2020",396.437
 Sint Maarten (Dutch part),SXM,"Aug 31, 2020",396.437
 Sint Maarten (Dutch part),SXM,"Sep 1, 2020",396.437
+Sint Maarten (Dutch part),SXM,"Sep 2, 2020",443.076
 Slovakia,SVK,"Mar 7, 2020",0
 Slovakia,SVK,"Mar 8, 2020",0
 Slovakia,SVK,"Mar 9, 2020",0
@@ -32767,6 +32937,7 @@ Slovakia,SVK,"Aug 29, 2020",6.044
 Slovakia,SVK,"Aug 30, 2020",6.044
 Slovakia,SVK,"Aug 31, 2020",6.044
 Slovakia,SVK,"Sep 1, 2020",6.044
+Slovakia,SVK,"Sep 2, 2020",6.044
 Slovenia,SVN,"Mar 5, 2020",0
 Slovenia,SVN,"Mar 6, 2020",0
 Slovenia,SVN,"Mar 7, 2020",0
@@ -32947,6 +33118,7 @@ Slovenia,SVN,"Aug 29, 2020",61.57
 Slovenia,SVN,"Aug 30, 2020",61.57
 Slovenia,SVN,"Aug 31, 2020",61.57
 Slovenia,SVN,"Sep 1, 2020",61.57
+Slovenia,SVN,"Sep 2, 2020",61.57
 Somalia,SOM,"Mar 17, 2020",0
 Somalia,SOM,"Mar 18, 2020",0
 Somalia,SOM,"Mar 19, 2020",0
@@ -33116,6 +33288,7 @@ Somalia,SOM,"Aug 29, 2020",5.977
 Somalia,SOM,"Aug 30, 2020",6.166
 Somalia,SOM,"Aug 31, 2020",6.166
 Somalia,SOM,"Sep 1, 2020",6.166
+Somalia,SOM,"Sep 2, 2020",6.166
 South Africa,ZAF,"Mar 6, 2020",0
 South Africa,ZAF,"Mar 8, 2020",0
 South Africa,ZAF,"Mar 9, 2020",0
@@ -33294,6 +33467,7 @@ South Africa,ZAF,"Aug 29, 2020",231.72
 South Africa,ZAF,"Aug 30, 2020",235.733
 South Africa,ZAF,"Aug 31, 2020",236.525
 South Africa,ZAF,"Sep 1, 2020",238.565
+South Africa,ZAF,"Sep 2, 2020",240.488
 South Korea,KOR,"Dec 31, 2019",0
 South Korea,KOR,"Jan 1, 2020",0
 South Korea,KOR,"Jan 2, 2020",0
@@ -33540,6 +33714,7 @@ South Korea,KOR,"Aug 29, 2020",6.261
 South Korea,KOR,"Aug 30, 2020",6.3
 South Korea,KOR,"Aug 31, 2020",6.32
 South Korea,KOR,"Sep 1, 2020",6.32
+South Korea,KOR,"Sep 2, 2020",6.359
 South Sudan,SSD,"Apr 6, 2020",0
 South Sudan,SSD,"Apr 7, 2020",0
 South Sudan,SSD,"Apr 8, 2020",0
@@ -33689,6 +33864,7 @@ South Sudan,SSD,"Aug 29, 2020",4.199
 South Sudan,SSD,"Aug 30, 2020",4.199
 South Sudan,SSD,"Aug 31, 2020",4.199
 South Sudan,SSD,"Sep 1, 2020",4.199
+South Sudan,SSD,"Sep 2, 2020",4.199
 Spain,ESP,"Dec 31, 2019",0
 Spain,ESP,"Jan 1, 2020",0
 Spain,ESP,"Jan 2, 2020",0
@@ -33934,6 +34110,7 @@ Spain,ESP,"Aug 28, 2020",620.493
 Spain,ESP,"Aug 29, 2020",620.493
 Spain,ESP,"Aug 30, 2020",620.493
 Spain,ESP,"Aug 31, 2020",622.268
+Spain,ESP,"Sep 1, 2020",623.508
 Sri Lanka,LKA,"Dec 31, 2019",0
 Sri Lanka,LKA,"Jan 1, 2020",0
 Sri Lanka,LKA,"Jan 2, 2020",0
@@ -34171,6 +34348,7 @@ Sri Lanka,LKA,"Aug 29, 2020",0.56
 Sri Lanka,LKA,"Aug 30, 2020",0.56
 Sri Lanka,LKA,"Aug 31, 2020",0.56
 Sri Lanka,LKA,"Sep 1, 2020",0.56
+Sri Lanka,LKA,"Sep 2, 2020",0.56
 Sudan,SDN,"Mar 14, 2020",0
 Sudan,SDN,"Mar 15, 2020",0.023
 Sudan,SDN,"Mar 16, 2020",0.023
@@ -34343,6 +34521,7 @@ Sudan,SDN,"Aug 29, 2020",18.769
 Sudan,SDN,"Aug 30, 2020",18.769
 Sudan,SDN,"Aug 31, 2020",18.769
 Sudan,SDN,"Sep 1, 2020",18.769
+Sudan,SDN,"Sep 2, 2020",18.769
 Suriname,SUR,"Mar 15, 2020",0
 Suriname,SUR,"Mar 21, 2020",0
 Suriname,SUR,"Mar 22, 2020",0
@@ -34509,6 +34688,7 @@ Suriname,SUR,"Aug 29, 2020",112.506
 Suriname,SUR,"Aug 30, 2020",114.211
 Suriname,SUR,"Aug 31, 2020",114.211
 Suriname,SUR,"Sep 1, 2020",121.029
+Suriname,SUR,"Sep 2, 2020",122.734
 Swaziland,SWZ,"Mar 15, 2020",0
 Swaziland,SWZ,"Mar 16, 2020",0
 Swaziland,SWZ,"Mar 17, 2020",0
@@ -34680,6 +34860,7 @@ Swaziland,SWZ,"Aug 29, 2020",78.437
 Swaziland,SWZ,"Aug 30, 2020",78.437
 Swaziland,SWZ,"Aug 31, 2020",78.437
 Swaziland,SWZ,"Sep 1, 2020",78.437
+Swaziland,SWZ,"Sep 2, 2020",81.023
 Sweden,SWE,"Dec 31, 2019",0
 Sweden,SWE,"Jan 1, 2020",0
 Sweden,SWE,"Jan 2, 2020",0
@@ -34752,180 +34933,181 @@ Sweden,SWE,"Mar 8, 2020",0
 Sweden,SWE,"Mar 9, 2020",0
 Sweden,SWE,"Mar 10, 2020",0
 Sweden,SWE,"Mar 11, 2020",0
-Sweden,SWE,"Mar 12, 2020",0.099
-Sweden,SWE,"Mar 13, 2020",0.099
-Sweden,SWE,"Mar 14, 2020",0.099
-Sweden,SWE,"Mar 15, 2020",0.198
-Sweden,SWE,"Mar 16, 2020",0.297
-Sweden,SWE,"Mar 17, 2020",0.495
-Sweden,SWE,"Mar 18, 2020",0.693
-Sweden,SWE,"Mar 19, 2020",0.792
-Sweden,SWE,"Mar 20, 2020",1.386
-Sweden,SWE,"Mar 21, 2020",2.079
-Sweden,SWE,"Mar 22, 2020",2.971
-Sweden,SWE,"Mar 23, 2020",3.763
-Sweden,SWE,"Mar 24, 2020",4.852
-Sweden,SWE,"Mar 25, 2020",5.941
-Sweden,SWE,"Mar 26, 2020",8.02
-Sweden,SWE,"Mar 27, 2020",10.199
-Sweden,SWE,"Mar 28, 2020",13.268
-Sweden,SWE,"Mar 29, 2020",16.437
-Sweden,SWE,"Mar 30, 2020",19.902
-Sweden,SWE,"Mar 31, 2020",23.665
-Sweden,SWE,"Apr 1, 2020",28.121
-Sweden,SWE,"Apr 2, 2020",32.874
-Sweden,SWE,"Apr 3, 2020",38.122
-Sweden,SWE,"Apr 4, 2020",45.053
-Sweden,SWE,"Apr 5, 2020",52.974
-Sweden,SWE,"Apr 6, 2020",59.905
-Sweden,SWE,"Apr 7, 2020",68.322
-Sweden,SWE,"Apr 8, 2020",77.233
-Sweden,SWE,"Apr 9, 2020",85.551
-Sweden,SWE,"Apr 10, 2020",96.938
-Sweden,SWE,"Apr 11, 2020",105.453
-Sweden,SWE,"Apr 12, 2020",114.365
-Sweden,SWE,"Apr 13, 2020",124.563
-Sweden,SWE,"Apr 14, 2020",134.168
-Sweden,SWE,"Apr 15, 2020",142.585
-Sweden,SWE,"Apr 16, 2020",151.595
-Sweden,SWE,"Apr 17, 2020",162.982
-Sweden,SWE,"Apr 18, 2020",173.973
-Sweden,SWE,"Apr 19, 2020",182.092
-Sweden,SWE,"Apr 20, 2020",190.608
-Sweden,SWE,"Apr 21, 2020",199.321
-Sweden,SWE,"Apr 22, 2020",207.639
-Sweden,SWE,"Apr 23, 2020",213.778
-Sweden,SWE,"Apr 24, 2020",221.402
-Sweden,SWE,"Apr 25, 2020",229.918
-Sweden,SWE,"Apr 26, 2020",238.73
-Sweden,SWE,"Apr 27, 2020",245.958
-Sweden,SWE,"Apr 28, 2020",253.385
-Sweden,SWE,"Apr 29, 2020",260.613
-Sweden,SWE,"Apr 30, 2020",268.732
-Sweden,SWE,"May 1, 2020",277.05
-Sweden,SWE,"May 2, 2020",284.773
-Sweden,SWE,"May 3, 2020",292.496
-Sweden,SWE,"May 4, 2020",299.725
-Sweden,SWE,"May 5, 2020",307.151
-Sweden,SWE,"May 6, 2020",315.468
-Sweden,SWE,"May 7, 2020",322.598
-Sweden,SWE,"May 8, 2020",329.826
-Sweden,SWE,"May 9, 2020",337.747
-Sweden,SWE,"May 10, 2020",343.688
-Sweden,SWE,"May 11, 2020",350.52
-Sweden,SWE,"May 12, 2020",357.848
-Sweden,SWE,"May 13, 2020",364.185
-Sweden,SWE,"May 14, 2020",370.225
-Sweden,SWE,"May 15, 2020",375.176
-Sweden,SWE,"May 16, 2020",379.73
-Sweden,SWE,"May 17, 2020",385.473
-Sweden,SWE,"May 18, 2020",390.325
-Sweden,SWE,"May 19, 2020",395.573
-Sweden,SWE,"May 20, 2020",401.613
-Sweden,SWE,"May 21, 2020",405.574
-Sweden,SWE,"May 22, 2020",410.921
-Sweden,SWE,"May 23, 2020",416.268
-Sweden,SWE,"May 24, 2020",421.813
-Sweden,SWE,"May 25, 2020",427.358
-Sweden,SWE,"May 26, 2020",431.714
-Sweden,SWE,"May 27, 2020",435.873
-Sweden,SWE,"May 28, 2020",438.646
-Sweden,SWE,"May 29, 2020",442.507
-Sweden,SWE,"May 30, 2020",446.468
-Sweden,SWE,"May 31, 2020",450.429
-Sweden,SWE,"Jun 1, 2020",454.29
-Sweden,SWE,"Jun 2, 2020",458.746
-Sweden,SWE,"Jun 3, 2020",462.707
-Sweden,SWE,"Jun 4, 2020",466.37
-Sweden,SWE,"Jun 5, 2020",468.945
-Sweden,SWE,"Jun 6, 2020",473.401
-Sweden,SWE,"Jun 7, 2020",477.163
-Sweden,SWE,"Jun 8, 2020",480.233
-Sweden,SWE,"Jun 9, 2020",483.5
-Sweden,SWE,"Jun 10, 2020",487.263
-Sweden,SWE,"Jun 11, 2020",490.531
-Sweden,SWE,"Jun 12, 2020",494.491
-Sweden,SWE,"Jun 13, 2020",498.056
-Sweden,SWE,"Jun 14, 2020",501.026
-Sweden,SWE,"Jun 15, 2020",504.294
-Sweden,SWE,"Jun 16, 2020",506.967
-Sweden,SWE,"Jun 17, 2020",510.037
-Sweden,SWE,"Jun 18, 2020",512.809
-Sweden,SWE,"Jun 19, 2020",516.077
-Sweden,SWE,"Jun 20, 2020",518.948
-Sweden,SWE,"Jun 21, 2020",521.82
-Sweden,SWE,"Jun 22, 2020",524.691
-Sweden,SWE,"Jun 23, 2020",526.771
-Sweden,SWE,"Jun 24, 2020",528.85
-Sweden,SWE,"Jun 25, 2020",531.326
-Sweden,SWE,"Jun 26, 2020",533.504
-Sweden,SWE,"Jun 27, 2020",535.88
-Sweden,SWE,"Jun 28, 2020",537.069
-Sweden,SWE,"Jun 29, 2020",538.455
-Sweden,SWE,"Jun 30, 2020",540.633
-Sweden,SWE,"Jul 1, 2020",542.415
-Sweden,SWE,"Jul 2, 2020",544.396
-Sweden,SWE,"Jul 3, 2020",546.079
-Sweden,SWE,"Jul 4, 2020",547.564
-Sweden,SWE,"Jul 5, 2020",548.356
-Sweden,SWE,"Jul 6, 2020",549.842
-Sweden,SWE,"Jul 7, 2020",550.733
-Sweden,SWE,"Jul 8, 2020",552.317
-Sweden,SWE,"Jul 9, 2020",553.505
-Sweden,SWE,"Jul 10, 2020",554.595
-Sweden,SWE,"Jul 11, 2020",556.08
-Sweden,SWE,"Jul 12, 2020",557.466
-Sweden,SWE,"Jul 13, 2020",558.555
-Sweden,SWE,"Jul 14, 2020",559.446
-Sweden,SWE,"Jul 15, 2020",560.833
-Sweden,SWE,"Jul 16, 2020",561.625
-Sweden,SWE,"Jul 17, 2020",562.219
-Sweden,SWE,"Jul 18, 2020",563.011
-Sweden,SWE,"Jul 19, 2020",563.803
-Sweden,SWE,"Jul 20, 2020",564.892
-Sweden,SWE,"Jul 21, 2020",565.882
-Sweden,SWE,"Jul 22, 2020",566.576
-Sweden,SWE,"Jul 23, 2020",567.269
-Sweden,SWE,"Jul 24, 2020",567.962
-Sweden,SWE,"Jul 25, 2020",569.051
-Sweden,SWE,"Jul 26, 2020",569.447
-Sweden,SWE,"Jul 27, 2020",569.546
-Sweden,SWE,"Jul 28, 2020",569.744
-Sweden,SWE,"Jul 29, 2020",570.338
-Sweden,SWE,"Jul 30, 2020",570.734
-Sweden,SWE,"Jul 31, 2020",570.833
-Sweden,SWE,"Aug 1, 2020",570.833
-Sweden,SWE,"Aug 2, 2020",571.13
-Sweden,SWE,"Aug 3, 2020",571.427
-Sweden,SWE,"Aug 4, 2020",571.526
-Sweden,SWE,"Aug 5, 2020",572.022
-Sweden,SWE,"Aug 6, 2020",572.22
-Sweden,SWE,"Aug 7, 2020",572.319
-Sweden,SWE,"Aug 8, 2020",572.814
-Sweden,SWE,"Aug 9, 2020",573.111
-Sweden,SWE,"Aug 10, 2020",573.309
-Sweden,SWE,"Aug 11, 2020",573.705
-Sweden,SWE,"Aug 12, 2020",573.903
-Sweden,SWE,"Aug 13, 2020",574.299
-Sweden,SWE,"Aug 14, 2020",574.596
-Sweden,SWE,"Aug 15, 2020",575.091
-Sweden,SWE,"Aug 16, 2020",575.091
-Sweden,SWE,"Aug 17, 2020",575.19
-Sweden,SWE,"Aug 18, 2020",575.091
-Sweden,SWE,"Aug 19, 2020",575.091
-Sweden,SWE,"Aug 20, 2020",575.091
-Sweden,SWE,"Aug 21, 2020",575.091
+Sweden,SWE,"Mar 12, 2020",0.594
+Sweden,SWE,"Mar 13, 2020",0.594
+Sweden,SWE,"Mar 14, 2020",0.693
+Sweden,SWE,"Mar 15, 2020",0.792
+Sweden,SWE,"Mar 16, 2020",0.99
+Sweden,SWE,"Mar 17, 2020",1.188
+Sweden,SWE,"Mar 18, 2020",1.287
+Sweden,SWE,"Mar 19, 2020",1.881
+Sweden,SWE,"Mar 20, 2020",2.574
+Sweden,SWE,"Mar 21, 2020",3.466
+Sweden,SWE,"Mar 22, 2020",4.258
+Sweden,SWE,"Mar 23, 2020",5.347
+Sweden,SWE,"Mar 24, 2020",6.436
+Sweden,SWE,"Mar 25, 2020",8.515
+Sweden,SWE,"Mar 26, 2020",10.694
+Sweden,SWE,"Mar 27, 2020",13.763
+Sweden,SWE,"Mar 28, 2020",16.932
+Sweden,SWE,"Mar 29, 2020",20.398
+Sweden,SWE,"Mar 30, 2020",24.16
+Sweden,SWE,"Mar 31, 2020",28.616
+Sweden,SWE,"Apr 1, 2020",33.369
+Sweden,SWE,"Apr 2, 2020",38.617
+Sweden,SWE,"Apr 3, 2020",45.548
+Sweden,SWE,"Apr 4, 2020",53.469
+Sweden,SWE,"Apr 5, 2020",60.4
+Sweden,SWE,"Apr 6, 2020",68.817
+Sweden,SWE,"Apr 7, 2020",77.728
+Sweden,SWE,"Apr 8, 2020",86.046
+Sweden,SWE,"Apr 9, 2020",97.433
+Sweden,SWE,"Apr 10, 2020",105.948
+Sweden,SWE,"Apr 11, 2020",114.86
+Sweden,SWE,"Apr 12, 2020",125.059
+Sweden,SWE,"Apr 13, 2020",134.663
+Sweden,SWE,"Apr 14, 2020",143.08
+Sweden,SWE,"Apr 15, 2020",152.09
+Sweden,SWE,"Apr 16, 2020",163.477
+Sweden,SWE,"Apr 17, 2020",174.468
+Sweden,SWE,"Apr 18, 2020",182.587
+Sweden,SWE,"Apr 19, 2020",191.103
+Sweden,SWE,"Apr 20, 2020",199.816
+Sweden,SWE,"Apr 21, 2020",208.134
+Sweden,SWE,"Apr 22, 2020",214.273
+Sweden,SWE,"Apr 23, 2020",221.897
+Sweden,SWE,"Apr 24, 2020",230.413
+Sweden,SWE,"Apr 25, 2020",239.225
+Sweden,SWE,"Apr 26, 2020",246.453
+Sweden,SWE,"Apr 27, 2020",253.88
+Sweden,SWE,"Apr 28, 2020",261.108
+Sweden,SWE,"Apr 29, 2020",269.227
+Sweden,SWE,"Apr 30, 2020",277.545
+Sweden,SWE,"May 1, 2020",285.268
+Sweden,SWE,"May 2, 2020",292.991
+Sweden,SWE,"May 3, 2020",300.22
+Sweden,SWE,"May 4, 2020",307.646
+Sweden,SWE,"May 5, 2020",315.963
+Sweden,SWE,"May 6, 2020",323.093
+Sweden,SWE,"May 7, 2020",330.321
+Sweden,SWE,"May 8, 2020",338.242
+Sweden,SWE,"May 9, 2020",344.183
+Sweden,SWE,"May 10, 2020",351.015
+Sweden,SWE,"May 11, 2020",358.343
+Sweden,SWE,"May 12, 2020",364.68
+Sweden,SWE,"May 13, 2020",370.72
+Sweden,SWE,"May 14, 2020",375.671
+Sweden,SWE,"May 15, 2020",380.226
+Sweden,SWE,"May 16, 2020",385.968
+Sweden,SWE,"May 17, 2020",390.82
+Sweden,SWE,"May 18, 2020",396.068
+Sweden,SWE,"May 19, 2020",402.108
+Sweden,SWE,"May 20, 2020",406.069
+Sweden,SWE,"May 21, 2020",411.416
+Sweden,SWE,"May 22, 2020",416.763
+Sweden,SWE,"May 23, 2020",422.308
+Sweden,SWE,"May 24, 2020",427.853
+Sweden,SWE,"May 25, 2020",432.209
+Sweden,SWE,"May 26, 2020",436.368
+Sweden,SWE,"May 27, 2020",439.141
+Sweden,SWE,"May 28, 2020",443.002
+Sweden,SWE,"May 29, 2020",446.963
+Sweden,SWE,"May 30, 2020",450.924
+Sweden,SWE,"May 31, 2020",454.785
+Sweden,SWE,"Jun 1, 2020",459.241
+Sweden,SWE,"Jun 2, 2020",463.202
+Sweden,SWE,"Jun 3, 2020",466.865
+Sweden,SWE,"Jun 4, 2020",469.44
+Sweden,SWE,"Jun 5, 2020",473.896
+Sweden,SWE,"Jun 6, 2020",477.658
+Sweden,SWE,"Jun 7, 2020",480.728
+Sweden,SWE,"Jun 8, 2020",483.995
+Sweden,SWE,"Jun 9, 2020",487.758
+Sweden,SWE,"Jun 10, 2020",491.026
+Sweden,SWE,"Jun 11, 2020",494.986
+Sweden,SWE,"Jun 12, 2020",498.551
+Sweden,SWE,"Jun 13, 2020",501.521
+Sweden,SWE,"Jun 14, 2020",504.789
+Sweden,SWE,"Jun 15, 2020",507.462
+Sweden,SWE,"Jun 16, 2020",510.532
+Sweden,SWE,"Jun 17, 2020",513.304
+Sweden,SWE,"Jun 18, 2020",516.572
+Sweden,SWE,"Jun 19, 2020",519.443
+Sweden,SWE,"Jun 20, 2020",522.315
+Sweden,SWE,"Jun 21, 2020",525.186
+Sweden,SWE,"Jun 22, 2020",527.266
+Sweden,SWE,"Jun 23, 2020",529.345
+Sweden,SWE,"Jun 24, 2020",531.821
+Sweden,SWE,"Jun 25, 2020",533.999
+Sweden,SWE,"Jun 26, 2020",536.375
+Sweden,SWE,"Jun 27, 2020",537.564
+Sweden,SWE,"Jun 28, 2020",538.95
+Sweden,SWE,"Jun 29, 2020",541.128
+Sweden,SWE,"Jun 30, 2020",542.911
+Sweden,SWE,"Jul 1, 2020",544.891
+Sweden,SWE,"Jul 2, 2020",546.574
+Sweden,SWE,"Jul 3, 2020",548.059
+Sweden,SWE,"Jul 4, 2020",548.852
+Sweden,SWE,"Jul 5, 2020",550.337
+Sweden,SWE,"Jul 6, 2020",551.228
+Sweden,SWE,"Jul 7, 2020",552.812
+Sweden,SWE,"Jul 8, 2020",554
+Sweden,SWE,"Jul 9, 2020",555.09
+Sweden,SWE,"Jul 10, 2020",556.575
+Sweden,SWE,"Jul 11, 2020",557.961
+Sweden,SWE,"Jul 12, 2020",558.951
+Sweden,SWE,"Jul 13, 2020",559.842
+Sweden,SWE,"Jul 14, 2020",561.229
+Sweden,SWE,"Jul 15, 2020",562.021
+Sweden,SWE,"Jul 16, 2020",562.615
+Sweden,SWE,"Jul 17, 2020",563.308
+Sweden,SWE,"Jul 18, 2020",564.001
+Sweden,SWE,"Jul 19, 2020",565.09
+Sweden,SWE,"Jul 20, 2020",565.882
+Sweden,SWE,"Jul 21, 2020",566.576
+Sweden,SWE,"Jul 22, 2020",567.269
+Sweden,SWE,"Jul 23, 2020",567.863
+Sweden,SWE,"Jul 24, 2020",568.358
+Sweden,SWE,"Jul 25, 2020",568.655
+Sweden,SWE,"Jul 26, 2020",568.754
+Sweden,SWE,"Jul 27, 2020",568.952
+Sweden,SWE,"Jul 28, 2020",569.546
+Sweden,SWE,"Jul 29, 2020",569.942
+Sweden,SWE,"Jul 30, 2020",570.041
+Sweden,SWE,"Jul 31, 2020",570.041
+Sweden,SWE,"Aug 1, 2020",570.239
+Sweden,SWE,"Aug 2, 2020",570.437
+Sweden,SWE,"Aug 3, 2020",570.536
+Sweden,SWE,"Aug 4, 2020",570.932
+Sweden,SWE,"Aug 5, 2020",571.13
+Sweden,SWE,"Aug 6, 2020",571.229
+Sweden,SWE,"Aug 7, 2020",571.625
+Sweden,SWE,"Aug 8, 2020",571.824
+Sweden,SWE,"Aug 9, 2020",571.923
+Sweden,SWE,"Aug 10, 2020",572.319
+Sweden,SWE,"Aug 11, 2020",572.517
+Sweden,SWE,"Aug 12, 2020",572.913
+Sweden,SWE,"Aug 13, 2020",573.21
+Sweden,SWE,"Aug 14, 2020",573.705
+Sweden,SWE,"Aug 15, 2020",573.705
+Sweden,SWE,"Aug 16, 2020",573.804
+Sweden,SWE,"Aug 17, 2020",573.804
+Sweden,SWE,"Aug 18, 2020",574.101
+Sweden,SWE,"Aug 19, 2020",574.497
+Sweden,SWE,"Aug 20, 2020",574.596
+Sweden,SWE,"Aug 21, 2020",574.794
 Sweden,SWE,"Aug 22, 2020",575.091
-Sweden,SWE,"Aug 23, 2020",575.091
-Sweden,SWE,"Aug 24, 2020",575.091
-Sweden,SWE,"Aug 25, 2020",575.091
-Sweden,SWE,"Aug 26, 2020",575.091
-Sweden,SWE,"Aug 27, 2020",575.091
-Sweden,SWE,"Aug 28, 2020",575.091
-Sweden,SWE,"Aug 29, 2020",575.091
-Sweden,SWE,"Aug 30, 2020",575.091
-Sweden,SWE,"Aug 31, 2020",575.091
-Sweden,SWE,"Sep 1, 2020",575.091
+Sweden,SWE,"Aug 23, 2020",575.19
+Sweden,SWE,"Aug 24, 2020",575.289
+Sweden,SWE,"Aug 25, 2020",575.289
+Sweden,SWE,"Aug 26, 2020",575.388
+Sweden,SWE,"Aug 27, 2020",575.388
+Sweden,SWE,"Aug 28, 2020",575.388
+Sweden,SWE,"Aug 29, 2020",575.487
+Sweden,SWE,"Aug 30, 2020",575.487
+Sweden,SWE,"Aug 31, 2020",575.586
+Sweden,SWE,"Sep 1, 2020",575.586
+Sweden,SWE,"Sep 2, 2020",575.586
 Switzerland,CHE,"Dec 31, 2019",0
 Switzerland,CHE,"Jan 1, 2020",0
 Switzerland,CHE,"Jan 2, 2020",0
@@ -35172,6 +35354,7 @@ Switzerland,CHE,"Aug 29, 2020",199.2
 Switzerland,CHE,"Aug 30, 2020",199.2
 Switzerland,CHE,"Aug 31, 2020",199.2
 Switzerland,CHE,"Sep 1, 2020",199.316
+Switzerland,CHE,"Sep 2, 2020",199.431
 Syria,SYR,"Mar 23, 2020",0
 Syria,SYR,"Mar 24, 2020",0
 Syria,SYR,"Mar 25, 2020",0
@@ -35335,6 +35518,7 @@ Syria,SYR,"Aug 29, 2020",5.885
 Syria,SYR,"Aug 30, 2020",6.057
 Syria,SYR,"Aug 31, 2020",6.228
 Syria,SYR,"Sep 1, 2020",6.4
+Syria,SYR,"Sep 2, 2020",6.628
 Taiwan,TWN,"Dec 31, 2019",0
 Taiwan,TWN,"Jan 1, 2020",0
 Taiwan,TWN,"Jan 2, 2020",0
@@ -35581,6 +35765,7 @@ Taiwan,TWN,"Aug 29, 2020",0.294
 Taiwan,TWN,"Aug 30, 2020",0.294
 Taiwan,TWN,"Aug 31, 2020",0.294
 Taiwan,TWN,"Sep 1, 2020",0.294
+Taiwan,TWN,"Sep 2, 2020",0.294
 Tajikistan,TJK,"May 1, 2020",0
 Tajikistan,TJK,"May 2, 2020",0
 Tajikistan,TJK,"May 3, 2020",0
@@ -35705,6 +35890,7 @@ Tajikistan,TJK,"Aug 29, 2020",7.13
 Tajikistan,TJK,"Aug 30, 2020",7.13
 Tajikistan,TJK,"Aug 31, 2020",7.13
 Tajikistan,TJK,"Sep 1, 2020",7.13
+Tajikistan,TJK,"Sep 2, 2020",7.234
 Tanzania,TZA,"Mar 17, 2020",0
 Tanzania,TZA,"Mar 18, 2020",0
 Tanzania,TZA,"Mar 19, 2020",0
@@ -35874,6 +36060,7 @@ Tanzania,TZA,"Aug 29, 2020",0.352
 Tanzania,TZA,"Aug 30, 2020",0.352
 Tanzania,TZA,"Aug 31, 2020",0.352
 Tanzania,TZA,"Sep 1, 2020",0.352
+Tanzania,TZA,"Sep 2, 2020",0.352
 Thailand,THA,"Dec 31, 2019",0
 Thailand,THA,"Jan 1, 2020",0
 Thailand,THA,"Jan 2, 2020",0
@@ -36113,6 +36300,7 @@ Thailand,THA,"Aug 29, 2020",0.831
 Thailand,THA,"Aug 30, 2020",0.831
 Thailand,THA,"Aug 31, 2020",0.831
 Thailand,THA,"Sep 1, 2020",0.831
+Thailand,THA,"Sep 2, 2020",0.831
 Timor,TLS,"Mar 22, 2020",0
 Timor,TLS,"Mar 23, 2020",0
 Timor,TLS,"Mar 24, 2020",0
@@ -36277,6 +36465,7 @@ Timor,TLS,"Aug 29, 2020",0
 Timor,TLS,"Aug 30, 2020",0
 Timor,TLS,"Aug 31, 2020",0
 Timor,TLS,"Sep 1, 2020",0
+Timor,TLS,"Sep 2, 2020",0
 Togo,TGO,"Mar 7, 2020",0
 Togo,TGO,"Mar 15, 2020",0
 Togo,TGO,"Mar 16, 2020",0
@@ -36449,6 +36638,7 @@ Togo,TGO,"Aug 29, 2020",3.261
 Togo,TGO,"Aug 30, 2020",3.261
 Togo,TGO,"Aug 31, 2020",3.261
 Togo,TGO,"Sep 1, 2020",3.382
+Togo,TGO,"Sep 2, 2020",3.382
 Trinidad and Tobago,TTO,"Mar 13, 2020",0
 Trinidad and Tobago,TTO,"Mar 14, 2020",0
 Trinidad and Tobago,TTO,"Mar 15, 2020",0
@@ -36622,6 +36812,7 @@ Trinidad and Tobago,TTO,"Aug 29, 2020",13.576
 Trinidad and Tobago,TTO,"Aug 30, 2020",13.576
 Trinidad and Tobago,TTO,"Aug 31, 2020",15.005
 Trinidad and Tobago,TTO,"Sep 1, 2020",15.72
+Trinidad and Tobago,TTO,"Sep 2, 2020",19.293
 Tunisia,TUN,"Mar 3, 2020",0
 Tunisia,TUN,"Mar 10, 2020",0
 Tunisia,TUN,"Mar 11, 2020",0
@@ -36799,6 +36990,7 @@ Tunisia,TUN,"Aug 29, 2020",6.261
 Tunisia,TUN,"Aug 30, 2020",6.431
 Tunisia,TUN,"Aug 31, 2020",6.431
 Tunisia,TUN,"Sep 1, 2020",6.515
+Tunisia,TUN,"Sep 2, 2020",6.515
 Turkey,TUR,"Mar 12, 2020",0
 Turkey,TUR,"Mar 13, 2020",0
 Turkey,TUR,"Mar 16, 2020",0
@@ -36971,6 +37163,7 @@ Turkey,TUR,"Aug 29, 2020",74.046
 Turkey,TUR,"Aug 30, 2020",74.509
 Turkey,TUR,"Aug 31, 2020",75.007
 Turkey,TUR,"Sep 1, 2020",75.528
+Turkey,TUR,"Sep 2, 2020",76.086
 Turks and Caicos Islands,TCA,"Mar 25, 2020",0
 Turks and Caicos Islands,TCA,"Mar 26, 2020",0
 Turks and Caicos Islands,TCA,"Mar 27, 2020",0
@@ -37132,6 +37325,7 @@ Turks and Caicos Islands,TCA,"Aug 29, 2020",77.483
 Turks and Caicos Islands,TCA,"Aug 30, 2020",77.483
 Turks and Caicos Islands,TCA,"Aug 31, 2020",77.483
 Turks and Caicos Islands,TCA,"Sep 1, 2020",103.311
+Turks and Caicos Islands,TCA,"Sep 2, 2020",103.311
 Uganda,UGA,"Mar 22, 2020",0
 Uganda,UGA,"Mar 23, 2020",0
 Uganda,UGA,"Mar 24, 2020",0
@@ -37296,6 +37490,7 @@ Uganda,UGA,"Aug 29, 2020",0.612
 Uganda,UGA,"Aug 30, 2020",0.634
 Uganda,UGA,"Aug 31, 2020",0.656
 Uganda,UGA,"Sep 1, 2020",0.7
+Uganda,UGA,"Sep 2, 2020",0.7
 Ukraine,UKR,"Mar 4, 2020",0
 Ukraine,UKR,"Mar 13, 2020",0
 Ukraine,UKR,"Mar 16, 2020",0
@@ -37468,6 +37663,7 @@ Ukraine,UKR,"Aug 29, 2020",55.746
 Ukraine,UKR,"Aug 30, 2020",56.981
 Ukraine,UKR,"Aug 31, 2020",57.781
 Ukraine,UKR,"Sep 1, 2020",58.467
+Ukraine,UKR,"Sep 2, 2020",59.565
 United Arab Emirates,ARE,"Dec 31, 2019",0
 United Arab Emirates,ARE,"Jan 1, 2020",0
 United Arab Emirates,ARE,"Jan 2, 2020",0
@@ -37708,6 +37904,7 @@ United Arab Emirates,ARE,"Aug 29, 2020",38.32
 United Arab Emirates,ARE,"Aug 30, 2020",38.32
 United Arab Emirates,ARE,"Aug 31, 2020",38.623
 United Arab Emirates,ARE,"Sep 1, 2020",38.826
+United Arab Emirates,ARE,"Sep 2, 2020",38.826
 United Kingdom,GBR,"Dec 31, 2019",0
 United Kingdom,GBR,"Jan 1, 2020",0
 United Kingdom,GBR,"Jan 2, 2020",0
@@ -37954,6 +38151,7 @@ United Kingdom,GBR,"Aug 29, 2020",611.113
 United Kingdom,GBR,"Aug 30, 2020",611.289
 United Kingdom,GBR,"Aug 31, 2020",611.304
 United Kingdom,GBR,"Sep 1, 2020",611.334
+United Kingdom,GBR,"Sep 2, 2020",611.378
 United States,USA,"Dec 31, 2019",0
 United States,USA,"Jan 1, 2020",0
 United States,USA,"Jan 2, 2020",0
@@ -38200,6 +38398,7 @@ United States,USA,"Aug 29, 2020",549.159
 United States,USA,"Aug 30, 2020",552.198
 United States,USA,"Aug 31, 2020",553.074
 United States,USA,"Sep 1, 2020",554.672
+United States,USA,"Sep 2, 2020",557.968
 United States Virgin Islands,VIR,"Mar 24, 2020",0
 United States Virgin Islands,VIR,"Mar 25, 2020",0
 United States Virgin Islands,VIR,"Mar 26, 2020",0
@@ -38361,6 +38560,7 @@ United States Virgin Islands,VIR,"Aug 29, 2020",134.07
 United States Virgin Islands,VIR,"Aug 30, 2020",134.07
 United States Virgin Islands,VIR,"Aug 31, 2020",134.07
 United States Virgin Islands,VIR,"Sep 1, 2020",143.647
+United States Virgin Islands,VIR,"Sep 2, 2020",143.647
 Uruguay,URY,"Mar 15, 2020",0
 Uruguay,URY,"Mar 16, 2020",0
 Uruguay,URY,"Mar 17, 2020",0
@@ -38532,6 +38732,7 @@ Uruguay,URY,"Aug 29, 2020",12.379
 Uruguay,URY,"Aug 30, 2020",12.667
 Uruguay,URY,"Aug 31, 2020",12.667
 Uruguay,URY,"Sep 1, 2020",12.667
+Uruguay,URY,"Sep 2, 2020",12.667
 Uzbekistan,UZB,"Mar 16, 2020",0
 Uzbekistan,UZB,"Mar 17, 2020",0
 Uzbekistan,UZB,"Mar 18, 2020",0
@@ -38702,6 +38903,7 @@ Uzbekistan,UZB,"Aug 29, 2020",9.113
 Uzbekistan,UZB,"Aug 30, 2020",9.292
 Uzbekistan,UZB,"Aug 31, 2020",9.471
 Uzbekistan,UZB,"Sep 1, 2020",9.621
+Uzbekistan,UZB,"Sep 2, 2020",9.74
 Vatican,VAT,"Mar 7, 2020",0
 Vatican,VAT,"Mar 16, 2020",0
 Vatican,VAT,"Mar 17, 2020",0
@@ -38873,6 +39075,7 @@ Vatican,VAT,"Aug 29, 2020",0
 Vatican,VAT,"Aug 30, 2020",0
 Vatican,VAT,"Aug 31, 2020",0
 Vatican,VAT,"Sep 1, 2020",0
+Vatican,VAT,"Sep 2, 2020",0
 Venezuela,VEN,"Mar 15, 2020",0
 Venezuela,VEN,"Mar 16, 2020",0
 Venezuela,VEN,"Mar 17, 2020",0
@@ -39043,6 +39246,7 @@ Venezuela,VEN,"Aug 29, 2020",12.59
 Venezuela,VEN,"Aug 30, 2020",13.188
 Venezuela,VEN,"Aug 31, 2020",13.399
 Venezuela,VEN,"Sep 1, 2020",13.399
+Venezuela,VEN,"Sep 2, 2020",13.75
 Vietnam,VNM,"Dec 31, 2019",0
 Vietnam,VNM,"Jan 1, 2020",0
 Vietnam,VNM,"Jan 2, 2020",0
@@ -39285,6 +39489,7 @@ Vietnam,VNM,"Aug 29, 2020",0.318
 Vietnam,VNM,"Aug 30, 2020",0.329
 Vietnam,VNM,"Aug 31, 2020",0.329
 Vietnam,VNM,"Sep 1, 2020",0.349
+Vietnam,VNM,"Sep 2, 2020",0.349
 Western Sahara,ESH,"Apr 26, 2020",0
 Western Sahara,ESH,"Apr 27, 2020",0
 Western Sahara,ESH,"Apr 28, 2020",0
@@ -39414,6 +39619,7 @@ Western Sahara,ESH,"Aug 29, 2020",1.674
 Western Sahara,ESH,"Aug 30, 2020",1.674
 Western Sahara,ESH,"Aug 31, 2020",1.674
 Western Sahara,ESH,"Sep 1, 2020",1.674
+Western Sahara,ESH,"Sep 2, 2020",1.674
 World,OWID_WRL,"Dec 31, 2019",0
 World,OWID_WRL,"Jan 1, 2020",0
 World,OWID_WRL,"Jan 2, 2020",0
@@ -39488,178 +39694,179 @@ World,OWID_WRL,"Mar 10, 2020",0.516
 World,OWID_WRL,"Mar 11, 2020",0.551
 World,OWID_WRL,"Mar 12, 2020",0.593
 World,OWID_WRL,"Mar 13, 2020",0.638
-World,OWID_WRL,"Mar 14, 2020",0.694
-World,OWID_WRL,"Mar 15, 2020",0.741
-World,OWID_WRL,"Mar 16, 2020",0.838
-World,OWID_WRL,"Mar 17, 2020",0.915
+World,OWID_WRL,"Mar 14, 2020",0.695
+World,OWID_WRL,"Mar 15, 2020",0.742
+World,OWID_WRL,"Mar 16, 2020",0.839
+World,OWID_WRL,"Mar 17, 2020",0.916
 World,OWID_WRL,"Mar 18, 2020",1.02
-World,OWID_WRL,"Mar 19, 2020",1.142
-World,OWID_WRL,"Mar 20, 2020",1.28
-World,OWID_WRL,"Mar 21, 2020",1.458
-World,OWID_WRL,"Mar 22, 2020",1.678
-World,OWID_WRL,"Mar 23, 2020",1.895
-World,OWID_WRL,"Mar 24, 2020",2.133
-World,OWID_WRL,"Mar 25, 2020",2.428
-World,OWID_WRL,"Mar 26, 2020",2.768
-World,OWID_WRL,"Mar 27, 2020",3.127
-World,OWID_WRL,"Mar 28, 2020",3.575
-World,OWID_WRL,"Mar 29, 2020",4.036
-World,OWID_WRL,"Mar 30, 2020",4.45
-World,OWID_WRL,"Mar 31, 2020",4.961
-World,OWID_WRL,"Apr 1, 2020",5.561
-World,OWID_WRL,"Apr 2, 2020",6.203
-World,OWID_WRL,"Apr 3, 2020",6.846
-World,OWID_WRL,"Apr 4, 2020",7.715
-World,OWID_WRL,"Apr 5, 2020",8.525
-World,OWID_WRL,"Apr 6, 2020",9.135
-World,OWID_WRL,"Apr 7, 2020",9.82
-World,OWID_WRL,"Apr 8, 2020",10.792
-World,OWID_WRL,"Apr 9, 2020",11.631
-World,OWID_WRL,"Apr 10, 2020",12.588
-World,OWID_WRL,"Apr 11, 2020",13.487
-World,OWID_WRL,"Apr 12, 2020",14.264
-World,OWID_WRL,"Apr 13, 2020",14.949
-World,OWID_WRL,"Apr 14, 2020",15.642
-World,OWID_WRL,"Apr 15, 2020",16.618
-World,OWID_WRL,"Apr 16, 2020",17.961
-World,OWID_WRL,"Apr 17, 2020",19.056
-World,OWID_WRL,"Apr 18, 2020",20.145
-World,OWID_WRL,"Apr 19, 2020",20.962
-World,OWID_WRL,"Apr 20, 2020",21.602
-World,OWID_WRL,"Apr 21, 2020",22.301
-World,OWID_WRL,"Apr 22, 2020",23.233
-World,OWID_WRL,"Apr 23, 2020",23.993
-World,OWID_WRL,"Apr 24, 2020",24.933
-World,OWID_WRL,"Apr 25, 2020",25.62
-World,OWID_WRL,"Apr 26, 2020",26.413
-World,OWID_WRL,"Apr 27, 2020",26.915
-World,OWID_WRL,"Apr 28, 2020",27.543
-World,OWID_WRL,"Apr 29, 2020",28.384
-World,OWID_WRL,"Apr 30, 2020",29.226
-World,OWID_WRL,"May 1, 2020",29.952
-World,OWID_WRL,"May 2, 2020",30.667
-World,OWID_WRL,"May 3, 2020",31.285
-World,OWID_WRL,"May 4, 2020",31.76
-World,OWID_WRL,"May 5, 2020",32.27
-World,OWID_WRL,"May 6, 2020",33.036
-World,OWID_WRL,"May 7, 2020",33.821
-World,OWID_WRL,"May 8, 2020",34.544
-World,OWID_WRL,"May 9, 2020",35.203
-World,OWID_WRL,"May 10, 2020",35.767
-World,OWID_WRL,"May 11, 2020",36.206
-World,OWID_WRL,"May 12, 2020",36.668
-World,OWID_WRL,"May 13, 2020",37.407
-World,OWID_WRL,"May 14, 2020",38.052
-World,OWID_WRL,"May 15, 2020",38.727
-World,OWID_WRL,"May 16, 2020",39.374
-World,OWID_WRL,"May 17, 2020",39.917
-World,OWID_WRL,"May 18, 2020",40.289
-World,OWID_WRL,"May 19, 2020",40.711
-World,OWID_WRL,"May 20, 2020",41.378
-World,OWID_WRL,"May 21, 2020",41.982
-World,OWID_WRL,"May 22, 2020",42.674
-World,OWID_WRL,"May 23, 2020",43.269
-World,OWID_WRL,"May 24, 2020",43.772
-World,OWID_WRL,"May 25, 2020",43.915
-World,OWID_WRL,"May 26, 2020",44.348
-World,OWID_WRL,"May 27, 2020",44.846
-World,OWID_WRL,"May 28, 2020",45.505
-World,OWID_WRL,"May 29, 2020",46.1
-World,OWID_WRL,"May 30, 2020",46.697
-World,OWID_WRL,"May 31, 2020",47.211
-World,OWID_WRL,"Jun 1, 2020",47.584
-World,OWID_WRL,"Jun 2, 2020",47.989
-World,OWID_WRL,"Jun 3, 2020",48.572
-World,OWID_WRL,"Jun 4, 2020",49.281
-World,OWID_WRL,"Jun 5, 2020",49.937
-World,OWID_WRL,"Jun 6, 2020",50.533
-World,OWID_WRL,"Jun 7, 2020",51.02
-World,OWID_WRL,"Jun 8, 2020",51.47
-World,OWID_WRL,"Jun 9, 2020",51.882
-World,OWID_WRL,"Jun 10, 2020",52.505
-World,OWID_WRL,"Jun 11, 2020",53.163
-World,OWID_WRL,"Jun 12, 2020",53.766
-World,OWID_WRL,"Jun 13, 2020",54.363
-World,OWID_WRL,"Jun 14, 2020",54.893
-World,OWID_WRL,"Jun 15, 2020",55.299
-World,OWID_WRL,"Jun 16, 2020",55.732
-World,OWID_WRL,"Jun 17, 2020",56.594
-World,OWID_WRL,"Jun 18, 2020",57.248
-World,OWID_WRL,"Jun 19, 2020",58.054
-World,OWID_WRL,"Jun 20, 2020",58.699
-World,OWID_WRL,"Jun 21, 2020",59.227
-World,OWID_WRL,"Jun 22, 2020",59.737
-World,OWID_WRL,"Jun 23, 2020",60.173
-World,OWID_WRL,"Jun 24, 2020",60.858
-World,OWID_WRL,"Jun 25, 2020",61.528
-World,OWID_WRL,"Jun 26, 2020",62.371
-World,OWID_WRL,"Jun 27, 2020",62.958
-World,OWID_WRL,"Jun 28, 2020",63.547
-World,OWID_WRL,"Jun 29, 2020",63.94
-World,OWID_WRL,"Jun 30, 2020",64.416
-World,OWID_WRL,"Jul 1, 2020",65.137
-World,OWID_WRL,"Jul 2, 2020",65.758
-World,OWID_WRL,"Jul 3, 2020",66.41
-World,OWID_WRL,"Jul 4, 2020",67.054
-World,OWID_WRL,"Jul 5, 2020",67.609
-World,OWID_WRL,"Jul 6, 2020",68.043
-World,OWID_WRL,"Jul 7, 2020",68.535
-World,OWID_WRL,"Jul 8, 2020",69.305
-World,OWID_WRL,"Jul 9, 2020",69.982
-World,OWID_WRL,"Jul 10, 2020",70.672
-World,OWID_WRL,"Jul 11, 2020",71.35
-World,OWID_WRL,"Jul 12, 2020",71.965
-World,OWID_WRL,"Jul 13, 2020",72.464
-World,OWID_WRL,"Jul 14, 2020",72.956
-World,OWID_WRL,"Jul 15, 2020",73.673
-World,OWID_WRL,"Jul 16, 2020",74.379
-World,OWID_WRL,"Jul 17, 2020",75.116
-World,OWID_WRL,"Jul 18, 2020",76.06
-World,OWID_WRL,"Jul 19, 2020",76.694
-World,OWID_WRL,"Jul 20, 2020",77.187
+World,OWID_WRL,"Mar 19, 2020",1.144
+World,OWID_WRL,"Mar 20, 2020",1.282
+World,OWID_WRL,"Mar 21, 2020",1.46
+World,OWID_WRL,"Mar 22, 2020",1.68
+World,OWID_WRL,"Mar 23, 2020",1.897
+World,OWID_WRL,"Mar 24, 2020",2.135
+World,OWID_WRL,"Mar 25, 2020",2.432
+World,OWID_WRL,"Mar 26, 2020",2.771
+World,OWID_WRL,"Mar 27, 2020",3.132
+World,OWID_WRL,"Mar 28, 2020",3.58
+World,OWID_WRL,"Mar 29, 2020",4.041
+World,OWID_WRL,"Mar 30, 2020",4.455
+World,OWID_WRL,"Mar 31, 2020",4.967
+World,OWID_WRL,"Apr 1, 2020",5.567
+World,OWID_WRL,"Apr 2, 2020",6.211
+World,OWID_WRL,"Apr 3, 2020",6.855
+World,OWID_WRL,"Apr 4, 2020",7.726
+World,OWID_WRL,"Apr 5, 2020",8.534
+World,OWID_WRL,"Apr 6, 2020",9.146
+World,OWID_WRL,"Apr 7, 2020",9.832
+World,OWID_WRL,"Apr 8, 2020",10.804
+World,OWID_WRL,"Apr 9, 2020",11.647
+World,OWID_WRL,"Apr 10, 2020",12.599
+World,OWID_WRL,"Apr 11, 2020",13.499
+World,OWID_WRL,"Apr 12, 2020",14.277
+World,OWID_WRL,"Apr 13, 2020",14.962
+World,OWID_WRL,"Apr 14, 2020",15.653
+World,OWID_WRL,"Apr 15, 2020",16.631
+World,OWID_WRL,"Apr 16, 2020",17.976
+World,OWID_WRL,"Apr 17, 2020",19.07
+World,OWID_WRL,"Apr 18, 2020",20.156
+World,OWID_WRL,"Apr 19, 2020",20.974
+World,OWID_WRL,"Apr 20, 2020",21.614
+World,OWID_WRL,"Apr 21, 2020",22.313
+World,OWID_WRL,"Apr 22, 2020",23.242
+World,OWID_WRL,"Apr 23, 2020",24.003
+World,OWID_WRL,"Apr 24, 2020",24.945
+World,OWID_WRL,"Apr 25, 2020",25.632
+World,OWID_WRL,"Apr 26, 2020",26.423
+World,OWID_WRL,"Apr 27, 2020",26.925
+World,OWID_WRL,"Apr 28, 2020",27.553
+World,OWID_WRL,"Apr 29, 2020",28.395
+World,OWID_WRL,"Apr 30, 2020",29.237
+World,OWID_WRL,"May 1, 2020",29.962
+World,OWID_WRL,"May 2, 2020",30.678
+World,OWID_WRL,"May 3, 2020",31.294
+World,OWID_WRL,"May 4, 2020",31.77
+World,OWID_WRL,"May 5, 2020",32.281
+World,OWID_WRL,"May 6, 2020",33.045
+World,OWID_WRL,"May 7, 2020",33.831
+World,OWID_WRL,"May 8, 2020",34.555
+World,OWID_WRL,"May 9, 2020",35.211
+World,OWID_WRL,"May 10, 2020",35.776
+World,OWID_WRL,"May 11, 2020",36.216
+World,OWID_WRL,"May 12, 2020",36.676
+World,OWID_WRL,"May 13, 2020",37.415
+World,OWID_WRL,"May 14, 2020",38.059
+World,OWID_WRL,"May 15, 2020",38.733
+World,OWID_WRL,"May 16, 2020",39.382
+World,OWID_WRL,"May 17, 2020",39.924
+World,OWID_WRL,"May 18, 2020",40.296
+World,OWID_WRL,"May 19, 2020",40.719
+World,OWID_WRL,"May 20, 2020",41.384
+World,OWID_WRL,"May 21, 2020",41.99
+World,OWID_WRL,"May 22, 2020",42.681
+World,OWID_WRL,"May 23, 2020",43.277
+World,OWID_WRL,"May 24, 2020",43.78
+World,OWID_WRL,"May 25, 2020",43.921
+World,OWID_WRL,"May 26, 2020",44.354
+World,OWID_WRL,"May 27, 2020",44.85
+World,OWID_WRL,"May 28, 2020",45.51
+World,OWID_WRL,"May 29, 2020",46.105
+World,OWID_WRL,"May 30, 2020",46.702
+World,OWID_WRL,"May 31, 2020",47.217
+World,OWID_WRL,"Jun 1, 2020",47.591
+World,OWID_WRL,"Jun 2, 2020",47.994
+World,OWID_WRL,"Jun 3, 2020",48.578
+World,OWID_WRL,"Jun 4, 2020",49.285
+World,OWID_WRL,"Jun 5, 2020",49.943
+World,OWID_WRL,"Jun 6, 2020",50.539
+World,OWID_WRL,"Jun 7, 2020",51.025
+World,OWID_WRL,"Jun 8, 2020",51.475
+World,OWID_WRL,"Jun 9, 2020",51.887
+World,OWID_WRL,"Jun 10, 2020",52.51
+World,OWID_WRL,"Jun 11, 2020",53.168
+World,OWID_WRL,"Jun 12, 2020",53.771
+World,OWID_WRL,"Jun 13, 2020",54.367
+World,OWID_WRL,"Jun 14, 2020",54.898
+World,OWID_WRL,"Jun 15, 2020",55.303
+World,OWID_WRL,"Jun 16, 2020",55.736
+World,OWID_WRL,"Jun 17, 2020",56.598
+World,OWID_WRL,"Jun 18, 2020",57.253
+World,OWID_WRL,"Jun 19, 2020",58.058
+World,OWID_WRL,"Jun 20, 2020",58.703
+World,OWID_WRL,"Jun 21, 2020",59.231
+World,OWID_WRL,"Jun 22, 2020",59.74
+World,OWID_WRL,"Jun 23, 2020",60.176
+World,OWID_WRL,"Jun 24, 2020",60.862
+World,OWID_WRL,"Jun 25, 2020",61.531
+World,OWID_WRL,"Jun 26, 2020",62.375
+World,OWID_WRL,"Jun 27, 2020",62.96
+World,OWID_WRL,"Jun 28, 2020",63.549
+World,OWID_WRL,"Jun 29, 2020",63.943
+World,OWID_WRL,"Jun 30, 2020",64.418
+World,OWID_WRL,"Jul 1, 2020",65.14
+World,OWID_WRL,"Jul 2, 2020",65.761
+World,OWID_WRL,"Jul 3, 2020",66.412
+World,OWID_WRL,"Jul 4, 2020",67.055
+World,OWID_WRL,"Jul 5, 2020",67.612
+World,OWID_WRL,"Jul 6, 2020",68.045
+World,OWID_WRL,"Jul 7, 2020",68.538
+World,OWID_WRL,"Jul 8, 2020",69.307
+World,OWID_WRL,"Jul 9, 2020",69.984
+World,OWID_WRL,"Jul 10, 2020",70.675
+World,OWID_WRL,"Jul 11, 2020",71.352
+World,OWID_WRL,"Jul 12, 2020",71.967
+World,OWID_WRL,"Jul 13, 2020",72.466
+World,OWID_WRL,"Jul 14, 2020",72.958
+World,OWID_WRL,"Jul 15, 2020",73.674
+World,OWID_WRL,"Jul 16, 2020",74.38
+World,OWID_WRL,"Jul 17, 2020",75.117
+World,OWID_WRL,"Jul 18, 2020",76.061
+World,OWID_WRL,"Jul 19, 2020",76.696
+World,OWID_WRL,"Jul 20, 2020",77.188
 World,OWID_WRL,"Jul 21, 2020",77.713
-World,OWID_WRL,"Jul 22, 2020",78.498
+World,OWID_WRL,"Jul 22, 2020",78.499
 World,OWID_WRL,"Jul 23, 2020",79.381
-World,OWID_WRL,"Jul 24, 2020",80.635
-World,OWID_WRL,"Jul 25, 2020",81.439
-World,OWID_WRL,"Jul 26, 2020",82.175
-World,OWID_WRL,"Jul 27, 2020",82.683
+World,OWID_WRL,"Jul 24, 2020",80.636
+World,OWID_WRL,"Jul 25, 2020",81.438
+World,OWID_WRL,"Jul 26, 2020",82.174
+World,OWID_WRL,"Jul 27, 2020",82.682
 World,OWID_WRL,"Jul 28, 2020",83.28
-World,OWID_WRL,"Jul 29, 2020",84.071
-World,OWID_WRL,"Jul 30, 2020",84.923
-World,OWID_WRL,"Jul 31, 2020",85.742
-World,OWID_WRL,"Aug 1, 2020",86.525
-World,OWID_WRL,"Aug 2, 2020",87.263
-World,OWID_WRL,"Aug 3, 2020",87.809
-World,OWID_WRL,"Aug 4, 2020",88.351
-World,OWID_WRL,"Aug 5, 2020",89.214
-World,OWID_WRL,"Aug 6, 2020",90.127
-World,OWID_WRL,"Aug 7, 2020",91.009
-World,OWID_WRL,"Aug 8, 2020",91.839
-World,OWID_WRL,"Aug 9, 2020",92.561
-World,OWID_WRL,"Aug 10, 2020",93.178
-World,OWID_WRL,"Aug 11, 2020",93.799
-World,OWID_WRL,"Aug 12, 2020",94.585
-World,OWID_WRL,"Aug 13, 2020",95.469
-World,OWID_WRL,"Aug 14, 2020",96.742
-World,OWID_WRL,"Aug 15, 2020",97.544
-World,OWID_WRL,"Aug 16, 2020",98.269
-World,OWID_WRL,"Aug 17, 2020",98.811
-World,OWID_WRL,"Aug 18, 2020",99.357
-World,OWID_WRL,"Aug 19, 2020",100.214
+World,OWID_WRL,"Jul 29, 2020",84.07
+World,OWID_WRL,"Jul 30, 2020",84.922
+World,OWID_WRL,"Jul 31, 2020",85.741
+World,OWID_WRL,"Aug 1, 2020",86.524
+World,OWID_WRL,"Aug 2, 2020",87.262
+World,OWID_WRL,"Aug 3, 2020",87.808
+World,OWID_WRL,"Aug 4, 2020",88.35
+World,OWID_WRL,"Aug 5, 2020",89.213
+World,OWID_WRL,"Aug 6, 2020",90.125
+World,OWID_WRL,"Aug 7, 2020",91.008
+World,OWID_WRL,"Aug 8, 2020",91.838
+World,OWID_WRL,"Aug 9, 2020",92.559
+World,OWID_WRL,"Aug 10, 2020",93.177
+World,OWID_WRL,"Aug 11, 2020",93.798
+World,OWID_WRL,"Aug 12, 2020",94.583
+World,OWID_WRL,"Aug 13, 2020",95.467
+World,OWID_WRL,"Aug 14, 2020",96.74
+World,OWID_WRL,"Aug 15, 2020",97.542
+World,OWID_WRL,"Aug 16, 2020",98.267
+World,OWID_WRL,"Aug 17, 2020",98.809
+World,OWID_WRL,"Aug 18, 2020",99.356
+World,OWID_WRL,"Aug 19, 2020",100.213
 World,OWID_WRL,"Aug 20, 2020",101.052
 World,OWID_WRL,"Aug 21, 2020",101.865
-World,OWID_WRL,"Aug 22, 2020",102.623
-World,OWID_WRL,"Aug 23, 2020",103.346
+World,OWID_WRL,"Aug 22, 2020",102.624
+World,OWID_WRL,"Aug 23, 2020",103.347
 World,OWID_WRL,"Aug 24, 2020",103.772
-World,OWID_WRL,"Aug 25, 2020",104.317
-World,OWID_WRL,"Aug 26, 2020",105.151
+World,OWID_WRL,"Aug 25, 2020",104.319
+World,OWID_WRL,"Aug 26, 2020",105.152
 World,OWID_WRL,"Aug 27, 2020",105.958
 World,OWID_WRL,"Aug 28, 2020",106.738
-World,OWID_WRL,"Aug 29, 2020",107.437
-World,OWID_WRL,"Aug 30, 2020",108.167
+World,OWID_WRL,"Aug 29, 2020",107.438
+World,OWID_WRL,"Aug 30, 2020",108.168
 World,OWID_WRL,"Aug 31, 2020",108.651
-World,OWID_WRL,"Sep 1, 2020",109.163
+World,OWID_WRL,"Sep 1, 2020",109.171
+World,OWID_WRL,"Sep 2, 2020",110.003
 Yemen,YEM,"Apr 10, 2020",0
 Yemen,YEM,"Apr 11, 2020",0
 Yemen,YEM,"Apr 12, 2020",0
@@ -39805,6 +40012,7 @@ Yemen,YEM,"Aug 29, 2020",18.876
 Yemen,YEM,"Aug 30, 2020",18.91
 Yemen,YEM,"Aug 31, 2020",18.91
 Yemen,YEM,"Sep 1, 2020",18.977
+Yemen,YEM,"Sep 2, 2020",19.111
 Zambia,ZMB,"Mar 19, 2020",0
 Zambia,ZMB,"Mar 20, 2020",0
 Zambia,ZMB,"Mar 21, 2020",0
@@ -39972,6 +40180,7 @@ Zambia,ZMB,"Aug 29, 2020",15.394
 Zambia,ZMB,"Aug 30, 2020",15.448
 Zambia,ZMB,"Aug 31, 2020",15.611
 Zambia,ZMB,"Sep 1, 2020",15.666
+Zambia,ZMB,"Sep 2, 2020",15.775
 Zimbabwe,ZWE,"Mar 21, 2020",0
 Zimbabwe,ZWE,"Mar 22, 2020",0
 Zimbabwe,ZWE,"Mar 23, 2020",0
@@ -40137,3 +40346,4 @@ Zimbabwe,ZWE,"Aug 29, 2020",13.12
 Zimbabwe,ZWE,"Aug 30, 2020",13.187
 Zimbabwe,ZWE,"Aug 31, 2020",13.187
 Zimbabwe,ZWE,"Sep 1, 2020",13.591
+Zimbabwe,ZWE,"Sep 2, 2020",13.658
