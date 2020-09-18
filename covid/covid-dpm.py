@@ -2,8 +2,13 @@
 Adjust COVID-19 deaths per million data
 """
 
-import csv
+import csv, os
 from datetime import datetime
+from selenium import webdriver
+
+import covid_get_file as cgf
+
+cgf.get_covid_file()
 
 def flag_link(code):
     return "https://restcountries.eu/data/" + code.lower() + ".svg"
@@ -23,7 +28,7 @@ data = []
 for row in reader:
     entity = row[0]
     code = row[1]
-    date = datetime.strptime(row[2], "%b %d, %Y")
+    date = datetime.strptime(row[2], "%Y-%m-%d")
     deaths = float(row[3])
     data.append([entity, code, date, deaths])
 
