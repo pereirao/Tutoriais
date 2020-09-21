@@ -1,14 +1,14 @@
 <%- include("partials/header"); -%>
 
 <form id="sign-up-form">
-    <h2>Sign up</h2>
+    <h1>Sign Up</h1>
     <label for="email">Email</label>
-    <input type="text" name="email" required>
-    <div class="email error"></div>
+    <input type="email" name="email" required>
+    <div id="email error"></div>
     <label for="password">Password</label>
     <input type="password" name="password" required>
-    <div class="password error"></div>
-    <button>Sign up</button>
+    <div id="password error"></div>
+    <button>Sign Up</button>
 </form>
 <script>
     const form = document.querySelector("#sign-up-form");
@@ -16,8 +16,8 @@
         e.preventDefault();
         const email = form.email.value;
         const password = form.password.value;
-
         console.log(email, password);
-    })
+    });
 </script>
+
 <%- include("partials/footer"); -%>
