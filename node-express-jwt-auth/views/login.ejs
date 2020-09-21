@@ -12,6 +12,7 @@
 </form>
 <script>
     const form = document.querySelector("#login-form");
+    form.email.focus();
     form.addEventListener("submit", (e) => {
         e.preventDefault();
         const email = form.email.value;

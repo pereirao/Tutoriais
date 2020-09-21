@@ -2,6 +2,7 @@ import os
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
+
 def get_covid_file():
     path = "D:\\Work\\Tutoriais\\covid\\"
     driver_file = path + "geckodriver.exe"
