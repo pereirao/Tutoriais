@@ -1,4 +1,4 @@
-import os
+import os, time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
@@ -29,17 +29,24 @@ def get_covid_file():
     driver.implicitly_wait(15)
     driver.get(url)
 
+    ok = False
     assert "Total confirmed COVID-19" in driver.title
-    try:
-        link = driver.find_element_by_xpath("/html/body/div[3]/div/div/div/div[2]/button")
-        link.click()
-    except:
-        pass
-    try:
-        link = driver.find_element_by_xpath("/html/body/main/figure/div/div[3]/div[2]/nav/ul/li[5]")
-        link.click()
-    except:
-        pass
-    link = driver.find_element_by_xpath("/html/body/main/figure/div/div[4]/div[2]/a")
-    link.click()
-    driver.close()
+    if try_click(driver, "/html/body/div[3]/div/div/div/div[2]/button", True):
+        if try_click(driver, "/html/body/main/figure/div/div[3]/div[2]/nav/ul/li[5]"):
+            if try_click(driver, "/html/body/main/figure/div/div[4]/div[2]/a"):
+                time.sleep(3)
+                driver.close()
+                ok = True
+    return ok
+
+def try_click(driver, xpath, bypass = False):
+    retry = 0
+    while retry < 3:
+        try:
+            link = driver.find_element_by_xpath(xpath)
+            link.click()
+            break
+        except:
+            retry += 1
+            time.sleep(3)
+    return retry != 3 or bypass

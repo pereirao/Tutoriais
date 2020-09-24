@@ -8,7 +8,9 @@ from selenium import webdriver
 
 import covid_get_file as cgf
 
-cgf.get_covid_file()
+if cgf.get_covid_file() != True:
+    print("Download failed...")
+    quit()
 
 def flag_link(code):
     return "https://restcountries.eu/data/" + code.lower() + ".svg"
