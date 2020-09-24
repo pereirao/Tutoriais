@@ -2,15 +2,17 @@ import os
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-
 def get_covid_file():
-    path = "D:\\Work\\Tutoriais\\covid\\"
+    path = "E:\\Work\\Tutorials\\covid\\"
     driver_file = path + "geckodriver.exe"
     log_file = path + "geckodriver.log"
     url = "https://ourworldindata.org/grapher/total-covid-deaths-per-million"
 
     try:
         os.remove(path + "total-covid-deaths-per-million.csv")
+        os.remove(log_file)
+        log = open(log_file, "w")
+        log.close()
     except:
         pass
 
