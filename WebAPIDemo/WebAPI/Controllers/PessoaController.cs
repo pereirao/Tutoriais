@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using WebAPI.Models;
 using WebAPI.Repositories;
-
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace WebAPI.Controllers
 {
@@ -17,8 +16,9 @@ namespace WebAPI.Controllers
     {
         private readonly IPessoaRepository _pessoaRepository;
 
-        public PessoaController(IPessoaRepository pessoaRepository)
+        public PessoaController(IConfiguration configuration, IPessoaRepository pessoaRepository)
         {
+            string connectionString = configuration["connectionString"];
             _pessoaRepository = pessoaRepository;
         }
 

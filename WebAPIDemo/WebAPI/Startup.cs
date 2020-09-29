@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using WebAPI.Repositories;
+using WebAPI.Models;
 
 namespace WebAPI
 {
@@ -28,6 +29,7 @@ namespace WebAPI
         {
             services.AddControllers();
             services.AddSingleton<IPessoaRepository, PessoaRepositoryMock>();
+            services.AddSingleton<IRepository<User>, UserRepositoryLocalDB>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

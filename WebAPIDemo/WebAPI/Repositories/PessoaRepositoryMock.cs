@@ -45,7 +45,7 @@ namespace WebAPI.Repositories
 
         public Pessoa Put(Pessoa pessoa)
         {
-            if(_pessoas.Any(p=>p.Id == pessoa.Id))
+            if (_pessoas.Any(p => p.Id == pessoa.Id))
             {
                 _pessoas.Remove(_pessoas.FirstOrDefault(p => p.Id == pessoa.Id));
                 _pessoas.Add(pessoa);
