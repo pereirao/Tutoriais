@@ -1,20 +1,22 @@
-const getTodos = (callback) => {
-    //const url = "https://jsonplaceholder.typicode.com/todos/";
-    const url = "todos/adam.json";
-    const req = new XMLHttpRequest();
-    req.addEventListener("readystatechange", () => {
-        if (req.readyState === 4) {
-            console.log(req.responseText);
-            if (req.status === 200) {
-                callback(undefined, JSON.parse(req.responseText));
+const getTodos = (resource) => {
+    return new Promise((resolve, reject) => {
+        //const url = "https://jsonplaceholder.typicode.com/todos/";
+        // const url = "todos/adam.json";
+        const url = resource;
+        const req = new XMLHttpRequest();
+        req.addEventListener("readystatechange", () => {
+            if (req.readyState === 4) {
+                if (req.status === 200) {
+                    resolve(JSON.parse(req.responseText));
+                }
+                else {
+                    reject(req.statusText);
+                }
             }
-            else {
-                callback(req.statusText, undefined);
-            }
-        }
+        });
+        req.open("GET", url);
+        req.send();
     });
-    req.open("GET", url);
-    req.send();
 }
 
 
@@ -27,4 +29,16 @@ const todoCB = (error, data) => {
     }
 };
 
-getTodos(todoCB);
+getTodos("todos/adam.json")
+    .then(data => {
+        todoCB(undefined, data);
+        return getTodos("todos/bob.json");
+    })
+    .then(data => {
+        todoCB(undefined, data);
+        return getTodos("todos/chris.json");
+    })
+    .then(data => {
+        todoCB(undefined, data);
+    })
+    .catch(error => todoCB(error, undefined));

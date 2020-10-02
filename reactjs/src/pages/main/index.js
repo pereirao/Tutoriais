@@ -7,6 +7,7 @@ export default class Main extends Component {
         page: 1,
         pages: 1
     }
+    
     componentDidMount() {
         this.loadProducts();    
     }

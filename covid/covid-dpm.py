@@ -15,7 +15,7 @@ if cgf.get_covid_file() != True:
 def flag_link(code):
     return "https://restcountries.eu/data/" + code.lower() + ".svg"
 
-path_in = "total-covid-deaths-per-million.csv"
+path_in = "owid-covid-data.csv"
 path_out = "death-per-million-per-day.csv"
 
 file_in = open(path_in, mode="r", newline="")
@@ -28,10 +28,10 @@ header = next(reader)
 data = []
 
 for row in reader:
-    entity = row[0]
-    code = row[1]
-    date = datetime.strptime(row[2], "%Y-%m-%d")
-    deaths = float(row[3])
+    entity = row[2]
+    code = row[0]
+    date = datetime.strptime(row[3], "%Y-%m-%d")
+    deaths = float("0" + row[13])
     data.append([entity, code, date, deaths])
 
 header_out = [

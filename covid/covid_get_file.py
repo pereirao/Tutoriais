@@ -9,7 +9,7 @@ def get_covid_file():
     url = "https://ourworldindata.org/grapher/total-covid-deaths-per-million"
 
     try:
-        os.remove(path + "total-covid-deaths-per-million.csv")
+        os.remove(path + "owid-covid-data.csv")
         os.remove(log_file)
         log = open(log_file, "w")
         log.close()
@@ -30,10 +30,10 @@ def get_covid_file():
     driver.get(url)
 
     ok = False
-    assert "Total confirmed COVID-19" in driver.title
+    assert "Coronavirus Pandemic Data Explorer" in driver.title
     if try_click(driver, "/html/body/div[3]/div/div/div/div[2]/button", True):
-        if try_click(driver, "/html/body/main/figure/div/div[3]/div[2]/nav/ul/li[5]"):
-            if try_click(driver, "/html/body/main/figure/div/div[4]/div[2]/a"):
+        if try_click(driver, "/html/body/main/div[2]/div[4]/div/div[3]/div[2]/nav/ul/li[5]"):
+            if try_click(driver, "/html/body/main/div[2]/div[4]/div/div[4]/div[2]/a"):
                 time.sleep(3)
                 driver.close()
                 ok = True

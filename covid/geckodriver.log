@@ -1,23 +1,12 @@
-1601069482241	geckodriver	INFO	Listening on 127.0.0.1:53356
-1601069485304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEXAN~1\\AppData\\Local\\Temp\\rust_mozprofilelOAds7"
-1601069529588	geckodriver	INFO	Listening on 127.0.0.1:53394
-1601069532625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEXAN~1\\AppData\\Local\\Temp\\rust_mozprofilea8lRvz"
+1601595398777	geckodriver	INFO	Listening on 127.0.0.1:60605
+1601595401809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEXAN~1\\AppData\\Local\\Temp\\rust_mozprofileeYwAbU"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1601069535179	Marionette	INFO	Listening on port 53403
-1601069535322	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
-JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
-JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
-JavaScript error: resource:///modules/UrlbarInput.jsm, line 1328: TypeError: (destructured parameter) is null
-1601069540267	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://marionette/content/sync.js:228:19
-TimedPromise@chrome://marionette/content/sync.js:213:10
-interaction.flushEventLoop@chrome://marionette/content/interaction.js:417:10
-webdriverClickElement@chrome://marionette/content/interaction.js:179:31
-1601069542172	Marionette	INFO	Stopped listening on port 53403
-[Parent 18288, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1601595404407	Marionette	INFO	Listening on port 60613
+1601595404497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601595422479	Marionette	INFO	Stopped listening on port 60613
+[Parent 23896, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
