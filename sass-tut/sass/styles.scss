@@ -1,0 +1,32 @@
+@import "resets";
+@import "variables";
+
+@function weight($weight-name) {
+    @return map-get($map: $font-weights, $key: $weight-name);
+}
+
+@mixin flexCenter {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: $primary-color;
+}
+
+.main {
+    @include flexCenter;
+    width: 80%;
+    margin: 10px auto;
+    #{&}__paragraph {
+        font-weight: weight(bold);
+        padding: 5px;
+        border: 1px solid #aaa;
+        border-radius: 6px;
+        &:hover {
+            color: #444;
+        }
+    }
+}

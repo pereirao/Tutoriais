@@ -26,6 +26,7 @@ namespace WebAPI.Controllers
         [HttpGet]
         public IEnumerable<Pessoa> Get()
         {
+            Pessoa x = new Pessoa();
             return _pessoaRepository.Get();
         }
 
