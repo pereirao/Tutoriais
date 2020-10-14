@@ -1,5 +1,6 @@
 """
 Adjust COVID-19 deaths per million data
+Get the data from WHO
 """
 
 import csv, os
