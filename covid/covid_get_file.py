@@ -31,12 +31,11 @@ def get_covid_file():
 
     ok = False
     assert "Coronavirus Pandemic Data Explorer" in driver.title
-    if try_click(driver, "/html/body/div[3]/div/div/div/div[2]/button", True):
+    if try_click(driver, "/html/body/div[3]/div/div/div/div/div[2]/button", True):
         if try_click(driver, "/html/body/main/div[2]/div[4]/div/div[3]/div[2]/nav/ul/li[5]"):
             if try_click(driver, "/html/body/main/div[2]/div[4]/div/div[4]/div[2]/a"):
-                time.sleep(3)
-                driver.close()
                 ok = True
+    driver.close()
     return ok
 
 def try_click(driver, xpath, bypass = False):
