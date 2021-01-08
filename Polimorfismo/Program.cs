@@ -11,6 +11,8 @@ namespace Polimorfismo
 
             p1.mostraInfo();
             p2.mostraInfo();
+
+            TesteDelegate.Run();
         }
     }
 }
