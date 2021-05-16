@@ -7,7 +7,17 @@ namespace TradeClassificator.repository
 {
     public class StubTradeRepository : IRepository<ITrade>
     {
-        public IEnumerable<ITrade> ListAll()
+        public ITrade Create(ITrade item)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool Delete(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IEnumerable<ITrade> Read()
         {
             return new List<ITrade>()
             {
@@ -19,5 +29,14 @@ namespace TradeClassificator.repository
             };
         }
 
+        public ITrade Read(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public ITrade Update(ITrade item)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

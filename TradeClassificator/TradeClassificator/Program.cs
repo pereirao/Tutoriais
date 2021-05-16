@@ -21,7 +21,7 @@ namespace TradeClassificator
             TradeCategoryMatcher matcher = new TradeCategoryMatcher(categories);
 
             IRepository<ITrade> repository = new StubTradeRepository();
-            IEnumerable<ITrade> portfolio = repository.ListAll();
+            IEnumerable<ITrade> portfolio = repository.Read();
 
             List<string> output = new List<string>();
             foreach (ITrade trade in portfolio)
