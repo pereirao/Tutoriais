@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="492db2ee-7b64-4fed-bdf4-8197fc4cabe3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Polimorfismo/Funcionario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Polimorfismo/Funcionario.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Polimorfismo/Pessoa.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Polimorfismo/Pessoa.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Polimorfismo/Polimorfismo.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Polimorfismo/Polimorfismo.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Polimorfismo/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Polimorfismo/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../covid/covid-dpm.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../covid/covid-dpm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../covid/death-per-million-per-day.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../covid/death-per-million-per-day.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../covid/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../covid/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../covid/owid-covid-data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../covid/owid-covid-data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/src/components/Header/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/src/components/Header/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/src/pages/counter/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/src/pages/counter/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/src/pages/main/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/src/pages/main/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/src/services/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactjs/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1rSpc7nr65xWS8KxoX1N82WmBRx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="492db2ee-7b64-4fed-bdf4-8197fc4cabe3" name="Default Changelist" comment="" />
+      <created>1618979423186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618979423186</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1618982195720">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1618982195720" />
+    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1618982195719">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1618982195719" />
+    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1618982195719">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1618982195719" />
+    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1618982195720">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1618982195720" />
+    <state width="1815" height="295" key="GridCell.Tab.1.bottom" timestamp="1618982195720">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1618982195720" />
+    <state width="1815" height="295" key="GridCell.Tab.1.center" timestamp="1618982195720">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1618982195720" />
+    <state width="1815" height="295" key="GridCell.Tab.1.left" timestamp="1618982195720">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1618982195720" />
+    <state width="1815" height="295" key="GridCell.Tab.1.right" timestamp="1618982195720">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1618982195720" />
+    <state x="570" y="272" key="SettingsEditor" timestamp="1618979878628">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="570" y="272" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1618979878628" />
+  </component>
+</project>
