@@ -1,22 +1,11 @@
-1609850712964	geckodriver	INFO	Listening on 127.0.0.1:57685
-1609850716031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEXAN~1\\AppData\\Local\\Temp\\rust_mozprofileGMRrnw"
+1621348178220	geckodriver	INFO	Listening on 127.0.0.1:54962
+1621348181273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALEXAN~1\\AppData\\Local\\Temp\\rust_mozprofileYXGQO1"
+1621348181847	Marionette	INFO	Marionette enabled
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1609850718998	Marionette	INFO	Listening on port 57693
-1609850719222	Marionette	WARN	TLS certificate errors will be ignored for this session
-1609850719231	Marionette	ERROR	[20] No reply from Marionette:Register
-1609850730014	Marionette	INFO	Stopped listening on port 57693
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-[Parent 11296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
-
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Alexandre\\AppData\\Local\\Temp\\rust_mozprofileYXGQO1\\search.json.mozlz4", (void 0)))
+1621348184201	Marionette	INFO	Listening on port 54972
+1621348184458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621348220666	Marionette	INFO	Stopped listening on port 54972
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 

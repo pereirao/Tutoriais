@@ -2,7 +2,6 @@
 Adjust COVID-19 deaths per million data
 Get the data from WHO
 """
-
 import csv, os
 from datetime import datetime
 from selenium import webdriver
@@ -16,8 +15,9 @@ if cgf.get_covid_file() != True:
 def flag_link(code):
     return "https://restcountries.eu/data/" + code.lower() + ".svg"
 
-path_in = "owid-covid-data.csv"
-path_out = "death-per-million-per-day.csv"
+path = os.path.dirname(os.path.realpath(__file__))
+path_in = os.path.join(path, "owid-covid-data.csv")
+path_out = os.path.join(path, "death-per-million-per-day.csv")
 
 file_in = open(path_in, mode="r", newline="")
 file_out = open(path_out, mode="w", newline="")
