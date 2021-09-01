@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.navigation {
+  list-style-type: none;
+  width: 80%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navigation a {
+  text-decoration: none;
+}
