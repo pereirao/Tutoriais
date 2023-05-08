@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics.CodeAnalysis;
 
 namespace TestesCSharp
 {
@@ -20,6 +21,8 @@ namespace TestesCSharp
     {
         public static void Main(string[] args)
         {
+            var test = new EquatableTest();
+            test.RunTest();
             Pessoa p1 = new Pessoa("Alexandre");
             Pessoa p2 = new Pessoa("Bernardo");
             Pessoa p3 = new Pessoa("Daniel");

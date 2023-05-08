@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.container {
+    background-color: lightgray;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    background-color: steelblue;
+    border: darkblue 1px solid;
+    border-radius: 6px;
+    padding: 10px;
+    color: lightcyan;
+    margin: 10px;
+}

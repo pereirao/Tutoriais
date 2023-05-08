@@ -1,0 +1,11 @@
+{
+    "name": "riroxepa",
+    "version": "1.0.0",
+    "description": "Welcome Riroxi",
+    "main": "bot.js",
+    "author": "Pereirão",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.8.2"
+    }
+}

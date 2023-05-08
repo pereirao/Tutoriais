@@ -9,6 +9,6 @@ namespace HelloRazor.Models
     {
         public string Nome { get; set; }
         public DateTime DataNascimento { get; set; }
-        public Enums.SexoEnum Sexo { get; set; }
+        public SexoEnum Sexo { get; set; }
     }
 }
