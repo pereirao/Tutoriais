@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="appliedFiltersWrapper"
+>
+  <ResultsCount
+    visible={true}
+  />
+  <AppliedFilterPill
+    type="query"
+    value="query"
+  />
+  <AppliedFilterPill
+    type="start"
+    value="fake_timestamp"
+  />
+  <AppliedFilterPill
+    type="end"
+    value="other_fake_timestamp"
+  />
+  <AppliedFilterPill
+    type="filter"
+    value="on_demand"
+  />
+  <AppliedFilterPill
+    type="filter"
+    value="gift"
+  />
+  <ClearFilters
+    visible={true}
+  />
+</div>
+`;

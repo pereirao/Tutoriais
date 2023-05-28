@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders CommentReceptionConfirmation correctly 1`] = `
+<div
+  className="commentReceptionConfirmation"
+>
+  <div
+    className="receptionConfirmationButton"
+    onClick={[Function]}
+  >
+    I NEED HELP, PLEASE CALL
+  </div>
+  <div
+    className="receptionConfirmationButton"
+    onClick={[Function]}
+  >
+    OK, I UNDERSTAND
+  </div>
+</div>
+`;

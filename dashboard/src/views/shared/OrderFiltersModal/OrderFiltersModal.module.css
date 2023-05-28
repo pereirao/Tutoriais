@@ -1,0 +1,64 @@
+.wrapper {
+  flex: 1 0 0;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.filterDropdown {
+  width: 450px; /* after theming react-dates make this smaller */
+  background-color: #FFF;
+  border: #6F6F6F 1px solid;
+  border-radius: 6px;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  position: absolute;
+  top: 125%;
+  padding: 16px 16px 0;
+  display: flex;
+  flex: 1 0 0;
+  flex-direction: column;
+}
+
+.filterLabel {
+  font-size: 10px;
+  text-align: left;
+}
+
+.row {
+  flex-grow: 1;
+  display: flex;
+  margin: 8px 0px 16px;
+}
+
+.dateRow {
+  composes: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.radioButton {
+  margin-right: 8px;
+}
+
+.applyFilterButton {
+  margin: 0;
+  height: 32px;
+  flex: 1 0 0;
+  display: flex;
+  color: #FFF;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #222;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0) {
+  .filterDropdown {
+    width: calc(100vw - 30px);
+  }
+  .filterButtonText {
+    display: none;
+  }
+}

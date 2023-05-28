@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="tableWrapper"
+>
+  <Connect(NewEmployeeButton) />
+  <Table>
+    <Header>
+      <HeaderCell
+        mobile_hidden={true}
+      >
+        Name
+      </HeaderCell>
+      <HeaderCell
+        mobile_hidden={true}
+      >
+        Email
+      </HeaderCell>
+      <HeaderCell
+        mobile_hidden={true}
+      >
+        Driver
+      </HeaderCell>
+      <HeaderCell
+        mobile_hidden={true}
+      >
+        Status
+      </HeaderCell>
+      <HeaderCell
+        mobile_hidden={true}
+      >
+        Edit
+      </HeaderCell>
+    </Header>
+    <Body>
+      <Connect(EmployeeListRow)
+        employee={
+          Object {
+            "active": true,
+            "email": "test@test.com",
+            "first_name": "Test",
+            "id": 1,
+            "last_name": "Employee",
+            "roles": Array [
+              "supplier",
+            ],
+          }
+        }
+      />
+      <Connect(EmployeeListRow)
+        employee={
+          Object {
+            "active": true,
+            "email": "test@test.com",
+            "first_name": "Test",
+            "id": 2,
+            "last_name": "Employee",
+            "roles": Array [
+              "supplier",
+            ],
+          }
+        }
+      />
+    </Body>
+  </Table>
+</div>
+`;

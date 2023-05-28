@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <MBButton
+    button_type="link"
+    onClick={[Function]}
+    size="large"
+    title="Add a New Notification Method"
+  >
+    <MBIcon
+      color="mb_red"
+      icon="add"
+      size="small"
+    />
+    New Notification Method
+  </MBButton>
+  <NewNotificationMethodModal
+    close={[Function]}
+    hidden={true}
+  />
+</div>
+`;

@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Dropdown
+  additionLabel="Add "
+  additionPosition="top"
+  className="permanenceField"
+  closeOnBlur={true}
+  icon="dropdown"
+  minCharacters={1}
+  noResultsMessage="No results found."
+  onChange={[Function]}
+  openOnFocus={true}
+  options={
+    Array [
+      Object {
+        "text": "Temporary",
+        "value": "temporary",
+      },
+      Object {
+        "text": "Permanent",
+        "value": "permanent",
+      },
+    ]
+  }
+  placeholder="Select One..."
+  renderLabel={[Function]}
+  selectOnBlur={true}
+  selection={true}
+/>
+`;

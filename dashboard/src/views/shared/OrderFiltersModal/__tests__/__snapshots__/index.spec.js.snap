@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="wrapper"
+>
+  <MBButton
+    button_type="secondary"
+    size="large"
+  >
+    <MBIcon
+      color="mb_black"
+      icon="filter"
+    />
+    <p
+      className="filterButtonText"
+    >
+      Filter
+    </p>
+  </MBButton>
+</div>
+`;

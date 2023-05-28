@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="tableWrapper"
+>
+  <Connect(ReportGenerator) />
+  <Table>
+    <Header>
+      <HeaderCell>
+        Report Type
+      </HeaderCell>
+      <HeaderCell>
+        Date Range
+      </HeaderCell>
+      <HeaderCell>
+        Download
+      </HeaderCell>
+    </Header>
+    <Body>
+      <Row>
+        <Cell>
+          Orders
+        </Cell>
+        <Cell>
+          2017-01-01T00:00:00-05:00 - 2017-02-01T00:00:00-05:00
+        </Cell>
+        <Cell>
+          <a
+            download={true}
+            href="http://www.fakeurl.com"
+          >
+            <MBButton
+              button_type="link"
+            >
+              <MBIcon
+                color="mb_red"
+                icon="download"
+                size="small"
+              />
+              DOWNLOAD
+            </MBButton>
+          </a>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          Orders
+        </Cell>
+        <Cell>
+          2017-01-01T00:00:00-05:00 - 2017-02-01T00:00:00-05:00
+        </Cell>
+        <Cell>
+          <a
+            download={true}
+            href="http://www.fakeurl.com"
+          >
+            <MBButton
+              button_type="link"
+            >
+              <MBIcon
+                color="mb_red"
+                icon="download"
+                size="small"
+              />
+              DOWNLOAD
+            </MBButton>
+          </a>
+        </Cell>
+      </Row>
+    </Body>
+  </Table>
+</div>
+`;

@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders CommentBubble correctly 1`] = `
+<div
+  className="commentBubbleWrapper"
+>
+  <div
+    className="commentBubble"
+  >
+    <p
+      className="commentNote"
+    >
+      Rap snitches, telling all their business. Sit in the court and be their own star witness
+    </p>
+  </div>
+  <p
+    className="commentAttribution"
+  >
+    MF DOOM (employee) - 12:00 AM on 01/01/2017
+  </p>
+</div>
+`;
+
+exports[`renders CommentReceptionConfirmation if last comment from xxxx@minibardelivery.com 1`] = `
+<div
+  className="commentTranscriptWrapper"
+>
+  <CommentBubble
+    comment={
+      Object {
+        "author": Object {
+          "email": "brian@minibardelivery.com",
+          "name": "brian",
+        },
+        "created_at": "2017-01-01T00:00:00-05:00",
+        "id": 2,
+        "note": "Rap snitches, telling all their business. Sit in the court and be their own star witness",
+      }
+    }
+  />
+  <Connect(CommentReceptionConfirmation) />
+</div>
+`;
+
+exports[`renders CommentTranscript correctly 1`] = `
+<div
+  className="commentTranscriptWrapper"
+>
+  <CommentBubble
+    comment={
+      Object {
+        "author": Object {
+          "email": "metal@face.com",
+          "name": "MF DOOM",
+        },
+        "created_at": "2017-01-01T00:00:00-05:00",
+        "id": 1,
+        "note": "Rap snitches, telling all their business. Sit in the court and be their own star witness",
+      }
+    }
+  />
+</div>
+`;
+
+exports[`renders CustomerNote correctly 1`] = `
+<div>
+  <p>
+    SENT TO CUSTOMER:
+  </p>
+  <div
+    className="customerNote"
+  >
+    <p />
+  </div>
+</div>
+`;

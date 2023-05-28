@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly for on_demand type 1`] = `
+<img
+  alt="Delivery Order"
+  src="truck.png"
+/>
+`;
+
+exports[`renders correctly for pickup type 1`] = `
+<img
+  alt="Pickup Order"
+  src="bag.png"
+/>
+`;
+
+exports[`renders correctly for scheduled type 1`] = `
+<img
+  alt="Scheduled Order"
+  src="clock.png"
+/>
+`;
+
+exports[`renders correctly for shipped type 1`] = `
+<img
+  alt="Shipping Order"
+  src="box.png"
+/>
+`;

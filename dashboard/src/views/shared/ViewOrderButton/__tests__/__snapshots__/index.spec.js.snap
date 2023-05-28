@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders inline correctly 1`] = `
+<div
+  className="viewOrderButton inline"
+  onClick={[Function]}
+  title="View Full Order"
+>
+  <p
+    className="mainText"
+  >
+    VIEW
+  </p>
+</div>
+`;
+
+exports[`renders non-inline correctly 1`] = `
+<div
+  className="viewOrderButton"
+  onClick={[Function]}
+  title="View Full Order"
+>
+  <p
+    className="mainText"
+  >
+    VIEW
+  </p>
+</div>
+`;

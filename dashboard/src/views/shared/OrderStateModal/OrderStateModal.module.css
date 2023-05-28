@@ -1,0 +1,21 @@
+.modalFormWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.fieldLabel {
+  align-self: flex-start;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.formMessage {
+  align-self: flex-start;
+  text-align: left;
+  color: #6F6F6F;
+}
+
+.question {
+  margin-top: 0;
+  padding: 0 10px;
+}

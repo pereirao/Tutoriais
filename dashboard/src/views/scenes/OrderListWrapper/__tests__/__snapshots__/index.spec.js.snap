@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="sceneWrapper"
+>
+  <Connect(NotificationFeed) />
+  <div
+    className="orderListsWrapper"
+  >
+    <div
+      className="tabWrapper"
+    >
+      <div
+        className="tab"
+        onClick={[Function]}
+        role="link"
+        tabIndex={0}
+        title="Orders that are relevant at present"
+      >
+        Active Orders
+      </div>
+      <div
+        className="tab"
+        onClick={[Function]}
+        role="link"
+        tabIndex={1}
+        title="Orders that have been finished or canceled"
+      >
+        Completed Orders
+      </div>
+      <div
+        className="tab"
+        onClick={[Function]}
+        role="link"
+        tabIndex={2}
+        title="Orders that are scheduled for later days"
+      >
+        Future Orders
+      </div>
+      <div
+        className="tab"
+        onClick={[Function]}
+        role="link"
+        tabIndex={3}
+        title="Orders from all time"
+      >
+        All Orders
+      </div>
+      <div
+        className="tabBuffer"
+      />
+    </div>
+    <div
+      className="tabContentWrapper"
+    >
+      <Switch>
+        <Route
+          component={[Function]}
+          exact={true}
+          path="/orders/active"
+        />
+        <Route
+          component={[Function]}
+          exact={true}
+          path="/orders/completed"
+        />
+        <Route
+          component={[Function]}
+          exact={true}
+          path="/orders/future"
+        />
+        <Route
+          component={[Function]}
+          exact={true}
+          path="/orders/all"
+        />
+      </Switch>
+    </div>
+  </div>
+</div>
+`;

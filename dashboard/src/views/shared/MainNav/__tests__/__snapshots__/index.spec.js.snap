@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="navWrapper"
+>
+  <AudioPermissionModal
+    alertNotification={[Function]}
+    closeModal={[Function]}
+    hidden={true}
+  />
+  <TopBar
+    current_path="/"
+  />
+  <div
+    className="navMenu"
+  >
+    <MainNavLink
+      current_path="/"
+      route_name="orders"
+    />
+    <MainNavLink
+      current_path="/"
+      route_name="reports"
+    />
+    <MainNavLink
+      current_path="/"
+      route_name="inventory"
+    />
+    <MainNavLink
+      current_path="/"
+      route_name="settings"
+    />
+    <Connect(StoreRating) />
+  </div>
+</div>
+`;

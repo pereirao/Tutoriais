@@ -1,0 +1,27 @@
+.toggleContainer {
+  display: flex;
+  width: 50px;
+  height: 30px;
+  background-color: lightgray;
+  justify-content: flex-end;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.active {
+  align-self: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 11px;
+  background-color: limegreen;
+  margin-left: 5px;
+}
+
+.inactive {
+  align-self: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 11px;
+  background-color: red;
+  margin-right: 5px;
+}

@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders AppTitle correctly 1`] = `
+<div
+  className="topBarLeft"
+>
+  <img
+    alt="Minibar Delivery Logo"
+    className="logo"
+    src="minibar_logo@2x.png"
+  />
+  <div
+    className="appTitleWrapper"
+  >
+    <p
+      className="appTitle"
+    >
+      Store Partners
+    </p>
+    <MBButton
+      button_type="link"
+      onClick={[Function]}
+      size="large"
+    >
+      <em>
+        need help?
+      </em>
+    </MBButton>
+  </div>
+  <div
+    className="hamburger"
+    onClick={[Function]}
+  >
+    <img
+      alt="Main Menu"
+      src="hamburger.png"
+    />
+  </div>
+  <Connect(MobileMenu)
+    close={[Function]}
+    hidden={true}
+    toggleHelpModal={[Function]}
+  />
+  <Connect(HelpModal)
+    close={[Function]}
+    hidden={true}
+  />
+</div>
+`;

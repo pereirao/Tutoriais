@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<MBModal
+  closeable={true}
+  size="medium"
+>
+  <OrderStateModalContents
+    order={
+      Object {
+        "address": Object {
+          "address1": "21 Jump Street",
+          "address2": "Apt 5",
+          "city": "Brooklyn",
+          "coords": Object {
+            "lat": 40.719507,
+            "lng": -73.941461,
+          },
+          "state": "NY",
+          "zip_code": 11206,
+        },
+        "amounts": Object {
+          "delivery_fee": 5,
+          "minibar_promos": 2.35,
+          "store_discounts": 2,
+          "subtotal": 43.47,
+          "tax": 3.48,
+          "tip": 4.35,
+          "total": 51.95,
+        },
+        "billing": Object {
+          "cc_type": "Amex",
+          "last_digits": "4321",
+        },
+        "comment_ids": Array [],
+        "customer_name": "Biggie Smalls",
+        "delivery_method": Object {
+          "maximum_delivery_expectation": 60,
+          "type": "on_demand",
+        },
+        "driver_id": 15,
+        "id": 1,
+        "notes": "Ring the doorbell",
+        "number": 1,
+        "order_items": Array [],
+        "order_time": "2017-01-01T00:00:00-05:00",
+        "receipt_url": "http://www.minibardelivery.com",
+        "recipient_info": Object {
+          "long_name": "Biggie Smalls - East Coast",
+          "phone": "5555555555",
+          "short_name": "Biggie Smalls",
+        },
+        "state": "paid",
+        "type_tags": Object {
+          "corporate": false,
+          "gift": false,
+          "out_of_hours": false,
+          "scheduled": false,
+          "vip": true,
+        },
+      }
+    }
+  />
+</MBModal>
+`;

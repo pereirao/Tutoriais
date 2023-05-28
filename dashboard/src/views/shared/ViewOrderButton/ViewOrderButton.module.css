@@ -1,0 +1,26 @@
+.viewOrderButton {
+  margin: 0;
+  height: 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #222;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.viewOrderButton:hover {
+  background-color: #444;
+}
+
+.mainText {
+  font-size: 12px;
+  font-weight: bold;
+  color: #FFF;
+  margin: 0;
+}
+
+.inline {
+  width: 130px;
+}

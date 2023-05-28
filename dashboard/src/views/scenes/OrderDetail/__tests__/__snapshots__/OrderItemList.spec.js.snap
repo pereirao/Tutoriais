@@ -1,0 +1,188 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="flexRow"
+>
+  <div
+    className="infoItem"
+  >
+    <div
+      className="sectionHeader"
+    >
+      <p
+        className="sectionTitle"
+      >
+        ITEMS ORDERED (2)
+      </p>
+    </div>
+    <div
+      className="sectionContents"
+    >
+      <Table>
+        <Header>
+          <HeaderCell
+            width={1}
+          >
+            Qty
+          </HeaderCell>
+          <HeaderCell
+            width={11}
+          >
+            Product
+          </HeaderCell>
+          <HeaderCell
+            width={2}
+          >
+            Unit Price
+          </HeaderCell>
+          <HeaderCell
+            width={2}
+          >
+            Total
+          </HeaderCell>
+        </Header>
+        <Body>
+          <Row
+            selectable={false}
+          >
+            <Cell>
+              3
+            </Cell>
+            <Cell>
+              Budweiser Light — 6 pack, 12 oz bottles — ASDFGHJKL
+            </Cell>
+            <Cell>
+              $12.49
+            </Cell>
+            <Cell>
+              $37.47
+            </Cell>
+          </Row>
+          <Row
+            selectable={false}
+          >
+            <Cell>
+              2
+            </Cell>
+            <Cell>
+              Cupcake — 750 ml bottle — QWERYUOO
+            </Cell>
+            <Cell>
+              $10.49
+            </Cell>
+            <Cell>
+              $20.98
+            </Cell>
+          </Row>
+          <Row
+            selectable={false}
+            striped={false}
+          >
+            <Cell />
+            <Cell />
+            <Cell
+              className="subHeader"
+            >
+              Delivery
+            </Cell>
+            <Cell>
+              $5.00
+            </Cell>
+          </Row>
+          <Row
+            selectable={false}
+            striped={false}
+          >
+            <Cell />
+            <Cell />
+            <Cell
+              className="subHeader"
+            >
+              Subtotal
+            </Cell>
+            <Cell>
+              $43.47
+            </Cell>
+          </Row>
+          <Row
+            selectable={false}
+            striped={false}
+          >
+            <Cell />
+            <Cell />
+            <Cell
+              className="subHeader"
+            >
+              Supplier Discounts
+            </Cell>
+            <Cell>
+              $2.00
+            </Cell>
+          </Row>
+          <Row
+            selectable={false}
+            striped={false}
+          >
+            <Cell />
+            <Cell />
+            <Cell
+              className="subHeader"
+            >
+              Minibar Promos
+            </Cell>
+            <Cell>
+              $2.35
+            </Cell>
+          </Row>
+          <Row
+            selectable={false}
+            striped={false}
+          >
+            <Cell />
+            <Cell />
+            <Cell
+              className="subHeader"
+            >
+              Tax
+            </Cell>
+            <Cell>
+              $3.48
+            </Cell>
+          </Row>
+          <Row
+            selectable={false}
+            striped={false}
+          >
+            <Cell />
+            <Cell />
+            <Cell
+              className="subHeader"
+            >
+              Tip
+            </Cell>
+            <Cell>
+              $4.35
+            </Cell>
+          </Row>
+          <Row
+            selectable={false}
+            striped={false}
+          >
+            <Cell />
+            <Cell />
+            <Cell
+              className="subHeader"
+            >
+              Total
+            </Cell>
+            <Cell>
+              $51.95
+            </Cell>
+          </Row>
+        </Body>
+      </Table>
+    </div>
+  </div>
+</div>
+`;

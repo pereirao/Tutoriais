@@ -1,0 +1,89 @@
+.tabContentWrapper {
+  padding: 16px;
+}
+
+.actionRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.listButtonWrapper {
+  width: 130px;
+}
+
+.appliedFiltersWrapper {
+  display: flex;
+  align-items: center;
+  height: 48px;
+  flex-wrap: wrap;
+}
+
+.pill {
+  display: flex;
+  align-items: center;
+  height: 24px;
+  border-radius: 12px;
+  margin-right: 8px;
+  padding: 0px 8px;
+  background-color: #0076CD;
+}
+
+.pillText {
+  color: #FFF;
+  font-size: 12px;
+  margin: 0 8px 0 0;
+}
+
+.removeIconWrapper {
+  height: 16px;
+  width: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.removeIconWrapper:hover {
+  background-color: #FFF;
+}
+
+.removeIcon {
+  position: relative;
+  top: 2px;
+  left: 2px;
+}
+
+.removeIconWrapper:hover .removeIcon line{
+  stroke: #9B9B9B;
+}
+
+.resultsCount {
+  color: #9B9B9B;
+  margin: 0 8px 0 0;
+}
+
+.filtersButton:hover .filterIcon .filterIconStrokeGroup {
+  stroke: #FFFFFF;
+}
+
+.filtersButton:hover .filterIcon .filterIconNegativeSpace {
+  stroke: #222222;
+}
+
+.refreshListWrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 4px;
+}
+
+.refreshButtonContents {
+  margin: 0 4px 0 0;
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0) {
+  .actionRow {
+    padding: 16px 16px 0;
+  }
+  .appliedFiltersWrapper {
+    padding: 8px 16px;
+  }
+}

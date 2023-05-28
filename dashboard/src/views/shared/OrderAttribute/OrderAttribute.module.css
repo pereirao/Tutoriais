@@ -1,0 +1,11 @@
+.attributeItem {
+  background-color: #E1E8F7;
+  border-radius: 15px;
+  padding: 3px 12px;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+.container {
+  display: flex;
+}

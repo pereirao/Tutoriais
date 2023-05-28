@@ -1,0 +1,249 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`order of on_demand delivery_method_type state transitions renders form for transitioning to confirmed state 1`] = `
+<MBForm
+  className="modalFormWrapper"
+  field_spacer_width={16}
+  onSubmit={[Function]}
+  submit_from_last={true}
+  validateSubmittable={[Function]}
+>
+  <FieldLabel>
+    When will you deliver this order?
+  </FieldLabel>
+  <DeliveryEstimateField
+    name="delivery_estimate"
+  />
+  <MBFormSubmitButton
+    inverted={false}
+    is_loading={false}
+    text="CONFIRM ORDER"
+    title="Please estimate delivery timing"
+  />
+</MBForm>
+`;
+
+exports[`order of on_demand delivery_method_type state transitions renders form for transitioning to delivered state for gift order 1`] = `
+<MBForm
+  className="modalFormWrapper"
+  field_spacer_width={16}
+  onSubmit={[Function]}
+  submit_from_last={true}
+  validateSubmittable={[Function]}
+>
+  <FieldLabel>
+    Who signed for the delivery?
+  </FieldLabel>
+  <NameField
+    is_required={true}
+    name="signed_by_name"
+  />
+  <FormMessage>
+    Please note that we will notify the customer who placed the gift order to confirm that the items were delivered to the person listed here.
+  </FormMessage>
+  <MBFormSubmitButton
+    inverted={false}
+    is_loading={false}
+    text="MARK AS DELIVERED"
+    title="Submit form"
+  />
+</MBForm>
+`;
+
+exports[`order of on_demand delivery_method_type state transitions renders form for transitioning to delivered state for non-gift order 1`] = `
+<MBForm
+  className="modalFormWrapper"
+  field_spacer_width={16}
+  onSubmit={[Function]}
+  submit_from_last={true}
+  validateSubmittable={[Function]}
+>
+  <FieldLabel>
+    Who signed for the delivery?
+  </FieldLabel>
+  <NameField
+    is_required={false}
+    name="signed_by_name"
+  />
+  <MissingNameCheckbox
+    label="We did not collect the recipient's name"
+    labelEl={null}
+    name="missing_name"
+  />
+  <MBFormSubmitButton
+    inverted={false}
+    is_loading={false}
+    text="MARK AS DELIVERED"
+    title="Submit form"
+  />
+</MBForm>
+`;
+
+exports[`order of on_demand delivery_method_type state transitions renders form for transitioning to en_route state 1`] = `
+<MBForm
+  className="modalFormWrapper"
+  field_spacer_width={16}
+  onSubmit={[Function]}
+  submit_from_last={true}
+  validateSubmittable={[Function]}
+>
+  <FieldLabel>
+    Assign this order to a driver (optional)
+  </FieldLabel>
+  <DriverField
+    name="driver_id"
+  />
+  <MBFormSubmitButton
+    inverted={false}
+    is_loading={false}
+    text="MARK AS OUT FOR DELIVERY"
+    title="Submit form"
+  />
+</MBForm>
+`;
+
+exports[`order of on_demand delivery_method_type state transitions renders form for transitioning to scheduled state 1`] = `
+<MBForm
+  className="modalFormWrapper"
+  field_spacer_width={16}
+  onSubmit={[Function]}
+  submit_from_last={true}
+  validateSubmittable={[Function]}
+>
+  <FormMessage>
+    Please ensure you have all of the items in stock before confirming. Don't deliver this order yet!
+  </FormMessage>
+  <MBFormSubmitButton
+    inverted={false}
+    is_loading={false}
+    text="CONFIRM INVENTORY"
+    title="Submit form"
+  />
+</MBForm>
+`;
+
+exports[`order of pickup delivery_method_type state transitions renders form for transitioning to confirmed state 1`] = `
+<MBForm
+  className="modalFormWrapper"
+  field_spacer_width={16}
+  onSubmit={[Function]}
+  submit_from_last={true}
+  validateSubmittable={[Function]}
+>
+  <MBFormSubmitButton
+    inverted={false}
+    is_loading={false}
+    text="CONFIRM ORDER"
+    title="Submit form"
+  />
+</MBForm>
+`;
+
+exports[`order of pickup delivery_method_type state transitions renders form for transitioning to delivered state 1`] = `
+<MBForm
+  className="modalFormWrapper"
+  field_spacer_width={16}
+  onSubmit={[Function]}
+  submit_from_last={true}
+  validateSubmittable={[Function]}
+>
+  <FieldLabel>
+    Who picked up the order?
+  </FieldLabel>
+  <NameField
+    is_required={false}
+    name="signed_by_name"
+  />
+  <MissingNameCheckbox
+    label="We did not collect the recipient's name"
+    labelEl={null}
+    name="missing_name"
+  />
+  <MBFormSubmitButton
+    inverted={false}
+    is_loading={false}
+    text="MARK AS PICKED UP"
+    title="Submit form"
+  />
+</MBForm>
+`;
+
+exports[`order of pickup delivery_method_type state transitions renders form for transitioning to en_route state 1`] = `
+<MBForm
+  className="modalFormWrapper"
+  field_spacer_width={16}
+  onSubmit={[Function]}
+  submit_from_last={true}
+  validateSubmittable={[Function]}
+>
+  <MBFormSubmitButton
+    inverted={false}
+    is_loading={false}
+    text="MARK AS READY FOR PICKUP"
+    title="Submit form"
+  />
+</MBForm>
+`;
+
+exports[`order of pickup delivery_method_type state transitions renders form for transitioning to scheduled state 1`] = `
+<MBForm
+  className="modalFormWrapper"
+  field_spacer_width={16}
+  onSubmit={[Function]}
+  submit_from_last={true}
+  validateSubmittable={[Function]}
+>
+  <MBFormSubmitButton
+    inverted={false}
+    is_loading={false}
+    text="CONFIRM INVENTORY"
+    title="Submit form"
+  />
+</MBForm>
+`;
+
+exports[`order of shipped delivery_method_type state transitions renders form for transitioning to confirmed state 1`] = `
+<MBForm
+  className="modalFormWrapper"
+  field_spacer_width={16}
+  onSubmit={[Function]}
+  submit_from_last={true}
+  validateSubmittable={[Function]}
+>
+  <MBFormSubmitButton
+    inverted={false}
+    is_loading={false}
+    text="CONFIRM ORDER"
+    title="Submit form"
+  />
+</MBForm>
+`;
+
+exports[`order of shipped delivery_method_type state transitions renders form for transitioning to delivered state 1`] = `
+<MBForm
+  className="modalFormWrapper"
+  field_spacer_width={16}
+  onSubmit={[Function]}
+  submit_from_last={true}
+  validateSubmittable={[Function]}
+>
+  <FieldLabel>
+    Shipping Provider
+  </FieldLabel>
+  <ShippingProviderField
+    name="shipping_provider"
+  />
+  <FieldLabel>
+    Tracking Number
+  </FieldLabel>
+  <TrackingNumberField
+    name="tracking_number"
+  />
+  <MBFormSubmitButton
+    inverted={false}
+    is_loading={false}
+    text="MARK AS SHIPPED"
+    title="Submit form"
+  />
+</MBForm>
+`;

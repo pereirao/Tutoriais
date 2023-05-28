@@ -1,0 +1,40 @@
+.numberInput,
+.textInput {
+  border: none;
+  border: solid 1px #9B9B9B;
+  border-radius: 3px;
+  line-height: 30px;
+  font-size: 14px;
+  padding: 0 8px;
+  margin-bottom: 16px;
+}
+
+.numberInput {
+  width: 100%;
+}
+
+.textArea {
+  composes: textInput;
+  resize: vertical;
+}
+
+.checkbox {
+  margin-bottom: 16px;
+}
+
+.permanenceField {
+  margin-bottom: 32px;
+}
+
+.breakPeriodField {
+  margin-bottom: 60px;
+}
+
+.noDrivers {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #9B9B9B;
+  margin: 16px 0;
+}

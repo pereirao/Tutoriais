@@ -1,0 +1,68 @@
+.table {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.tableHeader {
+  background-color: #0076CD;
+}
+
+.tableHeader td {
+  color: white;
+  font-style: italic;
+}
+
+.table tr {
+  border: solid 1px #ccc;
+}
+
+.table td {
+  padding: 18px 12px;
+}
+
+.divider {
+  width: 100%;
+  margin: 10px 0;
+  border-top: solid 1px grey;
+}
+
+.closeWrapper {
+  position: absolute;
+  height: 20px;
+  width: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  top: 0px;
+  right: 0px;
+}
+
+.closeWrapper:hover {
+  background-color: #9B9B9B;
+}
+
+.closeIcon {
+  position: relative;
+  top: 4px;
+  left: 2px;
+}
+
+.closeWrapper:hover .closeIcon line{
+  stroke: #FFF;
+}
+
+.sectionContents {
+  margin: 10px 0;
+  margin-right: -30px;
+}
+
+.substituteQuantity {
+  width: 45px;
+  height: 30px;
+  text-align: center;
+  border: solid 1px black;
+}
+
+.closeButton {
+  margin-top: 20px;
+}
+

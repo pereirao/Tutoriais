@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="searchInputWrapper"
+>
+  <div
+    className="searchIcon"
+  >
+    <MBIcon
+      icon="search"
+      size="small"
+    />
+  </div>
+  <input
+    className="searchInput"
+    onKeyPress={[Function]}
+    type="text"
+    value="Budweiser Light"
+  />
+  <div
+    className="searchButton"
+  >
+    SEARCH
+  </div>
+</div>
+`;

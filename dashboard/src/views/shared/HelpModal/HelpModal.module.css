@@ -1,0 +1,110 @@
+.helpModalHeader {
+  margin-top: 16px;
+  padding: 0;
+  font-weight: normal;
+  text-align: left;
+}
+
+.contentWrapper {
+  display: flex;
+  flex-direction: column;
+  align-self: stretch;
+  align-items: stretch;
+  margin-top: 32px;
+}
+
+.helpForm {
+  position: relative;
+  margin-top: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.fieldLabel {
+  text-align: left;
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.formNote {
+  font-size: 14px;
+  color: #6F6F6F;
+}
+
+.changeZoneNote {
+  font-weight: bold;
+  margin-top: 16px;
+}
+
+.subjectSelect {
+  align-self: stretch;
+}
+
+.contactRow {
+  display: flex;
+  justify-content: space-around;
+}
+
+.contactSpacer {
+  width: 16px;
+}
+
+.contactIcon {
+  margin-right: 16px;
+}
+
+.messageStatus {
+  min-height: 26px;
+  margin: 8px 0 0;
+}
+
+.success {
+  color: #44A135;
+}
+
+.error {
+  color: #C70B0E;
+}
+
+.suppliesLink {
+  margin-top: 16px;
+  text-transform: uppercase;
+}
+
+.suppliesLink:hover {
+  text-decoration: underline;
+}
+
+.formWrapper {
+  overflow-y: visible;
+  overflow-x: auto;
+}
+
+.appear {
+  opacity: 0.01;
+  top: -160px;
+}
+.appear.appearActive {
+  opacity: 1;
+  top: 0px;
+  transition: 700ms;
+}
+.enter {
+  opacity: 0.01;
+  top: -160px;
+}
+.enter.enterActive {
+  opacity: 1;
+  top: 0px;
+  transition: 700ms;
+}
+.leave {
+  opacity: 1;
+  top: 0px;
+}
+.leave.leaveActive {
+  opacity: 0.01;
+  top: 0px;
+  display: none;
+  transition: 700ms;
+}

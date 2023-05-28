@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="attributeCell"
+>
+  <MBIcon
+    className="attributeIcon"
+    color="mb_medium_grey"
+    icon="gift"
+    inline={true}
+    title="Gift Order"
+  />
+  <MBIcon
+    className="attributeIcon"
+    color="mb_medium_grey"
+    icon="vip"
+    inline={true}
+    title="VIP Order"
+  />
+  <MBIcon
+    className="attributeIcon"
+    color="mb_medium_grey"
+    icon="scheduled"
+    inline={true}
+    title="Scheduled Order"
+  />
+</div>
+`;

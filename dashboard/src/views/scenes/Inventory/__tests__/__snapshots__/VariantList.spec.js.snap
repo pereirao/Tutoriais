@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    className="tableWrapper"
+  >
+    <div
+      className="searchWrapper"
+    >
+      <SearchInput
+        onChange={[Function]}
+        placeholder="Search product name, brand, type"
+        query=""
+        submit={[Function]}
+      />
+      <VariantFilters
+        applyFilters={[Function]}
+      />
+    </div>
+    <AppliedFilters
+      clearFilters={[Function]}
+      filters={Array []}
+      removeFilter={[Function]}
+    />
+    <Table>
+      <Header>
+        <HeaderCell
+          mobile_hidden={true}
+        >
+          SKU
+        </HeaderCell>
+        <HeaderCell
+          mobile_hidden={true}
+        >
+          Product Name
+        </HeaderCell>
+        <HeaderCell
+          mobile_hidden={true}
+        >
+          Case Eligible
+          <MBIcon
+            icon="info"
+            inline={true}
+            onClick={[Function]}
+            size="small"
+            title=""
+          />
+          <MBTooltip
+            visible={false}
+          >
+            This product is eligible for your N% case discount - counts as a sale price, not a promotion reimbursed by Minibar
+          </MBTooltip>
+        </HeaderCell>
+        <HeaderCell
+          mobile_hidden={true}
+        >
+          Inventory
+        </HeaderCell>
+        <HeaderCell
+          mobile_hidden={true}
+        >
+          Price
+        </HeaderCell>
+        <HeaderCell
+          mobile_hidden={true}
+        >
+          Sale Price
+        </HeaderCell>
+        <HeaderCell
+          mobile_hidden={true}
+        >
+          Edit
+        </HeaderCell>
+      </Header>
+      <Body>
+        <Connect(VariantListRow)
+          variant={
+            Object {
+              "id": 1,
+              "inventory": 10,
+              "price": 19.99,
+              "product_name": "Good good drink",
+              "sale_price": 0,
+              "sku": "this_is_a_sku",
+            }
+          }
+        />
+        <Connect(VariantListRow)
+          variant={
+            Object {
+              "id": 2,
+              "inventory": 10,
+              "price": 19.99,
+              "product_name": "Good good drink",
+              "sale_price": 0,
+              "sku": "this_is_a_sku",
+            }
+          }
+        />
+      </Body>
+    </Table>
+    <Footer
+      empty_message="No Products"
+      has_more={false}
+      is_empty={false}
+      loadMore={[Function]}
+    />
+  </div>
+</div>
+`;

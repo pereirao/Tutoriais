@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<input
+  className="textInput"
+  errorText={
+    Object {
+      "required": "This field is required",
+    }
+  }
+  is_required={true}
+  name="email"
+  onChange={[Function]}
+  placeholder="Email Address"
+/>
+`;

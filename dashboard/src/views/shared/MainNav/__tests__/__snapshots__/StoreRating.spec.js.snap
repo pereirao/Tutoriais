@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders bad correctly 1`] = `
+<div
+  className="storeRatingWrapper"
+>
+  <p
+    className="storeRatingLabel"
+  >
+    Store Rating:
+  </p>
+  <span
+    className="storeRating bad"
+  >
+    3.1
+  </span>
+  <MBIcon
+    color="mb_medium_grey"
+    icon="info"
+    inline={true}
+    mobileHidden={true}
+    onClick={[Function]}
+  />
+  <StoreRatingModal
+    close={[Function]}
+    hidden={true}
+    rating="3.1"
+  />
+</div>
+`;
+
+exports[`renders good correctly 1`] = `
+<div
+  className="storeRatingWrapper"
+>
+  <p
+    className="storeRatingLabel"
+  >
+    Store Rating:
+  </p>
+  <span
+    className="storeRating good"
+  >
+    4.9
+  </span>
+  <MBIcon
+    color="mb_medium_grey"
+    icon="info"
+    inline={true}
+    mobileHidden={true}
+    onClick={[Function]}
+  />
+  <StoreRatingModal
+    close={[Function]}
+    hidden={true}
+    rating="4.9"
+  />
+</div>
+`;
+
+exports[`renders meh correctly 1`] = `
+<div
+  className="storeRatingWrapper"
+>
+  <p
+    className="storeRatingLabel"
+  >
+    Store Rating:
+  </p>
+  <span
+    className="storeRating meh"
+  >
+    4.6
+  </span>
+  <MBIcon
+    color="mb_medium_grey"
+    icon="info"
+    inline={true}
+    mobileHidden={true}
+    onClick={[Function]}
+  />
+  <StoreRatingModal
+    close={[Function]}
+    hidden={true}
+    rating="4.6"
+  />
+</div>
+`;

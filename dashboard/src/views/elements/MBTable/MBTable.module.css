@@ -1,0 +1,87 @@
+.tableContainer {
+  width: 100%;
+  text-align: left;
+  table-layout: auto;
+}
+
+.tableHeaderRow {
+  text-align: left;
+  color: #6F6F6F;
+  font-size: 12px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.tableBody {
+  border-top: 1px solid #9B9B9B;
+}
+
+.tableRow {
+  display: table-row;
+}
+
+.tableRow.selectable {
+  cursor: pointer;
+}
+
+.tableRow.striped:nth-child(even){
+  background-color: #EFF4F7;
+}
+
+.tableRow.selectable:hover {
+  background-color: #C7E3F4;
+}
+
+.tableCell {
+  text-align: left;
+  padding: 6px 4px;
+}
+
+.cellDatum {
+  font-size: 12px;
+}
+
+.zeroState {
+  color: #9B9B9B;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.loaderRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 200px;
+}
+
+.loadMoreRow {
+  composes: loaderRow;
+  min-height: 0px;
+  margin-top: 8px;
+}
+
+.mobileOnly {
+  display: none;
+  opacity: 0;
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0) {
+  .tableCell.mobileOnly {
+    display: table-cell;
+    opacity: 1;
+    padding: 8px 16px;
+  }
+  .tableCell.mobileHidden {
+    display: none;
+    opacity: 0;
+  }
+  .tableBody {
+    border-width: 0;
+  }
+  .tableRow.selectable:hover {
+    background-color: initial;
+  }
+  .tableRow.selectable.striped:nth-child(even){
+    background-color: #EFF4F7;
+  }
+}

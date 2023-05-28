@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    className="wrapper"
+  >
+    <div
+      className="slidingBackground"
+    />
+  </div>
+  <div
+    className="panelWrapper"
+  >
+    <div
+      className="panel"
+    >
+      <MBForm
+        className="formWrapper"
+        field_spacer_width={16}
+        submit_from_last={true}
+        validateSubmittable={[Function]}
+      >
+        <img
+          alt="Minibar Delivery Logo"
+          className="logo"
+          src="minibar_logo.png"
+        />
+        <EmailField
+          is_required={true}
+          name="email"
+        />
+        <PasswordField
+          is_required={true}
+          name="password"
+          submit_on_enter={true}
+        />
+        <LoginError />
+        <MBFormSubmitButton
+          inverted={true}
+          is_loading={false}
+          onClick={[Function]}
+          text="LOG IN"
+          title="Submit form"
+        />
+        <a
+          className="forgotPasswordLink"
+          href="https://api.minibardelivery.com/users/password/new"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          forgot password?
+        </a>
+      </MBForm>
+    </div>
+  </div>
+</div>
+`;

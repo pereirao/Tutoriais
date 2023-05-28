@@ -1,0 +1,42 @@
+.updateStateButton {
+  margin: 0;
+  height: 36px;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #222;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.updateStateButton:hover {
+  background-color: #444;
+}
+
+.inlineButton {
+  flex: 0;
+  height: 32px;
+  width: 130px;
+}
+
+.inlineMarkAs {
+  font-size: 8px;
+  color: #FFF;
+  margin: 0;
+}
+
+.inlineNextState {
+  font-size: 12px;
+  color: #FFF;
+  font-weight: bold;
+  margin: 0;
+}
+
+.mainText {
+  font-size: 14px;
+  font-weight: bold;
+  color: #FFF;
+  margin: 0;
+}

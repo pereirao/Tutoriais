@@ -1,0 +1,52 @@
+.sceneWrapper {
+  height: 100%;
+  padding: 16px;
+  background-color: #E6E6E6;
+}
+
+.generatorWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 16px 0;
+}
+
+.tableWrapper {
+  background-color: #FFF;
+  border: 1px #9B9B9B solid;
+  padding: 16px;
+  border-radius: 3px;
+}
+
+.generateButton {
+  height: 50px;
+  background-color: #222;
+  color: #FFF;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 0 16px;
+  margin-left: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.generateButton:hover {
+  background-color: #444;
+}
+
+/* NOTE: following hacks are for overriding SUI styles */
+
+.reportTypeSelect {
+  margin-right: 16px;
+  height: 50px;
+  border-radius: 0 !important;
+  padding: 1.22em 2.1em 1.22em 1em !important;
+}
+
+:global(.ui.selection.dropdown) > :global(.dropdown.icon) {
+  padding: 1.4em !important;
+}

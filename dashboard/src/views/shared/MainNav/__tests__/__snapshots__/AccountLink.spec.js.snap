@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders AccountLink correctly 1`] = `
+<div>
+  <Dropdown
+    additionLabel="Add "
+    additionPosition="top"
+    closeOnBlur={true}
+    compact={true}
+    icon="dropdown"
+    minCharacters={1}
+    noResultsMessage="No results found."
+    openOnFocus={true}
+    renderLabel={[Function]}
+    selectOnBlur={true}
+    text="Tim Jacklepappy"
+  >
+    <DropdownMenu
+      className="accountLinkDropdownMenu"
+    >
+      <DropdownItem
+        icon="log out"
+        text="Sign Out"
+      />
+    </DropdownMenu>
+  </Dropdown>
+  <p
+    className="accountRole"
+  >
+    employee
+  </p>
+</div>
+`;

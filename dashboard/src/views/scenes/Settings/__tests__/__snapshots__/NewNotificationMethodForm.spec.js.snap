@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<MBForm
+  className="newForm"
+  field_spacer_width={16}
+  onSubmit={[Function]}
+  submit_from_last={true}
+  validateSubmittable={[Function]}
+>
+  <NotificationTypeField
+    name="notification_type"
+  />
+  <div
+    className="fieldLabel"
+  >
+    Value
+  </div>
+  <NameField
+    is_required={true}
+    name="value"
+    placeholder="e.g. 2123456789 or email@test.com"
+  />
+  <div
+    className="fieldLabel"
+  >
+    Label
+  </div>
+  <NameField
+    is_required={false}
+    name="label"
+    placeholder="e.g. Brian's (Manager) Phone"
+  />
+  <MBFormSubmitButton
+    inverted={false}
+    is_loading={false}
+    text="Submit"
+    title="Submit form"
+  />
+  <NewFormError />
+</MBForm>
+`;

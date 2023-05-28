@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders TopBar correctly 1`] = `
+<div
+  className="topBarWrapper"
+>
+  <AppTitle />
+  <Connect(StoreTitle) />
+  <Connect(AccountLink) />
+</div>
+`;

@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders bad correctly 1`] = `
+<MBModal
+  closeable={true}
+  size="medium"
+>
+  <div
+    className="storeRatingModalWrapper"
+  >
+    <h3
+      className="storeRatingTitle"
+    >
+      Store Rating
+    </h3>
+    <p
+      className="storeRatingBody"
+    >
+      Your score is influenced by factors like customer ratings, late deliveries, out-of-stock problems.
+    </p>
+    <div
+      className="modalRatingWrapper"
+    >
+      <h3
+        className="storeRatingLarge bad"
+      >
+        3.1
+      </h3>
+      <h3
+        className="storeRatingSubtext bad"
+      >
+        NEEDS IMPROVEMENT
+      </h3>
+    </div>
+    <p
+      className="storeRatingBody"
+    >
+      Our best partners maintain a score of 4.75 or above. To get your score up, confirm and deliver orders in a timely manner and keep an accurate inventory to avoid stock issues.
+    </p>
+  </div>
+</MBModal>
+`;
+
+exports[`renders good correctly 1`] = `
+<MBModal
+  closeable={true}
+  size="medium"
+>
+  <div
+    className="storeRatingModalWrapper"
+  >
+    <h3
+      className="storeRatingTitle"
+    >
+      Store Rating
+    </h3>
+    <p
+      className="storeRatingBody"
+    >
+      Your score is influenced by factors like customer ratings, late deliveries, out-of-stock problems.
+    </p>
+    <div
+      className="modalRatingWrapper"
+    >
+      <h3
+        className="storeRatingLarge good"
+      >
+        4.9
+      </h3>
+      <h3
+        className="storeRatingSubtext good"
+      >
+        KEEP IT UP
+      </h3>
+    </div>
+    <p
+      className="storeRatingBody"
+    >
+      Our best partners maintain a score of 4.75 or above. To get your score up, confirm and deliver orders in a timely manner and keep an accurate inventory to avoid stock issues.
+    </p>
+  </div>
+</MBModal>
+`;
+
+exports[`renders meh correctly 1`] = `
+<MBModal
+  closeable={true}
+  size="medium"
+>
+  <div
+    className="storeRatingModalWrapper"
+  >
+    <h3
+      className="storeRatingTitle"
+    >
+      Store Rating
+    </h3>
+    <p
+      className="storeRatingBody"
+    >
+      Your score is influenced by factors like customer ratings, late deliveries, out-of-stock problems.
+    </p>
+    <div
+      className="modalRatingWrapper"
+    >
+      <h3
+        className="storeRatingLarge meh"
+      >
+        4.6
+      </h3>
+      <h3
+        className="storeRatingSubtext meh"
+      >
+        YOU CAN DO BETTER
+      </h3>
+    </div>
+    <p
+      className="storeRatingBody"
+    >
+      Our best partners maintain a score of 4.75 or above. To get your score up, confirm and deliver orders in a timely manner and keep an accurate inventory to avoid stock issues.
+    </p>
+  </div>
+</MBModal>
+`;

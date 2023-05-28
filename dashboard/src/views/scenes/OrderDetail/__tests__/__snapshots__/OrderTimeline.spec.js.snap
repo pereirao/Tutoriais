@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders OrderTimeline correctly 1`] = `
+<div>
+  <OrderTimelineEntry
+    entry={
+      Object {
+        "meta": Object {
+          "name": "MF DOOM (employee)",
+        },
+        "time": "2017-01-01T00:00:00-05:00",
+        "type": "comment",
+      }
+    }
+  />
+  <div
+    className="separatorLine"
+  />
+</div>
+`;
+
+exports[`renders OrderTimelineEntry correctly 1`] = `
+<div
+  className="timelineEntry"
+>
+  <div
+    className="entryDot"
+  >
+    <MBIcon
+      color="mb_white"
+      icon={null}
+    />
+  </div>
+  <div
+    className="timelineEntryText"
+  >
+    <p
+      className="timelineEntryTitle"
+    >
+      Placed by Biggie Smalls (customer)
+    </p>
+    <p
+      className="timelineEntryTimestamp"
+    >
+      12:00 AM on 01/02/2017
+    </p>
+  </div>
+</div>
+`;

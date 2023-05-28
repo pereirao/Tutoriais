@@ -1,0 +1,97 @@
+.recipientName {
+    font-size: 12px;
+    margin: 8px 0 4px;
+}
+
+.orderState {
+    font-size: 10px;
+}
+
+.orderStatus {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.attention {
+    color: #C70B0E;
+}
+
+.waiting {
+    color: #0076CD;
+}
+
+.stable {
+    color: #6F6F6F;
+}
+
+.success {
+    color: #44A135;
+}
+
+.warning {
+    color: #ED961E;
+}
+
+.timingMessage {
+    font-size: 10px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.deliveryMethod {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    line-height: 32px;
+}
+
+.deliveryMethodIcon {
+    display: flex;
+    align-items: center;
+    margin-right: 8px;
+}
+
+.deliveryMethodIconMobile {
+    margin-right: 8px;
+}
+
+.cellDatum {
+    font-size: 12px;
+}
+
+.cellDatum.recipientCell {
+    font-weight: 500;
+}
+
+.mobileSummaryWrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.mobileSummaryMain {
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 4px;
+}
+
+.mobileSummarySecondary {
+    display: flex;
+    font-size: 10px;
+}
+
+.mobileSummaryLeft {
+    flex: 2 0 0;
+}
+
+.mobileSummaryRight {
+    flex: 1 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.mobileSummaryStatus {
+    margin-bottom: 4px;
+    text-align: right;
+}

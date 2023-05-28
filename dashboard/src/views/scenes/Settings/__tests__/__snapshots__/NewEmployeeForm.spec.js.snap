@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<MBForm
+  className="newForm"
+  field_spacer_width={16}
+  onSubmit={[Function]}
+  submit_from_last={true}
+  validateSubmittable={[Function]}
+>
+  <NameField
+    is_required={true}
+    name="first_name"
+  />
+  <NameField
+    is_required={true}
+    name="last_name"
+  />
+  <EmailField
+    is_required={true}
+    name="email"
+  />
+  <PasswordField
+    is_required={true}
+    name="password"
+  />
+  <PasswordField
+    is_required={true}
+    name="password_confirmation"
+  />
+  <IsDriverCheckbox
+    label="This employee is a driver"
+    name="role"
+  />
+  <MBFormSubmitButton
+    inverted={false}
+    is_loading={false}
+    text="Submit"
+    title="Submit form"
+  />
+  <NewFormError />
+</MBForm>
+`;

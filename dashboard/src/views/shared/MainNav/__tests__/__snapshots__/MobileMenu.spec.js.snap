@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders MobileMenu correctly 1`] = `
+<div
+  className="mobileMenuWrapper"
+>
+  <ul
+    className="mobileMenuLinks"
+  >
+    <li
+      className="mobileMenuLink"
+      onClick={[Function]}
+    >
+      ORDERS
+      <Connect(NotificationCount) />
+    </li>
+    <li
+      className="mobileMenuLink"
+      onClick={[Function]}
+    >
+      REPORTS
+    </li>
+    <li
+      className="mobileMenuLink"
+      onClick={[Function]}
+    >
+      INVENTORY
+    </li>
+    <li
+      className="mobileMenuLink"
+      onClick={[Function]}
+    >
+      SETTINGS
+    </li>
+  </ul>
+  <div
+    className="mobileMenuFooter"
+  >
+    <Connect(StoreRating) />
+    <MBButton
+      button_type="link"
+    >
+      <em>
+        need help?
+      </em>
+    </MBButton>
+  </div>
+</div>
+`;

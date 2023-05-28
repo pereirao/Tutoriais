@@ -1,0 +1,244 @@
+.navWrapper {
+  background-color: #FFF;
+}
+
+.navLink {
+  transition: border-color 0.3s ease;
+  text-transform: uppercase;
+  color: #6F6F6F;
+  border-bottom-style: solid;
+  border-bottom-width: 4px;
+  border-color: #FFF;
+  display: flex;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 10px 20px 6px;
+}
+
+.navLink:hover:not(.activeTab) {
+  color: #6F6F6F;
+  border-color: #E6E6E6;
+}
+
+.activeTab {
+  color: #222;
+  border-color: #781214;
+}
+
+.activeTab:hover {
+  color: #222; /* overides standard <a> behavior */
+}
+
+.navMenu {
+  display: flex;
+  border-bottom-color: #E6E6E6;
+}
+
+.logo {
+  height: 48px;
+  width: 48px;
+}
+
+.appTitleWrapper {
+  margin-left: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.appTitle {
+  margin: 0;
+  font-size: 14px;
+}
+
+.topBarLeft {
+  display: flex;
+}
+
+.storeTitleWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.storeTitle {
+  margin: 0;
+  font-size: 18px;
+}
+
+.storeSubTitle {
+  margin: 0;
+}
+
+.accountLinkDropdownMenu {
+  left: -16px !important; /* this is to replace the margin */
+}
+
+.accountRole {
+  font-size: 10px;
+  color: #9B9B9B;
+}
+
+.topBarWrapper {
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: #9B9B9B 1px solid;
+  padding: 0 16px;
+}
+
+.storeRatingWrapper {
+  flex: 1 0 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.storeRatingLabel {
+  margin: 0;
+}
+
+.storeRating {
+  margin: 0 6px;
+  font-size: 16px !important;
+}
+
+.storeRatingModalWrapper {
+  margin: 20px 0;
+}
+
+.modalRatingWrapper {
+  margin-bottom: 20px
+}
+
+.storeRatingLarge {
+  font-size: 64px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.storeRatingSubtext {
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.bad {
+  color: red;
+}
+
+.good {
+  color: #44A135;
+}
+
+.meh {
+  color: #ED961E;
+}
+
+.noticeCount {
+  margin-left: 8px;
+  border-radius: 10px;
+  font-size: 12px;
+  width: 20px;
+  height: 20px;
+  background: #781214;
+  color: #FFF;
+  text-align: center;
+}
+
+.hamburger {
+  display: none;
+  height: 20px;
+  width: 24px;
+  margin: 4px 0;
+  cursor: pointer;
+}
+
+.hamburger:active {
+  opacity: 0.5;
+}
+
+.mobileMenuWrapper {
+  display: none;
+  position: absolute;
+  top: 48px;
+  left: 10px;
+  background: #FFF;
+  border: 1px solid #E6E6E6;
+  border-radius: 6px;
+  padding: 0;
+  z-index: 1000;
+}
+
+.mobileMenuLinks {
+  list-style: none;
+  padding: 0;
+  margin: 8px 0;
+}
+
+.mobileMenuLink {
+  display: flex;
+  font-size: 14px;
+  padding: 8px 48px 8px 16px;
+  text-transform: uppercase;
+  border-left: 4px transparent solid;
+  text-align: left;
+  color: #6F6F6F;
+  cursor: pointer;
+}
+
+.mobileMenuLink:active {
+  background: #22222299;
+}
+
+.mobileMenuLink.activeLink {
+  border-left: 4px #781214 solid;
+  color: #222222;
+}
+
+.mobileMenuFooter {
+  border-top: #e6e6e6 1px solid;
+  padding: 8px 0;
+}
+
+.buttonRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  align-self: stretch;
+}
+
+.spacer {
+  width: 16px;
+}
+
+
+@media only screen and (max-width: 767px) and (min-width: 0) {
+  .navMenu {
+    display: none;
+  }
+  .storeSubTitle {
+    display: none;
+  }
+  .storeTitle {
+    font-size: 14px;
+    max-width: 140px;
+  }
+  .appTitleWrapper {
+    display: none;
+  }
+  .logo {
+    display: none;
+  }
+  .hamburger {
+    display: block;
+  }
+  .mobileMenuWrapper {
+    display: block;
+  }
+  .storeRatingWrapper {
+    justify-content: center;
+  }
+}

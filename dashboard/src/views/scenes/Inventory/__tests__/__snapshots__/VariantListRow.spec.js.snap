@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Row>
+  <Cell
+    mobile_hidden={false}
+    mobile_only={true}
+  >
+    <span
+      className="mobileSummaryWrapper"
+    >
+      <div>
+        <span>
+          [missing {{name}} value] - 19.99
+        </span>
+        <br />
+        <span
+          className="productDetails"
+        >
+          undefined | undefined - 10 in stock
+        </span>
+      </div>
+      <div
+        className="mobileEditButtonWrapper"
+      >
+        <span>
+          <span
+            className="editButtonWrapper"
+          >
+            <MBButton
+              button_type="link"
+              onClick={[Function]}
+            >
+              <div
+                className="editIcon"
+              >
+                <MBIcon
+                  color="mb_red"
+                  icon="edit"
+                  size="small"
+                />
+              </div>
+              Edit Product
+            </MBButton>
+          </span>
+        </span>
+      </div>
+    </span>
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    this_is_a_sku
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    <span>
+      <span />
+      <br />
+      <span
+        className="productDetails"
+      >
+        undefined | undefined
+      </span>
+    </span>
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    No
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    10
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    19.99
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    Not discounted
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    <span
+      className="editButtonWrapper"
+    >
+      <MBButton
+        button_type="link"
+        onClick={[Function]}
+      >
+        <div
+          className="editIcon"
+        >
+          <MBIcon
+            color="mb_red"
+            icon="edit"
+            size="small"
+          />
+        </div>
+        Edit Product
+      </MBButton>
+    </span>
+  </Cell>
+</Row>
+`;

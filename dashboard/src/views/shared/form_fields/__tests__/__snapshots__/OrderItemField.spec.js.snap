@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Dropdown
+  additionLabel="Add "
+  additionPosition="top"
+  className="textInput"
+  closeOnBlur={true}
+  icon="dropdown"
+  minCharacters={1}
+  name="order_item"
+  noResultsMessage="No results found."
+  onChange={[Function]}
+  openOnFocus={true}
+  options={
+    Array [
+      Object {
+        "text": "Budweiser Light — 6 pack, 12 oz bottles — ASDFGHJKL",
+        "value": "Budweiser Light — 6 pack, 12 oz bottles — ASDFGHJKL",
+      },
+      Object {
+        "text": "Cupcake — 750 ml bottle — QWERYUOO",
+        "value": "Cupcake — 750 ml bottle — QWERYUOO",
+      },
+    ]
+  }
+  renderLabel={[Function]}
+  selectOnBlur={true}
+  selection={true}
+/>
+`;

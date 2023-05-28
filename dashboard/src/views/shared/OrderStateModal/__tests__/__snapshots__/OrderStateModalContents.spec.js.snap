@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="container"
+>
+  <OrderTypeIcon
+    type="on_demand"
+  />
+  <h3
+    className="question"
+  >
+    Confirm delivery order for Biggie Smalls - East Coast?
+  </h3>
+  <Connect(OrderStateForm)
+    delivery_method_type="on_demand"
+    is_gift={false}
+    order_id={1}
+    proposed_state="confirmed"
+  />
+</div>
+`;

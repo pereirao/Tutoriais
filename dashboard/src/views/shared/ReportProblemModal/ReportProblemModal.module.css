@@ -1,0 +1,30 @@
+.reportProblemModalHeader {
+  margin-top: 16px !important; /* TODO: remove with themeing; */
+  padding: 0 10px;
+}
+
+.contentWrapper {
+  display: flex;
+  flex-direction: column;
+  align-self: stretch;
+  align-items: stretch;
+  margin-top: 32px;
+}
+
+.reportProblemForm {
+  margin-top: 16px;
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+}
+
+.fieldLabel {
+  text-align: left;
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.formNote {
+  font-size: 14px;
+  color: #6F6F6F;
+}

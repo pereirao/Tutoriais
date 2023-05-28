@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Row>
+  <Cell
+    mobile_hidden={false}
+    mobile_only={true}
+  >
+    <span>
+      <span>
+        Jon BonJovi
+      </span>
+      <br />
+      <span>
+        jbj@minibardelivery.com
+         - 
+        Active
+         
+        - Driver
+      </span>
+    </span>
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    Jon BonJovi
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    jbj@minibardelivery.com
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    Yes
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    Active
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    <MBButton
+      button_type="link"
+      onClick={[Function]}
+    >
+      <div
+        className="editIcon"
+      >
+        <MBIcon
+          color="mb_red"
+          icon="edit"
+          size="small"
+        />
+      </div>
+      Edit Employee
+    </MBButton>
+  </Cell>
+</Row>
+`;

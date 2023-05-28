@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="tableWrapper"
+>
+  <Connect(NewNotificationMethodButton) />
+  <Table>
+    <Header>
+      <HeaderCell
+        mobile_hidden={true}
+      >
+        Type
+      </HeaderCell>
+      <HeaderCell
+        mobile_hidden={true}
+      >
+        Value
+      </HeaderCell>
+      <HeaderCell
+        mobile_hidden={true}
+      >
+        Label
+      </HeaderCell>
+      <HeaderCell
+        mobile_hidden={true}
+      >
+        Status
+      </HeaderCell>
+      <HeaderCell
+        mobile_hidden={true}
+      >
+        Edit
+      </HeaderCell>
+    </Header>
+    <Body>
+      <Connect(NotificationMethodListRow)
+        columns={
+          Array [
+            "mobile_summary",
+            "notification_type",
+            "value",
+            "label",
+            "active",
+            "edit",
+          ]
+        }
+        notification_method={
+          Object {
+            "active": true,
+            "id": 1,
+            "label": "default_factory_notification_method",
+            "type": "sms",
+            "value": "1234567890",
+          }
+        }
+      />
+      <Connect(NotificationMethodListRow)
+        columns={
+          Array [
+            "mobile_summary",
+            "notification_type",
+            "value",
+            "label",
+            "active",
+            "edit",
+          ]
+        }
+        notification_method={
+          Object {
+            "active": true,
+            "id": 2,
+            "label": "default_factory_notification_method",
+            "type": "sms",
+            "value": "1234567890",
+          }
+        }
+      />
+    </Body>
+  </Table>
+</div>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<textarea
+  className="textArea"
+  is_required={true}
+  name="notes"
+  onChange={[Function]}
+  placeholder="Notes"
+/>
+`;

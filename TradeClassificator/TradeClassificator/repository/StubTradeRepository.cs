@@ -21,11 +21,11 @@ namespace TradeClassificator.repository
         {
             return new List<ITrade>()
             {
-                new Trade(2000000, "Private"),
-                new Trade(400000, "Public"),
-                new Trade(500000, "Public"),
-                new Trade(3000000, "Private"),
-                new Trade(30000, "Private"),
+                new Trade(2000000, ClientSectorEnum.Private),
+                new Trade(400000, ClientSectorEnum.Public),
+                new Trade(500000, ClientSectorEnum.Public),
+                new Trade(3000000, ClientSectorEnum.Private),
+                new Trade(30000, ClientSectorEnum.Private),
             };
         }
 

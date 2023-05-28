@@ -1,0 +1,534 @@
+{
+  "alert": {
+    "confirm_delete_employee": "Are you sure you want to permanently delete this employee?",
+    "confirm_delete_notification_method": "Are you sure you want to permanently delete this notification method?"
+  },
+  "body": {
+    "order_comment_directions": "You can type in a custom message. Please be as detailed as possible. Minibar will be notified immediately and will respond here.",
+    "comment_author": {
+      "cx": "{{name}} (Minibar CX)",
+      "employee": "{{name}} (employee)"
+    },
+    "comment_understanding": {
+      "true": "I understand and will proceed accordingly",
+      "false": "I do not understand and would like Minibar to call me to clarify"
+    },
+    "filter_pill": {
+      "query": "Search ‘{{value}}‘",
+      "start": "Starting {{value}}",
+      "end": "Ending {{value}}",
+      "in_stock": {
+        "true": "In Stock Only",
+        "false": "Out of Stock Only"
+      },
+      "on_demand": "Delivery",
+      "shipped": "Shipping",
+      "pickup": "Pickup",
+      "vip": "VIP",
+      "gift": "Gift",
+      "scheduled": "Scheduled",
+      "exception": "Problem"
+    },
+    "notification_timing": {
+      "pickup": "Pick up {{time_string}}",
+      "on_demand": "Deliver {{time_string}}",
+      "shipped": "Ship {{time_string}}",
+      "asap": "ASAP"
+    },
+    "no_drivers": "You don't have any drivers. To update:",
+    "canceled_at": {
+      "zero": "Canceled less than a minute ago",
+      "one": "Canceled {{count}} minute ago",
+      "other": "Canceled {{count}} minutes ago"
+    },
+    "posted_at": {
+      "zero": "Posted less than a minute ago",
+      "one": "Posted {{count}} minute ago",
+      "other": "Posted {{count}} minutes ago"
+    },
+    "report_problem": {
+      "out_of_stock": {
+        "order_item": "Out of Stock",
+        "replacement_item": "Suggested Substitution",
+        "replacement_price": "Price of Suggested Item"
+      },
+      "incorrect_pricing": {
+        "order_item": "Incorrect Pricing",
+        "correct_price": "Correct Price"
+      },
+      "incorrect_listing": {
+        "order_item": "Incorrect Item Listing",
+        "incorrect_listing": "Correction"
+      },
+      "incomplete_address": {
+        "incomplete_address": "Incomplete Delivery Address"
+      },
+      "suspected_fraud": {
+        "suspected_fraud": "Suspected Fraud"
+      },
+      "driver_unavailable": {
+        "driver_unavailable_why": "Driver Unavailable"
+      },
+      "failed_delivery": {
+        "failed_delivery": "Failed Delivery Attempt"
+      },
+      "other": {
+        "other": "Other Problem"
+      }
+    },
+    "timeline_attribution": {
+      "canceled_at": "Canceled",
+      "comment": "Note added by {{name}}",
+      "created_at": "Placed by {{name}} (customer)",
+      "delivered_by": "Delivered by: {{name}}",
+      "confirmed_at": "Confirmed",
+      "en_route_at": {
+        "on_demand": "Marked as Out for Delivery",
+        "pickup": "Marked as Ready for Pickup"
+      },
+      "delivered_at": {
+        "on_demand": "Marked as Delivered",
+        "pickup": "Marked as Picked Up",
+        "shipped": "Marked as Shipped"
+      }
+    },
+    "timestamp": "{{time}} on {{date}}",
+    "results": "{{count}} results for",
+    "sent_to_customer": "SENT TO CUSTOMER:",
+    "help_message_notification": {
+      "success": "Message Sent!",
+      "error": "Couldn't Send Message!"
+    }
+  },
+  "button": {
+    "add_note": "ADD NOTE",
+    "submit_extras": "SAVE",
+    "apply_filters": "APPLY FILTERS",
+    "clear_all": "Clear All",
+    "confirm_order": "CONFIRM ORDER",
+    "download": "DOWNLOAD",
+    "forgot_password": "forgot password?",
+    "in_stock": "IN STOCK",
+    "edit_employee": "Edit Employee",
+    "edit_notification_method": "Edit Notification Method",
+    "edit_notification_method_mobile": "Edit",
+    "edit_product": "Edit Product",
+    "mobile_edit_product": "Edit",
+    "new_employee": "New Employee/Driver",
+    "new_notification_method": "New Notification Method",
+    "on_demand": "Delivery",
+    "out_of_stock": "OUT OF STOCK",
+    "pending": "PENDING...",
+    "exception": "Problem",
+    "filter": "Filter",
+    "generate_report": "GENERATE REPORT",
+    "gift": "Gift",
+    "login": "LOG IN",
+    "negative_understanding": "I NEED HELP, PLEASE CALL",
+    "pickup": "Pickup",
+    "positive_understanding": "OK, I UNDERSTAND",
+    "print": "Print",
+    "refresh": "Orders Have Changed, Click Here To Refresh",
+    "report_problem": "REPORT PROBLEM",
+    "return_to_work": "Return to Work",
+    "scheduled": "Scheduled",
+    "search": "SEARCH",
+    "shipped": "Shipping",
+    "take_break": "Take a Break",
+    "update_state": {
+      "mark_as": "MARK AS",
+      "on_demand": {
+        "scheduled": "CONFIRM INVENTORY",
+        "confirmed": "CONFIRM ORDER",
+        "en_route": "OUT FOR DELIVERY",
+        "delivered": "DELIVERED"
+      },
+      "pickup": {
+        "scheduled": "CONFIRM INVENTORY",
+        "confirmed": "CONFIRM ORDER",
+        "en_route": "READY FOR PICKUP",
+        "delivered": "PICKED UP"
+      },
+      "shipped": {
+        "scheduled": "CONFIRM INVENTORY",
+        "confirmed": "CONFIRM ORDER",
+        "delivered": "SHIPPED"
+      }
+    },
+    "view": "VIEW",
+    "vip": "VIP",
+    "zero": "ZERO"
+  },
+  "header": {
+    "attribute": "ATTRIBUTE",
+    "confirmed": "CONFIRMED",
+    "customer_notes": "CUSTOMER NOTES",
+    "date_range": "DATE RANGE (when order was placed)",
+    "deadline": {
+      "on_demand": "DELIVERY DEADLINE",
+      "shipped": "SHIPPING DEADLINE",
+      "pickup": "READY FOR PICKUP DEADLINE",
+      "scheduled": "SCHEDULED FOR",
+      "time": "Before {{time}}",
+      "window": "Between {{window}}",
+      "eod": "End of Day"
+    },
+    "deliver_to": "DELIVER TO",
+    "delivered": "DELIVERED",
+    "display_state": {
+      "paid": "UNCONFIRMED",
+      "confirmed": "CONFIRMED",
+      "scheduled": {
+        "true": "UNCONFIRMED",
+        "false": "SCHEDULED"
+      },
+      "en_route": {
+        "on_demand": "OUT FOR DELIVERY",
+        "pickup": "READY FOR PICKUP"
+      },
+      "delivered": {
+        "on_demand": "DELIVERED",
+        "shipped": "SHIPPED",
+        "pickup": "PICKED UP"
+      },
+      "canceled": "CANCELED",
+      "exception": "PROBLEM"
+    },
+    "exception": "EXCEPTION",
+    "employee": "employee",
+    "en_route": "EN ROUTE",
+    "fulfillment_method": "FULFILLMENT METHOD",
+    "gift_header": "This is a gift order. Please wrap bottles and attach a gift tag with the gift note:",
+    "items_ordered": "ITEMS ORDERED ({{count}})",
+    "engraving_ordered": "This is an engraving order. Please engrave bottles with the following messages:",
+    "on_demand_closed": {
+      "false": "open for delivery until {{closes_at}}",
+      "true": "closed for delivery until {{opens_at}}"
+    },
+    "order_adjustments": "ORDER ADJUSTMENTS",
+    "order_extras": "Extra Order Information",
+    "order_comments": "ORDER COMMENTS",
+    "order_number": "Order #{{number}}",
+    "tracking_number": "Tracking #{{tracking_number}}",
+    "carrier": "Carrier: {{carrier}}",
+    "order_timeline": "ORDER TIMELINE",
+    "ordered_by": "ORDERED BY",
+    "paid": "PAID",
+    "pickup_closed": {
+      "false": "open for pickup until {{closes_at}}",
+      "true": "closed for pickup until {{opens_at}}"
+    },
+    "recipient": {
+      "shipped": "SHIP TO",
+      "pickup": "PICKUP BY ",
+      "on_demand": "DELIVER TO"
+    },
+    "scheduled": "SCHEDULED",
+    "store_partners": "Store Partners",
+    "to": "to"
+  },
+  "link": {
+    "need_help": "need help?",
+    "back_to_order_list": "Back to Order List",
+    "add_driver": "CLICK HERE TO ADD A DRIVER"
+  },
+  "modal": {
+    "audio_permission": {
+      "title": "Would you like to allow audio notifications?",
+      "disable": "DISABLE",
+      "ok": "OK"
+    },
+    "edit_employee": {
+      "title": "Edit Employee"
+    },
+    "edit_notification_method": {
+      "title": "Edit Notification Method"
+    },
+    "force_refresh": {
+      "title": "This Page is Out of Date",
+      "body": "Please click below to update your Minibar Delivery Partner Dashboard",
+      "reload": "UPDATE DASHBOARD"
+    },
+    "help": {
+      "contact": "Or if you have an emergency and need immediate help...",
+      "message": "For the best response, use the form below to send us a message...",
+      "subject": {
+        "supplies": "Supply Request",
+        "inventory": "Inventory Problem",
+        "late_deliveries": "I Need to Change the Delivery Expectations Temporarily",
+        "reports": "Reports Problem",
+        "invoice": "Invoicing Question",
+        "create_break": "I Need to Take a Break",
+        "change_hours": "I Need to Change my Hours",
+        "change_zone": "I Need to Change my Delivery Zone",
+        "other": "Other",
+        "placeholder": "Choose type of request"
+      },
+      "label": {
+        "supplies": "Click Here to Request Supplies",
+        "inventory": "What is the problem?",
+        "invoice": "How can we help?",
+        "create_break_period": "How long will it take?",
+        "change_delivery_expectation_for_how_long": "For how long would you like to change your delivery expectation?",
+        "new_delivery_expectation": "What is your new delivery expecation?",
+        "change_hours_how": "How would you like to change your hours?",
+        "change_hours_permanence": "Is this a temporary or permanent change?",
+        "change_zone_how": "How would you like to change your zone?",
+        "change_zone_note": "We will follow up within one business day.",
+        "contact_email": "What email address should we reply to?",
+        "other": "Other"
+      },
+      "placeholder": {
+        "email": "email@test.com"
+      },
+      "send": "Send",
+      "phone": "8554870740",
+      "email": "help@minibardelivery.com"
+    },
+    "new_employee": {
+      "submit": "Submit",
+      "title": "Add a New Employee",
+      "error": "Something went wrong"
+    },
+    "new_notification_method": {
+      "notification_type": "Notification Type",
+      "value": "Value",
+      "submit": "Submit",
+      "title": "Add a New Notification Method"
+    },
+    "report_problem": {
+      "title": "Report a problem with this order",
+      "what_problem": "What's the problem?",
+      "choose_problem": "Choose problem",
+      "problem_type": {
+        "out_of_stock": "Out of Stock",
+        "incorrect_pricing": "Incorrect Pricing",
+        "incorrect_listing": "Incorrect Item Listing",
+        "incomplete_address": "Incomplete Delivery Address",
+        "suspected_fraud": "Suspected Fraud",
+        "driver_unavailable": "Driver Unavailable",
+        "failed_delivery": "Failed Delivery Attempt",
+        "other": "Other"
+      },
+      "label": {
+        "what_problem": "What's the problem?",
+        "which_item": "Which Item?",
+        "replacement_item": "What is a good replacement item?",
+        "replacement_price": "What is the price of the replacement item?",
+        "incorrect_pricing": "What should the price be?",
+        "incorrect_listing": "What is wrong with the listed product?",
+        "incomplete_address": "What is wrong with the addess?",
+        "suspected_fraud": "Why do you believe this is a fraudulent order?",
+        "driver_unavailable_why": "Why is your driver unavailable?",
+        "driver_unavailable_when": "When will your driver be available?",
+        "failed_delivery": "Why did the delivery fail?",
+        "other": "What is the issue?"
+      },
+      "failed_delivery": {
+        "not_present": "Customer wasn't present",
+        "customer_refused": "Customer refused delivery",
+        "doorman_refused": "Doorman would not accept the order",
+        "address_not_found": "Address could not be found"
+      },
+      "driver_unavailable_message": "We will contact the customer and {{action}} the order.",
+      "notify_minibar": "Minibar will be notified",
+      "submit": "REPORT PROBLEM"
+    },
+    "minibar_is_closed": {
+      "title": "Minibar is closed",
+      "text": "Minibar is closed so if this issue needs to be handled immediately please reach out to the customer."
+    },
+    "order": "order",
+    "gift": "gift order",
+    "on_demand": {
+      "scheduled": {
+        "question": "Confirm inventory for scheduled delivery order for {{recipient_name}}?",
+        "dsp_notice": "You will be able to choose whether or not to use a DSP when you confirm the order.",
+        "message": "Please ensure you have all of the items in stock before confirming. Don't deliver this order yet!",
+        "button": "CONFIRM INVENTORY"
+      },
+      "confirmed": {
+        "question": "Confirm delivery order for {{recipient_name}}?",
+        "label": {
+          "use_dsp": "Use Delivery Service Provider",
+          "when": "When will you deliver this order?",
+          "assign_driver": "Assign this order to a driver (optional)"
+        },
+        "button": "CONFIRM ORDER",
+        "title": "Please estimate delivery timing"
+      },
+      "en_route": {
+        "question": "Has the order for {{recipient_name}} been sent out for delivery?",
+        "label": {
+          "assign_driver": "Assign this order to a driver (optional)"
+        },
+        "button": "MARK AS OUT FOR DELIVERY"
+      },
+      "delivered": {
+        "question": "Has the {{order_title}} for {{recipient_name}} been delivered?",
+        "label": {
+          "who_signed": "Who signed for the delivery?",
+          "no_name": "We did not collect the recipient's name"
+        },
+        "message": "Please note that we will notify the customer who placed the gift order to confirm that the items were delivered to the person listed here.",
+        "button": "MARK AS DELIVERED"
+      }
+    },
+    "pickup": {
+      "scheduled": {
+        "question": "Confirm inventory for scheduled pickup order for {{recipient_name}}?",
+        "button": "CONFIRM INVENTORY"
+      },
+      "confirmed": {
+        "question": "Confirm pickup order for {{recipient_name}}?",
+        "button": "CONFIRM ORDER"
+      },
+      "en_route": {
+        "question": "Is the order for {{recipient_name}} ready for pickup?",
+        "button": "MARK AS READY FOR PICKUP"
+      },
+      "delivered": {
+        "question": "Has the order for {{recipient_name}} been picked up?",
+        "label": {
+          "who_picked_up": "Who picked up the order?",
+          "no_name": "We did not collect the recipient's name"
+        },
+        "button": "MARK AS PICKED UP"
+      }
+    },
+    "shipped": {
+      "scheduled": {
+        "question": "Confirm inventory for scheduled shipping order for {{recipient_name}}?",
+        "button": "CONFIRM INVENTORY"
+      },
+      "confirmed": {
+        "question": "Confirm shipping order for {{recipient_name}}?",
+        "button": "CONFIRM ORDER"
+      },
+      "delivered": {
+        "question": "Has the order been shipped to {{recipient_name}}?",
+        "label": {
+          "provider": "Shipping Provider",
+          "tracking_number": "Tracking Number"
+        },
+        "button": "MARK AS SHIPPED"
+      }
+    },
+    "store_rating": {
+      "title": "Store Rating",
+      "message": "Your score is influenced by factors like customer ratings, late deliveries, out-of-stock problems.",
+      "good": "KEEP IT UP",
+      "meh": "YOU CAN DO BETTER",
+      "bad": "NEEDS IMPROVEMENT",
+      "goal": "Our best partners maintain a score of 4.75 or above. To get your score up, confirm and deliver orders in a timely manner and keep an accurate inventory to avoid stock issues."
+    }
+  },
+  "notification_card_title": {
+    "comment": "New Comment",
+    "pickup": "Pickup Order",
+    "on_demand": "Delivery Order",
+    "shipped": "Shipping Order"
+  },
+  "placeholder": {
+    "end": "End Date",
+    "end_date": "End Date",
+    "search_orders": "Search name, order number, address",
+    "search_variants": "Search product name, brand, type",
+    "start": "Start Date",
+    "start_date": "Start Date"
+  },
+  "tab": {
+    "orders": "ORDERS",
+    "reports": "REPORTS",
+    "inventory": "INVENTORY",
+    "settings": "SETTINGS",
+    "active": "Active Orders",
+    "completed": "Completed Orders",
+    "future": "Future Orders",
+    "all": "All Orders",
+    "inventory-active": "Active Products",
+    "inventory-pending": "Inactive Products"
+  },
+  "table": {
+    "action": "Action",
+    "adjustment": "Adjustment",
+    "description": "",
+    "active": "Status",
+    "amount": "Amount",
+    "attributes": "Attributes",
+    "cancel": "Cancel",
+    "case_eligible": "Case Eligible",
+    "category": "Category",
+    "date": "Date",
+    "date_range": "Date Range",
+    "deadline": "Deadline",
+    "delete": "Delete",
+    "delivery_fee": "Delivery",
+    "edit": "Edit",
+    "email": "Email",
+    "empty": {
+      "active": "No Active Orders",
+      "future": "No Future Orders",
+      "completed": "No Completed Orders",
+      "all": "No Orders",
+      "variants": "No Products"
+    },
+    "full_name": "Name",
+    "inventory": "Inventory",
+    "download": "Download",
+    "label": "Label",
+    "load_more": "Load More",
+    "method": "Method",
+    "method_type": {
+      "shipped": "Shipping",
+      "pickup": "Pickup",
+      "on_demand": "Delivery"
+    },
+    "tracking": "Tracking #",
+    "minibar_promos": "Minibar Promos",
+    "variant_mobile_main_on_sale": {
+      "true": "{{name}} - {{sale_price}} (On Sale)",
+      "false": "{{name}} - {{price}}"
+    },
+    "variant_mobile_secondary": "{{details}} - {{inventory}} in stock",
+    "notification_type": "Type",
+    "phone": "Phone Number",
+    "price": "Price",
+    "product": "Product",
+    "substitute": "Substitute",
+    "product_name": "Product Name",
+    "volume": "Volume",
+    "substitutions": {
+      "search_empty": "Search for a substitution",
+      "search_idle": "Input something to search for substitutions",
+      "accept": "Accept",
+      "reject": "Reject"
+    },
+    "discounts": "Promos",
+    "quantity": "Qty",
+    "quantity_to_replace": "Qty To Replace",
+    "reason": "Reason",
+    "recipient": "Recipient",
+    "report_type": "Report Type",
+    "roles": "Driver",
+    "sale_price": "Sale Price",
+    "sku": "SKU",
+    "type": "Type",
+    "status": "Status",
+    "submit": "Submit",
+    "subtotal": "Subtotal",
+    "store_discounts": "Supplier Discounts",
+    "tax": "Tax",
+    "tax_no_bottle_fee": "Tax",
+    "bottle_fee": "Bottle Deposit Fee",
+    "time": "Time",
+    "tip": "Tip",
+    "total": "Total",
+    "update_state": "Update Status",
+    "unit_price": "Unit Price",
+    "value": "Value"
+  },
+  "tooltip": {
+    "case_eligible": "This product is eligible for your N% case discount - counts as a sale price, not a promotion reimbursed by Minibar"
+  }
+}

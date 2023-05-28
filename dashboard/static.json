@@ -1,0 +1,19 @@
+{
+  "root": "build/",
+  "clean_urls": false,
+  "routes": {
+    "/": "index.html",
+    "/orders/**": "index.html",
+    "/order/**": "index.html",
+    "/reports": "index.html",
+    "/inventory": "index.html",
+    "/settings": "index.html",
+    "/login": "index.html"
+  },
+  "https_only": true,
+  "headers": {
+    "/**": {
+      "Strict-Transport-Security": "max-age=7776000"
+    }
+  }
+}

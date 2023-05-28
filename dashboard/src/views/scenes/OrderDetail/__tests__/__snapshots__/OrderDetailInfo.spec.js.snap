@@ -1,0 +1,198 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`omits customer notes if not present 1`] = `
+<div
+  className="infoRow"
+>
+  <div
+    className="infoItem"
+  >
+    <div
+      className="sectionHeader"
+    >
+      <p
+        className="sectionTitle"
+      >
+        DELIVER TO
+      </p>
+    </div>
+    <div
+      className="infoItemContents"
+    >
+      <p
+        className="recipientName"
+      >
+        Biggie Smalls - East Coast
+      </p>
+      <OrderAddress
+        formatted_address={
+          Object {
+            "main_text": "21 Jump Street, Apt 5",
+            "secondary_text": "Brooklyn, NY 11206",
+          }
+        }
+      />
+      <p>
+        (555) 555-5555
+      </p>
+    </div>
+  </div>
+  <div
+    className="infoItem"
+  >
+    <div
+      className="sectionHeader"
+    >
+      <p
+        className="sectionTitle"
+      >
+        ORDERED BY
+      </p>
+    </div>
+    <div
+      className="infoItemContents"
+    >
+      <p>
+        Biggie Smalls
+      </p>
+      <p>
+        Amex **** 4321
+      </p>
+    </div>
+  </div>
+  <CustomerNotesSection
+    notes=""
+  />
+</div>
+`;
+
+exports[`omits recipient address if pickup order 1`] = `
+<div
+  className="infoRow"
+>
+  <div
+    className="infoItem"
+  >
+    <div
+      className="sectionHeader"
+    >
+      <p
+        className="sectionTitle"
+      >
+        PICKUP BY 
+      </p>
+    </div>
+    <div
+      className="infoItemContents"
+    >
+      <p
+        className="recipientName"
+      >
+        Biggie Smalls - East Coast
+      </p>
+      <OrderAddress
+        formatted_address={null}
+      />
+      <p>
+        (555) 555-5555
+      </p>
+    </div>
+  </div>
+  <div
+    className="infoItem"
+  >
+    <div
+      className="sectionHeader"
+    >
+      <p
+        className="sectionTitle"
+      >
+        ORDERED BY
+      </p>
+    </div>
+    <div
+      className="infoItemContents"
+    >
+      <p>
+        Biggie Smalls
+      </p>
+      <p>
+        Amex **** 4321
+      </p>
+    </div>
+  </div>
+  <CustomerNotesSection
+    notes="Ring the doorbell"
+  />
+</div>
+`;
+
+exports[`renders CustomerNotesSection correctly 1`] = `null`;
+
+exports[`renders OrderAddress correctly 1`] = `null`;
+
+exports[`renders OrderDetailInfo correctly 1`] = `
+<div
+  className="infoRow"
+>
+  <div
+    className="infoItem"
+  >
+    <div
+      className="sectionHeader"
+    >
+      <p
+        className="sectionTitle"
+      >
+        DELIVER TO
+      </p>
+    </div>
+    <div
+      className="infoItemContents"
+    >
+      <p
+        className="recipientName"
+      >
+        Biggie Smalls - East Coast
+      </p>
+      <OrderAddress
+        formatted_address={
+          Object {
+            "main_text": "21 Jump Street, Apt 5",
+            "secondary_text": "Brooklyn, NY 11206",
+          }
+        }
+      />
+      <p>
+        (555) 555-5555
+      </p>
+    </div>
+  </div>
+  <div
+    className="infoItem"
+  >
+    <div
+      className="sectionHeader"
+    >
+      <p
+        className="sectionTitle"
+      >
+        ORDERED BY
+      </p>
+    </div>
+    <div
+      className="infoItemContents"
+    >
+      <p>
+        Biggie Smalls
+      </p>
+      <p>
+        Amex **** 4321
+      </p>
+    </div>
+  </div>
+  <CustomerNotesSection
+    notes="Ring the doorbell"
+  />
+</div>
+`;

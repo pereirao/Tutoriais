@@ -11,6 +11,9 @@ namespace TradeClassificator
     {
         static void Main(string[] args)
         {
+            IRepository<ITrade> repository = new StubTradeRepository();
+            IEnumerable<ITrade> portfolio = repository.Read();
+
             List<ITradeCategory> categories = new List<ITradeCategory>()
             {
                 new HighRiskCategory(),
@@ -19,9 +22,6 @@ namespace TradeClassificator
             };
 
             TradeCategoryMatcher matcher = new TradeCategoryMatcher(categories);
-
-            IRepository<ITrade> repository = new StubTradeRepository();
-            IEnumerable<ITrade> portfolio = repository.Read();
 
             List<string> output = new List<string>();
             foreach (ITrade trade in portfolio)
@@ -38,6 +38,7 @@ namespace TradeClassificator
             }
 
             Console.WriteLine("{ " + string.Join(", ", output) + " }");
+            Console.ReadKey();
         }
     }
 }

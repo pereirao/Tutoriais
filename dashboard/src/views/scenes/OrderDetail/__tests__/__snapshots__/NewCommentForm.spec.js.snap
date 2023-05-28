@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<MBForm
+  className="newCommentForm"
+  field_spacer_width={16}
+  onSubmit={[Function]}
+  submit_from_last={true}
+  validateSubmittable={[Function]}
+>
+  <p
+    className="commentDirections"
+  >
+    You can type in a custom message. Please be as detailed as possible. Minibar will be notified immediately and will respond here.
+  </p>
+  <FreeResponseField
+    is_required={true}
+    name="body"
+  />
+  <MBFormSubmitButton
+    inverted={false}
+    is_loading={false}
+    text="ADD NOTE"
+    title="Submit form"
+  />
+</MBForm>
+`;

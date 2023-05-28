@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<MBModal
+  closeable={true}
+  size="medium"
+>
+  <h3
+    className="modalHeader"
+  >
+    Add a New Notification Method
+  </h3>
+  <Connect(NewNotificationMethodForm) />
+</MBModal>
+`;

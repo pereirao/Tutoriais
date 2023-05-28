@@ -1,0 +1,39 @@
+.submitButton {
+  margin: 16px 0 0 0;
+  height: 36px;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #222;
+  border-radius: 6px;
+  cursor: pointer;
+  color: #FFF;
+}
+
+.submitButton:hover {
+  background-color: #6F6F6F;
+}
+
+.submitButtonText {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.inverted {
+  background-color: #FFF;
+  color: #222;
+  border: 1px solid #222;
+}
+
+.disabled {
+  background-color: #BFBFBF;
+  color: #FFF;
+}
+
+.disabled:hover {
+  background-color: #BFBFBF;
+  cursor: not-allowed;
+}
+

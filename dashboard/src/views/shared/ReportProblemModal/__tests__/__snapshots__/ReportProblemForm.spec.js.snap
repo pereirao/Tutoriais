@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders form for driver_unavailable problem_type 1`] = `
+<Connect(Component)
+  problem_type="driver_unavailable"
+>
+  <FieldLabel>
+    Why is your driver unavailable?
+  </FieldLabel>
+  <FreeResponseField
+    is_required={true}
+    name="driver_unavailable_why"
+  />
+</Connect(Component)>
+`;
+
+exports[`renders form for failed_delivery problem_type 1`] = `
+<Connect(Component)
+  problem_type="failed_delivery"
+>
+  <FieldLabel>
+    Why did the delivery fail?
+  </FieldLabel>
+  <FreeResponseField
+    is_required={true}
+    name="failed_delivery"
+  />
+</Connect(Component)>
+`;
+
+exports[`renders form for incomplete_address problem_type 1`] = `
+<Connect(Component)
+  problem_type="incomplete_address"
+>
+  <FieldLabel>
+    What is wrong with the addess?
+  </FieldLabel>
+  <FreeResponseField
+    is_required={true}
+    name="incomplete_address"
+  />
+</Connect(Component)>
+`;
+
+exports[`renders form for incorrect_listing problem_type 1`] = `
+<Connect(Component)
+  problem_type="incorrect_listing"
+>
+  <FieldLabel>
+    Which Item?
+  </FieldLabel>
+  <OrderItemField
+    name="order_item"
+  />
+  <FieldLabel>
+    What is wrong with the listed product?
+  </FieldLabel>
+  <FreeResponseField
+    is_required={true}
+    name="incorrect_listing"
+  />
+</Connect(Component)>
+`;
+
+exports[`renders form for incorrect_pricing problem_type 1`] = `
+<Connect(Component)
+  problem_type="incorrect_pricing"
+>
+  <FieldLabel>
+    Which Item?
+  </FieldLabel>
+  <OrderItemField
+    name="order_item"
+  />
+  <FieldLabel>
+    What should the price be?
+  </FieldLabel>
+  <FreeResponseField
+    is_required={true}
+    name="correct_price"
+  />
+</Connect(Component)>
+`;
+
+exports[`renders form for other problem_type 1`] = `
+<Connect(Component)
+  problem_type="other"
+>
+  <FieldLabel>
+    What is the issue?
+  </FieldLabel>
+  <FreeResponseField
+    is_required={true}
+    name="other"
+  />
+</Connect(Component)>
+`;
+
+exports[`renders form for out_of_stock problem_type 1`] = `
+<Connect(Component)
+  problem_type="out_of_stock"
+>
+  <FieldLabel>
+    Which Item?
+  </FieldLabel>
+  <OrderItemField
+    name="order_item"
+  />
+  <FieldLabel>
+    What is a good replacement item?
+  </FieldLabel>
+  <FreeResponseField
+    is_required={true}
+    name="replacement_item"
+  />
+  <FieldLabel>
+    What is the price of the replacement item?
+  </FieldLabel>
+  <FreeResponseField
+    is_required={true}
+    name="replacement_price"
+  />
+</Connect(Component)>
+`;
+
+exports[`renders form for suspected_fraud problem_type 1`] = `
+<Connect(Component)
+  problem_type="suspected_fraud"
+>
+  <FieldLabel>
+    Why do you believe this is a fraudulent order?
+  </FieldLabel>
+  <FreeResponseField
+    is_required={true}
+    name="suspected_fraud"
+  />
+</Connect(Component)>
+`;

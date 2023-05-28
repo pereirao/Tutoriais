@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1 digit correctly 1`] = `
+<div
+  className="noticeCount"
+  style={
+    Object {
+      "width": 20,
+    }
+  }
+>
+  1
+</div>
+`;
+
+exports[`renders 2 digits correctly 1`] = `
+<div
+  className="noticeCount"
+  style={
+    Object {
+      "width": 28,
+    }
+  }
+>
+  10
+</div>
+`;
+
+exports[`renders 3 digits correctly 1`] = `
+<div
+  className="noticeCount"
+  style={
+    Object {
+      "width": 36,
+    }
+  }
+>
+  101
+</div>
+`;

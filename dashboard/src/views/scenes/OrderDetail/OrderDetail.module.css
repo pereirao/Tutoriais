@@ -1,0 +1,477 @@
+.sceneWrapper {
+    height: 100%;
+    padding: 16px;
+    background-color: #E6E6E6;
+}
+
+.loaderWrapper {
+    padding: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.headerNav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.flexRow {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 16px;
+}
+
+.summaryRow {
+    display: flex;
+    border-radius: 3px;
+    background-color: #FFF;
+    border: #9B9B9B 1px solid;
+    padding: 12px 16px 20px;
+    margin-bottom: 16px;
+}
+
+.orderTitleWrapper {
+    display: flex;
+    flex: 2 1 auto;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.orderTitle {
+    font-size: 24px;
+    margin-right: 8px;
+    margin-bottom: 4px;
+}
+
+.attributeIcon {
+    height: 30px;
+    width: 30px;
+    margin-right: 8px;
+}
+
+.orderState {
+    font-size: 18px;
+    margin: 0 !important; /* TODO: remove when semantic allows theming */
+}
+
+/* TODO: consolidate these classes to shared place */
+
+.attention {
+    color: #C70B0E;
+}
+
+.waiting {
+    color: #0076CD;
+}
+
+.stable {
+    color: #6F6F6F;
+}
+
+.success {
+    color: #44A135;
+}
+
+.warning {
+    color: #ED961E;
+}
+
+.deadlineTitle {
+    font-size: 12px;
+}
+
+.deadlineWrapper {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.deadlineDetails {
+    margin-left: 16px;
+}
+
+.deadlineTime {
+    font-size: 16px;
+    margin: 0;
+    text-align: left;
+    color: #222;
+}
+
+.deadlineDate {
+    font-size: 12px;
+    text-align: left;
+    color: #222;
+}
+
+.sectionHeader {
+    flex: 0 1 auto;
+    background-color: #0076CD;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    padding: 4px 8px;
+}
+
+.sectionTitle {
+    font-size: 12px;
+    color: #FFF;
+    text-align: left;
+}
+
+.sectionRow > td:nth-child(2) {
+    max-width: 30px;
+    overflow: hidden;
+}
+
+.sectionContents {
+    flex: 1 0 auto;
+    padding: 8px 16px;
+    background-color: #FFF;
+    border: #9B9B9B 1px solid;
+    border-top-width: initial;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.backToOrderListLink {
+    color: #222;
+    cursor: pointer;
+}
+
+.backToOrderListLink:hover {
+    opacity: 0.5;
+}
+
+
+.buttonsWrapper {
+    flex: 2 1 auto;
+    align-self: stretch;
+    display: flex;
+    margin-right: 8px;
+    margin-top: 16px;
+}
+
+.updateButtonWrapper {
+    flex: 1 0 0;
+    padding-right: 16px;
+}
+
+.reportProblemButtonWrapper {
+    flex: 1 0 0;
+}
+
+.reportProblemButton {
+    border: 1px solid #222;
+    margin: 0;
+    height: 36px;
+    flex: 1 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFF;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.reportProblemButton:hover {
+    background-color: rgba(34, 34, 34, 0.25); /* #222222 with 25% opacity */
+}
+
+.reportProblemButtonText {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.giftDetailsWrapper {
+    border: #9B9B9B 1px solid;
+    border-radius: 3px;
+    margin-bottom: 32px;
+    background-color: #FFF;
+    padding: 16px 8px;
+}
+
+.giftHeader {
+    font-size: 12px;
+    text-align: left;
+    font-style: italic;
+    color: #C70B0E;
+}
+
+.giftMessage {
+    font-size: 14px;
+    text-align: left;
+}
+
+.infoRow {
+    display: flex;
+    align-items: stretch;
+    margin-bottom: 16px;
+}
+
+.infoItem {
+    flex: 1 0 0%;
+    display: flex;
+    flex-direction: column;
+    margin-right: 16px;
+}
+
+.infoItem:last-child {
+    margin-right: 0;
+}
+
+.timelineWrapper {
+    composes: infoItem;
+    margin-right: 8px;
+}
+
+.trackInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.trackInfoRow {
+    margin-top: 0em;
+    margin-Bottom: 0em;
+    font-size: 12px;
+    color: #222;
+}
+
+.extrasWrapper,
+.commentsWrapper {
+    composes: infoItem;
+    margin-left: 8px;
+}
+
+.infoItemContents {
+    composes: sectionContents;
+    text-align: left;
+}
+
+.recipientName {
+    margin: 0;
+}
+
+.addressLine {
+    margin: 0;
+}
+
+.addressLineWrapper {
+    margin-bottom: 16px;
+}
+
+.newExtrasForm,
+.newCommentForm {
+    padding: 8px 16px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+.extrasSectionContents,
+.commentSectionContents {
+    composes: sectionContents;
+    padding: 0;
+}
+
+.commentDirections {
+    font-style: italic;
+}
+
+.commentTranscriptWrapper {
+    border-bottom: 1px solid #E6E6E6;
+}
+
+.commentBubbleWrapper {
+    margin-bottom: 16px;
+}
+
+.commentBubble {
+    background-color: #E6E6E6;
+    margin: 8px;
+    padding: 8px;
+    text-align: left;
+    border-radius: 6px;
+}
+
+.commentBubble.external {
+    background-color: #E6E6E6;
+}
+
+.commentNote {
+    white-space: pre-wrap;
+}
+
+.customerNote {
+    background-color: #FFF;
+    padding: 8px;
+    font-style: italic;
+}
+
+.commentAttribution {
+    text-align: right;
+    font-size: 10px;
+    margin: 8px;
+}
+
+.commentReceptionConfirmation {
+    composes: flexRow;
+    padding-top: 16px;
+    border-top: 1px solid #E6E6E6;
+}
+
+.receptionConfirmationButton {
+    border: 1px solid #222;
+    margin: 0 16px;
+    height: 36px;
+    flex: 1 0 0%;
+    display: flex;
+    font-weight: bold;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFF;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.receptionConfirmationButton:last-child {
+    margin-left: 0;
+}
+
+.receptionConfirmationButton:hover {
+    background-color: rgba(34, 34, 34, 0.25); /* #222222 with 25% opacity */
+}
+
+.engravingContentsWrapper {
+    composes: sectionContents;
+    border: none;
+}
+
+.engravingContents {
+    display: flex;
+    flex-direction: row;
+}
+
+.engravingTitle {
+    margin: 7px 10px;
+}
+
+.engravingTitleText {
+    color: #C70B0E;
+}
+
+.engravingItem {
+    display: flex;
+    flex-direction: column;
+    border-right: 1px black solid;
+    margin: 0 10px;
+    padding-right: 15px;
+}
+
+.engravingLineItem {
+    line-height: 26px;
+}
+
+.engravingItem:last-child {
+    border-right: none;
+}
+
+.entryDot {
+    height: 24px;
+    width: 24px;
+    border-radius: 12px;
+    margin-right: 16px;
+    margin-top: 8px;
+    background-color: #0076CD;
+}
+
+.entryDot.canceled {
+    background-color: #C70B0E;
+}
+
+.entryDot.delivered {
+    background-color: #61BB7C;
+}
+
+.entryDot.comment {
+    background-color: #BE9D58;
+}
+
+.timelineEntry {
+    display: flex;
+}
+
+.timelineEntryText {
+    display: flex;
+    flex-direction: column;
+}
+
+.timelineEntryTitle {
+    margin: 0;
+    text-align: left;
+}
+
+.timelineEntryTimestamp {
+    margin: 0;
+    text-align: left;
+    font-size: 10px;
+}
+
+.separatorLine {
+    height: 12px;
+    width: 1px;
+    margin-left: 12px;
+    margin-top: 6px;
+    background-color: #9B9B9B;
+}
+
+.subHeader {
+    text-align: left;
+    padding: 6px 16px;
+    color: #6F6F6F;
+    font-style: italic;
+}
+
+.mobileOnly {
+    display: none;
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0) {
+    .infoRow {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .flexRow {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .infoItem {
+        flex: 1 1 auto;
+        margin: 16px 0 0 0;
+    }
+
+    .infoItem:first-child {
+        margin: 0;
+    }
+
+    .buttonsWrapper {
+        flex-direction: column;
+    }
+
+    .updateButtonWrapper {
+        flex: 1 0 0%;
+        padding-right: 0;
+        margin-bottom: 8px;
+    }
+
+    .mobileOnly {
+        display: inline;
+    }
+}

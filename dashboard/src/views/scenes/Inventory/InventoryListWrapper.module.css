@@ -1,0 +1,76 @@
+.sceneWrapper {
+  overflow: inherit;
+  height: 100%;
+  padding: 16px;
+  background-color: #E6E6E6;
+}
+
+.inventoryListsWrapper {
+  border: 1px #9B9B9B solid;
+  border-radius: 3px;
+  background-color: #FFF;
+  min-height: 500px;
+}
+
+.tabContentWrapper {
+  padding: 16px;
+}
+
+.listButtonWrapper {
+  width: 130px;
+}
+
+.tabWrapper {
+  display: flex;
+}
+
+.tab {
+  outline: none;
+  transition: border-color 0.3s ease;
+  color: #9B9B9B;
+  display: flex;
+  border-style: solid;
+  border-width: 0 0 1px 0;
+  border-color: #9B9B9B;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 12px 20px;
+  cursor: pointer;
+}
+
+.tab:focus {
+  outline: none;
+}
+
+.activeTab {
+  color: #222;
+  border-width: 1px 1px 0 1px;
+  margin-left: -1px;
+  margin-right: -1px;
+  margin-top: -6px;
+  padding-top: 16px;
+  background-color: #fff;
+  border-top-right-radius: 6px;
+  border-top-left-radius: 6px;
+  cursor: default;
+}
+
+.tabBuffer {
+  flex: 1 0 0;
+  border-style: solid;
+  border-width: 0 0 1px 0;
+  border-color: #9B9B9B;
+}
+
+@media only screen and (max-width: 767px) and (min-width: 0) {
+  .sceneWrapper {
+    padding: 16px 0;
+  }
+  .tab {
+    padding-right: 8px;
+    padding-left: 8px;
+  }
+  .tabContentWrapper {
+    padding: 0;
+  }
+}

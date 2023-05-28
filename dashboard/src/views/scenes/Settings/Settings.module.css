@@ -1,0 +1,223 @@
+.sceneWrapper {
+  height: 100%;
+  padding: 16px;
+  background-color: #E6E6E6;
+}
+
+.tableWrapper {
+  background-color: #FFF;
+  border: 1px #9B9B9B solid;
+  padding: 16px;
+  border-radius: 3px;
+}
+
+.loaderWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inlineButton {
+  flex: 0;
+  height: 32px;
+}
+
+.inlineMarkAs {
+  font-size: 8px;
+  color: #FFF;
+  margin: 0;
+}
+
+.inlineNextState {
+  font-size: 12px;
+  color: #FFF;
+  font-weight: bold;
+  margin: 0;
+}
+
+.mainText {
+  font-size: 14px;
+  font-weight: bold;
+  color: #FFF;
+  margin: 0;
+}
+
+.modalHeader {
+  margin-top: 16px !important; /* TODO: remove with themeing; */
+  padding: 0 10px;
+}
+
+.contentWrapper {
+  display: flex;
+  flex-direction: column;
+  align-self: stretch;
+  align-items: stretch;
+  margin-top: 32px;
+}
+
+.modalForm {
+  margin-top: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.shake {
+  animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+  transform: translate3d(0, 0, 0);
+  perspective: 1000px;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+
+.errorWrapper {
+  color: red;
+  font-size: 10px;
+  margin-top: 14px;
+}
+
+.fieldLabel {
+  text-align: left;
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.formNote {
+  font-size: 14px;
+  color: #6F6F6F;
+}
+
+.buttonsWrapper {
+  flex: 2 0 0;
+  align-self: stretch;
+  display: flex;
+  margin-right: 8px;
+  margin-top: 16px;
+}
+
+.buttonWrapper {
+  flex: 1 0 0;
+}
+
+.button {
+  border: 1px solid #222;
+  margin: 0;
+  height: 36px;
+  flex: 1 0 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFF;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: rgba(34, 34, 34, 0.25); /* #222222 with 25% opacity */
+}
+
+.buttonText {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.contentWrapper {
+  display: flex;
+  flex-direction: column;
+  align-self: stretch;
+  align-items: stretch;
+  margin-top: 32px;
+}
+
+.newForm {
+  margin-top: 16px;
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+}
+
+.fieldLabel {
+  text-align: left;
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.formNote {
+  font-size: 14px;
+  color: #6F6F6F;
+}
+
+.editIcon {
+  margin-right: 3px;
+}
+
+.mobileCell {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+.mobileCellContent {
+  display: flex;
+  justify-content: space-between;
+}
+
+.notificationTable {
+  position: relative;
+  width: 100%;
+}
+.notificationTable tr, .notificationTable td {
+  padding-bottom: 6px;
+}
+
+.notificationTable td:nth-child(1) {
+  font-weight: bold;
+  width: 60px;
+  min-width: 60px;
+  height: 32px;
+  min-height: 32px;
+}
+
+.notificationTable input, select {
+  width: 100%;
+}
+
+.editOptionsWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.deleteIcon {
+  margin-left: 1rem;
+}
+
+.actionsWrapper {
+  display: flex;
+  align-items: center;
+}
+
+.cancelWrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+.mobileCancelWrapper {
+  position: absolute;
+  bottom: 10px;
+  right: 0;
+}

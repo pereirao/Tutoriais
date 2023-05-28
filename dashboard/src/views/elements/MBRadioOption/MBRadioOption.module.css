@@ -1,0 +1,18 @@
+.radioButton {
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #FFF;
+  border: 1px solid #222;
+  border-radius: 14px;
+  cursor: pointer;
+  padding: 4px 12px;
+  margin-right: 6px;
+}
+
+.active {
+  background-color: #0076CD;
+  border-color: #0076CD;
+  color: #FFF;
+}

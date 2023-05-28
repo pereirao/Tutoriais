@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Row>
+  <Cell
+    mobile_hidden={false}
+    mobile_only={true}
+  >
+    <span>
+      <span />
+      <br />
+      <span>
+         - 
+        this_is_a_label
+         - 
+        Active
+      </span>
+    </span>
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  />
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  />
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    this_is_a_label
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    Active
+  </Cell>
+  <Cell
+    mobile_hidden={true}
+    mobile_only={false}
+  >
+    <MBButton
+      button_type="link"
+      onClick={[Function]}
+    >
+      <div
+        className="editIcon"
+      >
+        <MBIcon
+          color="mb_red"
+          icon="edit"
+          size="small"
+        />
+      </div>
+      Edit Notification Method
+    </MBButton>
+  </Cell>
+</Row>
+`;

@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders feed correctly 1`] = `
+<CSSTransitionGroup
+  className="feedWrapper"
+  transitionAppear={true}
+  transitionAppearTimeout={700}
+  transitionEnter={true}
+  transitionEnterTimeout={700}
+  transitionLeave={true}
+  transitionLeaveTimeout={700}
+  transitionName={Object {}}
+>
+  <Connect(NotificationCard)
+    notification_id={1}
+    notification_type="comment"
+    order_id={10}
+  />
+  <Connect(NotificationCard)
+    notification_id={2}
+    notification_type="comment"
+    order_id={10}
+  />
+</CSSTransitionGroup>
+`;

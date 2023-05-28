@@ -1,0 +1,128 @@
+.sceneWrapper {
+    height: 100%;
+    padding: 16px;
+    background-color: #E6E6E6;
+}
+
+.searchWrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.tableWrapper {
+    background-color: #FFF;
+    border: 1px #9B9B9B solid;
+    border-radius: 3px;
+    padding: 16px;
+}
+
+.input {
+    text-align: right;
+}
+
+.inventory_input {
+    width: 50px;
+}
+
+.price_input {
+    width: 100px;
+}
+
+.sale_price_input {
+    width: 100px;
+}
+
+.loaderWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.productDetails {
+    font-size: 10px;
+}
+
+.mobileSummaryWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.mobileEditWrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.variantEditTable {
+    position: relative;
+    width: 100%;
+}
+
+
+.variantEditTable tr, .notificationTable td {
+    padding-bottom: 6px;
+}
+
+.variantEditTable td:nth-child(1) {
+    font-weight: bold;
+    width: 80px;
+    min-width: 80px;
+    height: 32px;
+    min-height: 32px;
+}
+
+.editQuantityWrapper {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 10px;
+    justify-content: center;
+}
+
+.mobileEditButtonWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.mobileInventoryEditField {
+    flex-grow: 1;
+    width: 50px;
+    box-sizing: border-box;
+    border: 1px solid #9b9b9b;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+.mobileInventoryZeroButton {
+    text-align: center;
+    cursor: pointer;
+    padding: 1px 5px;
+    box-sizing: border-box;
+    border: 1px solid #9b9b9b;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    margin-left: 10px;
+}
+
+.editButtonWrapper {
+    min-width: 100px;
+}
+
+.editIcon {
+    margin-right: 3px;
+}
+
+.editButton:hover {
+    background-color: #444;
+}
+
+.editOptionsWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

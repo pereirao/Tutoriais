@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders StoreTitle correctly 1`] = `
+<div
+  className="storeTitleWrapper"
+>
+  <h1
+    className="storeTitle"
+  >
+    House of Liquids
+  </h1>
+  <p
+    className="storeSubTitle"
+  >
+    open daily from dusk til dawn
+  </p>
+</div>
+`;

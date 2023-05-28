@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders inline correctly 1`] = `
+<div
+  className="updateStateButton inlineButton"
+  onClick={[Function]}
+>
+  <p
+    className="inlineMarkAs"
+  >
+    MARK AS
+  </p>
+  <p
+    className="inlineNextState"
+  >
+    CONFIRM ORDER
+  </p>
+</div>
+`;
+
+exports[`renders non-inline correctly 1`] = `
+<div
+  className="updateStateButton"
+  onClick={[Function]}
+>
+  <p
+    className="mainText"
+  >
+    CONFIRM ORDER
+  </p>
+</div>
+`;

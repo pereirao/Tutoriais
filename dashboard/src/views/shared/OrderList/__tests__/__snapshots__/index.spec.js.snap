@@ -1,0 +1,158 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    className="actionRow"
+  >
+    <SearchInput
+      onChange={[Function]}
+      placeholder="Search name, order number, address"
+      submit={[Function]}
+    />
+    <OrderFiltersModal
+      applyFilters={[Function]}
+      are_applied_filters={false}
+      filters={
+        Object {
+          "attributes": Array [],
+          "date_range": Object {
+            "end": null,
+            "start": null,
+          },
+          "delivery_method_types": Array [],
+        }
+      }
+      setDateFilter={[Function]}
+      toggleFilter={[Function]}
+      toggleVisibility={[Function]}
+      visible={false}
+    />
+  </div>
+  <RefreshList
+    refresh={[Function]}
+  />
+  <AppliedFilters
+    clearFilters={[Function]}
+    filters={Array []}
+    removeFilter={[Function]}
+  />
+  <Connect(OrderTable)
+    orders={
+      Array [
+        Object {
+          "address": Object {
+            "address1": "21 Jump Street",
+            "address2": "Apt 5",
+            "city": "Brooklyn",
+            "coords": Object {
+              "lat": 40.719507,
+              "lng": -73.941461,
+            },
+            "state": "NY",
+            "zip_code": 11206,
+          },
+          "amounts": Object {
+            "delivery_fee": 5,
+            "minibar_promos": 2.35,
+            "store_discounts": 2,
+            "subtotal": 43.47,
+            "tax": 3.48,
+            "tip": 4.35,
+            "total": 51.95,
+          },
+          "billing": Object {
+            "cc_type": "Amex",
+            "last_digits": "4321",
+          },
+          "comment_ids": Array [],
+          "customer_name": "Biggie Smalls",
+          "delivery_method": Object {
+            "maximum_delivery_expectation": 60,
+            "type": "on_demand",
+          },
+          "driver_id": 15,
+          "id": 1,
+          "notes": "Ring the doorbell",
+          "number": 1,
+          "order_items": Array [],
+          "order_time": "2017-01-01T00:00:00-05:00",
+          "receipt_url": "http://www.minibardelivery.com",
+          "recipient_info": Object {
+            "long_name": "Biggie Smalls - East Coast",
+            "phone": "5555555555",
+            "short_name": "Biggie Smalls",
+          },
+          "state": "paid",
+          "type_tags": Object {
+            "corporate": false,
+            "gift": false,
+            "out_of_hours": false,
+            "scheduled": false,
+            "vip": true,
+          },
+        },
+        Object {
+          "address": Object {
+            "address1": "21 Jump Street",
+            "address2": "Apt 5",
+            "city": "Brooklyn",
+            "coords": Object {
+              "lat": 40.719507,
+              "lng": -73.941461,
+            },
+            "state": "NY",
+            "zip_code": 11206,
+          },
+          "amounts": Object {
+            "delivery_fee": 5,
+            "minibar_promos": 2.35,
+            "store_discounts": 2,
+            "subtotal": 43.47,
+            "tax": 3.48,
+            "tip": 4.35,
+            "total": 51.95,
+          },
+          "billing": Object {
+            "cc_type": "Amex",
+            "last_digits": "4321",
+          },
+          "comment_ids": Array [],
+          "customer_name": "Biggie Smalls",
+          "delivery_method": Object {
+            "maximum_delivery_expectation": 60,
+            "type": "on_demand",
+          },
+          "driver_id": 15,
+          "id": 2,
+          "notes": "Ring the doorbell",
+          "number": 2,
+          "order_items": Array [],
+          "order_time": "2017-01-01T00:00:00-05:00",
+          "receipt_url": "http://www.minibardelivery.com",
+          "recipient_info": Object {
+            "long_name": "Biggie Smalls - East Coast",
+            "phone": "5555555555",
+            "short_name": "Biggie Smalls",
+          },
+          "state": "paid",
+          "type_tags": Object {
+            "corporate": false,
+            "gift": false,
+            "out_of_hours": false,
+            "scheduled": false,
+            "vip": true,
+          },
+        },
+      ]
+    }
+    updateable={true}
+  />
+  <Footer
+    empty_message="No Active Orders"
+    has_more={false}
+    is_empty={false}
+    loadMore={[Function]}
+  />
+</div>
+`;

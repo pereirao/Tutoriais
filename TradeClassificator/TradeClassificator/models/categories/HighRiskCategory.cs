@@ -6,7 +6,7 @@
 
         public bool Match(ITrade trade)
         {
-            return trade.Value > 1_000_000 && trade.ClientSector == "Private";
+            return trade.Value > 1_000_000 && trade.ClientSector == ClientSectorEnum.Private;
         }
     }
 }
